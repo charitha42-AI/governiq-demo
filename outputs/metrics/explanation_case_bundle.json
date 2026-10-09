@@ -1,0 +1,171 @@
+{
+  "schema_version": "1.0",
+  "relationship_between_channels": "complementary demonstrations; no record-level join",
+  "model_channel": {
+    "dataset": "synthetic benchmark",
+    "selected_model": "Tuned_Logistic_regression",
+    "contribution_units": "log-odds",
+    "probabilities_calibrated": false,
+    "cases": [
+      {
+        "Project_ID": "PROJ_0330",
+        "quadrant": "TP",
+        "actual": 1,
+        "predicted": 1,
+        "model_score": 0.7076073510402621,
+        "base_log_odds": 0.13615283229292444,
+        "top_increasing_features": "[\"Stakeholder_Engagement_Level\", \"Complexity_Score\", \"Technical_Debt_Level\"]",
+        "top_decreasing_features": "[\"Change_Control_Maturity\", \"Executive_Sponsorship\", \"Methodology_Used\"]",
+        "selection_rule": "nearest quadrant median score; ID tie-break",
+        "interpretation": "Explains model behaviour relative to training background; not a causal diagnosis"
+      },
+      {
+        "Project_ID": "PROJ_1594",
+        "quadrant": "TN",
+        "actual": 0,
+        "predicted": 0,
+        "model_score": 0.2929681682276598,
+        "base_log_odds": 0.13615283229292444,
+        "top_increasing_features": "[\"Complexity_Score\", \"Project_Budget_USD\", \"Executive_Sponsorship\"]",
+        "top_decreasing_features": "[\"Stakeholder_Engagement_Level\", \"Team_Experience_Level\", \"Methodology_Used\"]",
+        "selection_rule": "nearest quadrant median score; ID tie-break",
+        "interpretation": "Explains model behaviour relative to training background; not a causal diagnosis"
+      },
+      {
+        "Project_ID": "PROJ_1553",
+        "quadrant": "FP",
+        "actual": 0,
+        "predicted": 1,
+        "model_score": 0.6140765570925947,
+        "base_log_odds": 0.13615283229292444,
+        "top_increasing_features": "[\"Complexity_Score\", \"Methodology_Used\", \"Technical_Debt_Level\"]",
+        "top_decreasing_features": "[\"Stakeholder_Engagement_Level\", \"Team_Experience_Level\", \"Change_Request_Frequency\"]",
+        "selection_rule": "nearest quadrant median score; ID tie-break",
+        "interpretation": "Explains model behaviour relative to training background; not a causal diagnosis"
+      },
+      {
+        "Project_ID": "PROJ_1334",
+        "quadrant": "FN",
+        "actual": 1,
+        "predicted": 0,
+        "model_score": 0.3502406845494212,
+        "base_log_odds": 0.13615283229292444,
+        "top_increasing_features": "[\"Stakeholder_Engagement_Level\", \"Change_Control_Maturity\", \"Risk_Management_Maturity\"]",
+        "top_decreasing_features": "[\"Complexity_Score\", \"Methodology_Used\", \"Executive_Sponsorship\"]",
+        "selection_rule": "nearest quadrant median score; ID tie-break",
+        "interpretation": "Explains model behaviour relative to training background; not a causal diagnosis"
+      }
+    ],
+    "contribution_file": "outputs/metrics/shap_local_contributions.csv"
+  },
+  "graph_channel": {
+    "dataset": "real portfolio",
+    "cases": [
+      {
+        "path_id": "P01:EXAMPLE",
+        "project_id": "P01",
+        "source": "P01:WBS:1",
+        "target": "P01:WBS:215",
+        "source_name": "CONTRACT AWARD",
+        "target_name": "Excavate for, Supply, Place and Finish Additional N25 Concrete",
+        "hops": 20,
+        "path": "[\"P01:WBS:1\", \"P01:WBS:4\", \"P01:WBS:14\", \"P01:WBS:17\", \"P01:WBS:19\", \"P01:WBS:29\", \"P01:WBS:32\", \"P01:WBS:33\", \"P01:WBS:38\", \"P01:WBS:212\", \"P01:WBS:51\", \"P01:WBS:54\", \"P01:WBS:50\", \"P01:WBS:60\", \"P01:WBS:61\", \"P01:WBS:62\", \"P01:WBS:65\", \"P01:WBS:66\", \"P01:WBS:67\", \"P01:WBS:216\", \"P01:WBS:215\"]",
+        "evidence_bases": "[\"source_reciprocal\"]",
+        "has_pending_review": true,
+        "explanation": "CONTRACT AWARD connects to Excavate for, Supply, Place and Finish Additional N25 Concrete through 20 dependency hops. Review potential downstream exposure; this is not a delay prediction."
+      },
+      {
+        "path_id": "P02:EXAMPLE",
+        "project_id": "P02",
+        "source": "P02:WBS:1",
+        "target": "P02:WBS:40",
+        "source_name": "Contract Award",
+        "target_name": "Supply and Placement of the non-perforated delivery pipe",
+        "hops": 11,
+        "path": "[\"P02:WBS:1\", \"P02:WBS:5\", \"P02:WBS:4\", \"P02:WBS:8\", \"P02:WBS:9\", \"P02:WBS:10\", \"P02:WBS:11\", \"P02:WBS:12\", \"P02:WBS:33\", \"P02:WBS:38\", \"P02:WBS:39\", \"P02:WBS:40\"]",
+        "evidence_bases": "[\"source_reciprocal\"]",
+        "has_pending_review": true,
+        "explanation": "Contract Award connects to Supply and Placement of the non-perforated delivery pipe through 11 dependency hops. Review potential downstream exposure; this is not a delay prediction."
+      },
+      {
+        "path_id": "P03:EXAMPLE",
+        "project_id": "P03",
+        "source": "P03:WBS:1",
+        "target": "P03:WBS:67",
+        "source_name": "CONTRACT AWARD",
+        "target_name": "1/600 x 300 Cast Insitu Endwall and Apron to Main Roads Std Dwgs 1304 and 1371 Complete in place, incl. Excavate, supply and construct",
+        "hops": 22,
+        "path": "[\"P03:WBS:1\", \"P03:WBS:5\", \"P03:WBS:45\", \"P03:WBS:46\", \"P03:WBS:47\", \"P03:WBS:48\", \"P03:WBS:49\", \"P03:WBS:50\", \"P03:WBS:51\", \"P03:WBS:54\", \"P03:WBS:55\", \"P03:WBS:56\", \"P03:WBS:57\", \"P03:WBS:58\", \"P03:WBS:59\", \"P03:WBS:60\", \"P03:WBS:61\", \"P03:WBS:62\", \"P03:WBS:63\", \"P03:WBS:64\", \"P03:WBS:65\", \"P03:WBS:66\", \"P03:WBS:67\"]",
+        "evidence_bases": "[\"reconciled_inference\", \"source_reciprocal\"]",
+        "has_pending_review": true,
+        "explanation": "CONTRACT AWARD connects to 1/600 x 300 Cast Insitu Endwall and Apron to Main Roads Std Dwgs 1304 and 1371 Complete in place, incl. Excavate, supply and construct through 22 dependency hops. Review potential downstream exposure; this is not a delay prediction."
+      },
+      {
+        "path_id": "P04:EXAMPLE",
+        "project_id": "P04",
+        "source": "P04:WBS:4",
+        "target": "P04:WBS:10",
+        "source_name": "Stabilising",
+        "target_name": "Practical Completion",
+        "hops": 2,
+        "path": "[\"P04:WBS:4\", \"P04:WBS:6\", \"P04:WBS:10\"]",
+        "evidence_bases": "[\"source_reciprocal\"]",
+        "has_pending_review": true,
+        "explanation": "Stabilising connects to Practical Completion through 2 dependency hops. Review potential downstream exposure; this is not a delay prediction."
+      },
+      {
+        "path_id": "P05:EXAMPLE",
+        "project_id": "P05",
+        "source": "P05:WBS:3",
+        "target": "P05:WBS:79",
+        "source_name": "Contract Award",
+        "target_name": "Culvert 6V - 1200 x 450 (9.6m) Under Road",
+        "hops": 23,
+        "path": "[\"P05:WBS:3\", \"P05:WBS:109\", \"P05:WBS:37\", \"P05:WBS:107\", \"P05:WBS:42\", \"P05:WBS:43\", \"P05:WBS:44\", \"P05:WBS:45\", \"P05:WBS:54\", \"P05:WBS:55\", \"P05:WBS:56\", \"P05:WBS:57\", \"P05:WBS:58\", \"P05:WBS:59\", \"P05:WBS:60\", \"P05:WBS:61\", \"P05:WBS:62\", \"P05:WBS:63\", \"P05:WBS:64\", \"P05:WBS:65\", \"P05:WBS:66\", \"P05:WBS:67\", \"P05:WBS:68\", \"P05:WBS:79\"]",
+        "evidence_bases": "[\"source_reciprocal\"]",
+        "has_pending_review": true,
+        "explanation": "Contract Award connects to Culvert 6V - 1200 x 450 (9.6m) Under Road through 23 dependency hops. Review potential downstream exposure; this is not a delay prediction."
+      },
+      {
+        "path_id": "P06:EXAMPLE",
+        "project_id": "P06",
+        "source": "P06:WBS:1",
+        "target": "P06:WBS:139",
+        "source_name": "Contract Award",
+        "target_name": "(ii) 14mm Nominal Size",
+        "hops": 18,
+        "path": "[\"P06:WBS:1\", \"P06:WBS:600\", \"P06:WBS:115\", \"P06:WBS:116\", \"P06:WBS:117\", \"P06:WBS:120\", \"P06:WBS:122\", \"P06:WBS:123\", \"P06:WBS:124\", \"P06:WBS:125\", \"P06:WBS:126\", \"P06:WBS:127\", \"P06:WBS:129\", \"P06:WBS:130\", \"P06:WBS:132\", \"P06:WBS:131\", \"P06:WBS:136\", \"P06:WBS:138\", \"P06:WBS:139\"]",
+        "evidence_bases": "[\"source_reciprocal\"]",
+        "has_pending_review": false,
+        "explanation": "Contract Award connects to (ii) 14mm Nominal Size through 18 dependency hops. Review potential downstream exposure; this is not a delay prediction."
+      },
+      {
+        "path_id": "P17:EXAMPLE",
+        "project_id": "P17",
+        "source": "P17:ROW:3",
+        "target": "P17:WBS:78",
+        "source_name": "CONTRACT AWARD",
+        "target_name": "PRESSURE SEWER SYSTEM - Demolish existing sewer manhole and connect to existing 225 diameter sewer main, incl. liaison with Council and plugging of downstream manhole",
+        "hops": 23,
+        "path": "[\"P17:ROW:3\", \"P17:WBS:5\", \"P17:WBS:35\", \"P17:WBS:6\", \"P17:WBS:7\", \"P17:WBS:8\", \"P17:WBS:9\", \"P17:WBS:10\", \"P17:WBS:16\", \"P17:WBS:36\", \"P17:WBS:49\", \"P17:WBS:50\", \"P17:WBS:51\", \"P17:WBS:52\", \"P17:WBS:53\", \"P17:WBS:111\", \"P17:WBS:62\", \"P17:WBS:63\", \"P17:WBS:64\", \"P17:WBS:67\", \"P17:WBS:73\", \"P17:WBS:74\", \"P17:WBS:75\", \"P17:WBS:78\"]",
+        "evidence_bases": "[\"reconciled_inference\", \"source_reciprocal\"]",
+        "has_pending_review": true,
+        "explanation": "CONTRACT AWARD connects to PRESSURE SEWER SYSTEM - Demolish existing sewer manhole and connect to existing 225 diameter sewer main, incl. liaison with Council and plugging of downstream manhole through 23 dependency hops. Review potential downstream exposure; this is not a delay prediction."
+      },
+      {
+        "path_id": "P18:EXAMPLE",
+        "project_id": "P18",
+        "source": "P18:WBS:1",
+        "target": "P18:WBS:96.11",
+        "source_name": "HSC 14/12 REHABILITATION OF MULTIPLE ROADS AND STREETS",
+        "target_name": "Taraken Road",
+        "hops": 52,
+        "path": "[\"P18:WBS:1\", \"P18:WBS:11\", \"P18:WBS:22\", \"P18:WBS:42\", \"P18:WBS:57.08\", \"P18:WBS:85.08\", \"P18:WBS:82.08\", \"P18:WBS:79.08\", \"P18:WBS:27\", \"P18:WBS:47\", \"P18:WBS:57.13\", \"P18:WBS:85.13\", \"P18:WBS:82.13\", \"P18:WBS:79.13\", \"P18:WBS:16\", \"P18:WBS:36\", \"P18:WBS:57.02\", \"P18:WBS:85.02\", \"P18:WBS:82.02\", \"P18:WBS:79.02\", \"P18:WBS:17\", \"P18:WBS:37\", \"P18:WBS:57.03\", \"P18:WBS:85.03\", \"P18:WBS:82.03\", \"P18:WBS:79.03\", \"P18:WBS:18\", \"P18:WBS:38\", \"P18:WBS:57.04\", \"P18:WBS:85.04\", \"P18:WBS:82.04\", \"P18:WBS:79.04\", \"P18:WBS:19\", \"P18:WBS:39\", \"P18:WBS:57.05\", \"P18:WBS:85.05\", \"P18:WBS:82.05\", \"P18:WBS:79.05\", \"P18:WBS:20\", \"P18:WBS:40\", \"P18:WBS:57.06\", \"P18:WBS:85.06\", \"P18:WBS:82.06\", \"P18:WBS:79.06\", \"P18:WBS:25\", \"P18:WBS:45\", \"P18:WBS:57.11\", \"P18:WBS:85.11\", \"P18:WBS:82.11\", \"P18:WBS:79.11\", \"P18:WBS:93.11\", \"P18:WBS:94.11\", \"P18:WBS:96.11\"]",
+        "evidence_bases": "[\"source_reciprocal\"]",
+        "has_pending_review": true,
+        "explanation": "HSC 14/12 REHABILITATION OF MULTIPLE ROADS AND STREETS connects to Taraken Road through 52 dependency hops. Review potential downstream exposure; this is not a delay prediction."
+      }
+    ],
+    "evidence_file": "outputs/metrics/relational_explanation_evidence.csv"
+  }
+}

@@ -1,0 +1,5 @@
+objective,implementation_evidence,limitation
+O1 — model governance entities/relationships,"Projects, source task records, catalogue resources and dependency graph","Decisions, approvals, issues and formal programme governance structures absent from source"
+O2 — critically analyse requirements and existing systems,Source limitations and implementation choices documented,Literature synthesis and descriptive system benchmarking remain dissertation work
+"O3 — implement KG, predictive AI and explanations",Executed Notebooks 01–06; separate real-graph and synthetic-model explanation channels,Presentation-level integration; no validated record-level KG-to-ML prediction pipeline
+O4 — evaluate decision-support capability,"Functional checks, graph sensitivity, nested CV, error analysis and explanation fidelity",Human correctness review and expert/user usefulness evaluation remain incomplete

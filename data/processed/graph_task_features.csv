@@ -1,0 +1,1180 @@
+variant,project_id,task_id,task_name,direct_prerequisites,direct_dependents,upstream_tasks,downstream_tasks,degree_centrality,betweenness,in_cycle
+accepted,P01,P01:WBS:1,CONTRACT AWARD,0,5,0,179,0.02066115702479339,0.0,False
+accepted,P01,P01:WBS:10,Portable Long Service Levy,1,1,1,176,0.008264462809917356,0.0,False
+accepted,P01,P01:WBS:100,ELECTRICAL AND LIGHTING,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:101,"Trenching for electrical, lighting and communications service Conduits, complete in place, including trenching, backfilling, reinstatment of surface and maintence of trench while open. (trench configuration not specified)",1,8,21,99,0.0371900826446281,0.010661092142603508,False
+accepted,P01,P01:WBS:102,"Supply only of electrical conduits (100 diameter), conuits and marker tape",2,2,22,34,0.01652892561983471,0.0015745916349462182,False
+accepted,P01,P01:WBS:103,"Supply only of electrical conduits (40 diameter), conuits and marker tape",2,1,22,8,0.012396694214876033,8.573094201159082e-05,False
+accepted,P01,P01:WBS:104,"Supply only, conduits and marker tape",2,1,22,8,0.012396694214876033,8.573094201159082e-05,False
+accepted,P01,P01:WBS:105,"Installation of electrical pit, complete in place, including trenching, bedding, supplying, laying, marker tape/hard cover and backfill. (trench configuration not specified)",4,2,25,7,0.024793388429752067,0.0019889578546689072,False
+accepted,P01,P01:WBS:106,"Installation of communications pit, complete in place, including trenching, bedding, supplying, laying, marker tape/hard cover and backfill. (trench configuration not specified)",1,1,26,5,0.008264462809917356,0.0014402798257947258,False
+accepted,P01,P01:WBS:107,"Supply and installation of distribution board complete in place including all ground works, plinth and circuit breakers",2,1,27,4,0.012396694214876033,0.0014059874489900895,False
+accepted,P01,P01:WBS:108,Supply and installation of electrical and communication conduits to gate controllers from nearest pits including all trenching and coordination with gate installer,1,1,28,3,0.008264462809917356,0.0009944789273344536,False
+accepted,P01,P01:WBS:109,Supply and installation of electrical and communication conduits to ticket machines from nearest pits including all trenching and coordination with ticket machine installer,1,1,29,2,0.008264462809917356,0.0005486780288741813,False
+accepted,P01,P01:WBS:11,Enviromental Management (including ASS management),1,1,1,176,0.008264462809917356,0.0,False
+accepted,P01,P01:WBS:110,"Supply and installation of new car park lights and poles to match existing including footing installation, pole and all cabling from distribution board",1,1,45,2,0.008264462809917356,0.0006515551592880903,False
+accepted,P01,P01:WBS:111,"Supply and installation of services pillar at car wash bays P1, P2,P3 incl socket outlets (IP56), Safety Switch and Hose Cock and all cabling back to distribution board including all cabling back to distribution board",2,1,54,1,0.012396694214876033,0.0003429237680463633,False
+accepted,P01,P01:WBS:112,MISCELLANEOUS,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:113,Existing Services,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:114,"Service Conduit Crossings and Alterations to existing services, as required",0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:115,Existing above ground services to be raised to compliment proposed earthworks level (50mm),1,1,49,19,0.008264462809917356,0.0015260107678063167,False
+accepted,P01,P01:WBS:116,Fencing & Vehicle Barriers,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:117,Vehicle Barriers - CCA Treated Logs,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:118,Trafficked roadways and busbays within the extents of stage 1 boundary,2,2,66,9,0.01652892561983471,0.005738257718642479,False
+accepted,P01,P01:WBS:119,Extension of Trafficked roadways beyond stage 1 boundary. (prevent vehicles leaving roadway and parking outside formal carpark),2,1,108,7,0.012396694214876033,0.011282191968725352,False
+accepted,P01,P01:WBS:12,Provision for Water,1,1,5,1,0.008264462809917356,3.14346787375833e-05,False
+accepted,P01,P01:WBS:120,Public Carpark,1,1,109,6,0.008264462809917356,0.0095332807516889,False
+accepted,P01,P01:WBS:121,Pedestrian Safety Fence,1,2,110,5,0.012396694214876033,0.0077500771578478105,False
+accepted,P01,P01:WBS:122,Supply & Installation of Fixed Bollards,2,2,112,3,0.01652892561983471,0.004080792839751724,False
+accepted,P01,P01:WBS:123,Temporary Fencing & Signage,1,1,113,1,0.008264462809917356,0.00012859641301738624,False
+accepted,P01,P01:WBS:124,SCHEDULE B - SEWER WORKS,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:125,EARTHWORKS,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:126,Clearing & Grubbing,1,1,8,26,0.008264462809917356,0.003120606289221906,False
+accepted,P01,P01:WBS:127,Strip & Stockpile Topsoil,1,2,9,25,0.012396694214876033,0.0034120914920613148,False
+accepted,P01,P01:WBS:128,Placement of Topsoil,1,1,17,3,0.008264462809917356,0.00040293542745447686,False
+accepted,P01,P01:WBS:129,Disposal of excess topsoil as directed,1,1,18,2,0.008264462809917356,0.0001457426014197044,False
+accepted,P01,P01:WBS:13,SEDIMENT & EROSION CONTROL,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:130,Gravel access and hardstand from airport pit min CBR10 300 thick(Provisional),1,2,10,6,0.012396694214876033,0.000823017043311272,False
+accepted,P01,P01:WBS:131,SEWER WORKS,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:132,Gravity Sewer,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:133,Connection of existing DN100 AC gravity sewers to new ssanitary drain,4,1,20,3,0.02066115702479339,0.0006772744418915676,False
+accepted,P01,P01:WBS:134,Decommision existing Septic Tanks and associated pipework (excluding demolition of tanks - refer schedule A),1,1,21,2,0.008264462809917356,0.00036864305064984054,False
+accepted,P01,P01:WBS:135,Sewerage Pump Station,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:136,"Supply & delivery of Proprietry PE Pump Station (incl pumps, pipework, electrical controls etc)",2,1,11,19,0.012396694214876033,0.0027090977675662702,False
+accepted,P01,P01:WBS:137,Installation of Sewerage Pump Station (including concrete ballast),1,1,12,18,0.008264462809917356,0.0028291210863824975,False
+accepted,P01,P01:WBS:138,Connection of gravity sewer pipe,1,1,13,17,0.008264462809917356,0.002914852028394088,False
+accepted,P01,P01:WBS:139,Supply and construction of DN50 vent,1,1,14,16,0.008264462809917356,0.002966290593601043,False
+accepted,P01,P01:WBS:14,"Establishment and maintenance of interim site drainage as required, sediment and erosion control devices as nominated on drawings and as directed by the Superintendent complete in place",1,1,5,171,0.008264462809917356,0.012208086142450534,False
+accepted,P01,P01:WBS:140,Electrical connections from mains supply,1,1,15,15,0.008264462809917356,0.002983436782003361,False
+accepted,P01,P01:WBS:141,Commisioning Pump Station and electrical controls,1,4,16,14,0.02066115702479339,0.002966290593601043,False
+accepted,P01,P01:WBS:142,Rising Main,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:143,"Supply and construction of DN32 PE rising main (40OD PE100 PN16) incl 3 No. tees, ball vavles, pits for future STP connection",1,2,10,22,0.012396694214876033,0.0026748053907616337,False
+accepted,P01,P01:WBS:144,Connection to new wet weather storage tanks,1,2,11,5,0.012396694214876033,0.00027433901443709065,False
+accepted,P01,P01:WBS:145,Water Supply,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:146,Supply and construction of DN32 PE water supply main (40OD PE100 PN16) to carpark hosecocks.,1,1,21,86,0.008264462809917356,0.00036006995644868146,False
+accepted,P01,P01:WBS:147,Supply and installation of DN32 RPZD in enclosure complete,1,1,65,2,0.008264462809917356,0.001140221528754158,False
+accepted,P01,P01:WBS:148,"Supply, installation & connection of hosecocks to carwash Service Pillars complete (excluding pillars, refer Schedule A, 6.11)",1,1,66,1,0.008264462809917356,4.286547100579541e-05,False
+accepted,P01,P01:WBS:149,Supply and construct DN25 water supply main (32OD PE100 PN16) to STP,1,1,22,85,0.008264462809917356,0.001457426014197044,False
+accepted,P01,P01:WBS:15,EARTHWORKS,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:150,Miscellaneous,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:151,Gate to STP Access,1,0,17,0,0.004132231404958678,0.0,False
+accepted,P01,P01:WBS:152,PROJECT OVERHEADS (TO BE SPREAD ACROSS ABOVE ITEMS),0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:153,Project Supervision,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:154,Project Engineer,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:155,Resource Balance,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:156,Dual Grade Laser,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:157,Site Facilities,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:158,Wet Weather,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:159,Additional Clearing & Grubbing - Moving rental car park 10m to the north to avoid fibre optic cable.,1,1,8,140,0.008264462809917356,0.0,False
+accepted,P01,P01:WBS:16,Tree Protection,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:160,Additional Material for Revised Levels (Main Pad),0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:161,Additional Imported General Fill (BOQ Item 3.3.5),1,1,15,120,0.008264462809917356,0.0,False
+accepted,P01,P01:WBS:162,"Additional Fill, road base gravel, spray seal & AC to elongated access ramp",0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:163,Imported General Fill (BOQ Item 3.3.5),1,2,15,29,0.012396694214876033,0.00021718505309603012,False
+accepted,P01,P01:WBS:164,Additional sub-grade preparation (BOQ item 4.1),3,2,24,27,0.02066115702479339,0.001971811666266589,False
+accepted,P01,P01:WBS:165,Additional 2.3 Material (BOQ Item 4.2.3.2),4,2,53,25,0.024793388429752067,0.007001360264279917,False
+accepted,P01,P01:WBS:166,Additional 2.1 Material (BOQ Item 4.2.3.1),3,1,80,23,0.01652892561983471,0.009110055667958345,False
+accepted,P01,P01:WBS:167,Additional final trim (BOQ Item 4.3),2,1,81,22,0.012396694214876033,0.008241315455574227,False
+accepted,P01,P01:WBS:168,Additional Spray Seal (BOQ Item 4.5.1.1),2,1,82,21,0.012396694214876033,0.007818661911457083,False
+accepted,P01,P01:WBS:169,Additional AC (BOQ Item 4.5.1.2),2,1,83,20,0.012396694214876033,0.007264268486448795,False
+accepted,P01,P01:WBS:17,"Tree protection including installation, maintenance and removal at the completion of works (Provisional Quantity)",1,1,6,170,0.008264462809917356,0.015037207228833031,False
+accepted,P01,P01:WBS:170,Additional Kerb & Channel (Type B1),0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:171,B1 Barrier Kerb & Channel (BOQ Item 4.4.1.1),2,1,79,24,0.012396694214876033,0.0014077020678303213,False
+accepted,P01,P01:WBS:172,Additional Footpath,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:173,Additional Concrete Footpath 2.45m Wide (BOQ Item 4.4.4.1),2,1,86,19,0.012396694214876033,0.007032794943017501,False
+accepted,P01,P01:WBS:174,Additional Storm Water,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:175,Additional 450 mm Diameter Class 2 RRJ (BOQ Item 5.1.3),3,1,31,26,0.01652892561983471,0.0022490083787707325,False
+accepted,P01,P01:WBS:176,Additional General Fill between rental car aprk and batter of new road one,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:177,Cut to Fill (BOQ Item 3.3.4),2,1,16,27,0.012396694214876033,0.0014888606929346273,False
+accepted,P01,P01:WBS:178,Additional Conduit & Trenching,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:179,Additional Trenching (BOQ Item 6.1),1,2,22,29,0.012396694214876033,0.0004943817656001738,False
+accepted,P01,P01:WBS:18,"Clearing, Grubbing & Demolition",0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:180,Additional 100 diameter communications conduit,1,0,23,0,0.004132231404958678,0.0,False
+accepted,P01,P01:WBS:181,Additional 100 diameter electrical conduit (BOQ Item 6.2),1,1,23,26,0.008264462809917356,0.0015402992581415819,False
+accepted,P01,P01:WBS:182,Remove & Replace Unsuitable (Extra Over BOQ Item 3.3.7),1,1,18,86,0.008264462809917356,0.006996344520248325,False
+accepted,P01,P01:WBS:183,Remove & Replace Soft Spots - Rental Car Park,2,1,25,85,0.012396694214876033,0.01108758880669692,False
+accepted,P01,P01:WBS:184,Extension To Commercial Car Park,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:185,Clear & Grubbing (BOQ Item 3.2.1),1,1,8,90,0.008264462809917356,0.0012052537714330154,False
+accepted,P01,P01:WBS:186,Stripping Topsoil (BOQ item 3.3.1),2,1,10,89,0.012396694214876033,0.003987310491792707,False
+accepted,P01,P01:WBS:187,Import General Fill (BOQ Item 3.3.5),3,2,17,88,0.02066115702479339,0.008121420249247101,False
+accepted,P01,P01:WBS:188,Prepare Sub-grade (BOQ Item 4.1),1,1,18,31,0.008264462809917356,0.0020166775259193217,False
+accepted,P01,P01:WBS:189,Import 2.1 (BOQ Item 4.2.3.1),2,1,58,30,0.012396694214876033,0.003478390087216944,False
+accepted,P01,P01:WBS:19,"Clearing, grubbing vegetation and disposal off site of cleared vegetation, including but not limited to loading, transportation and dumping fees as nominated on the project drawings",1,5,7,169,0.024793388429752067,0.017832035938410894,False
+accepted,P01,P01:WBS:190,Import 2.3 (BOQ Item 4.2.3.2),2,1,59,29,0.012396694214876033,0.003919904438576637,False
+accepted,P01,P01:WBS:191,Primer Seal (7mm) (BOQ Item 4.5.1.1),2,1,68,28,0.012396694214876033,0.004468582467450818,False
+accepted,P01,P01:WBS:192,SM4 Kerb (BOQ Item 4.4.1.3),2,1,69,27,0.012396694214876033,0.004091366322599818,False
+accepted,P01,P01:WBS:193,B1 Kerb (BOQ Item 4.4.1.1),2,2,70,26,0.01652892561983471,0.0046114673708034706,False
+accepted,P01,P01:WBS:194,B2 Kerb (BOQ Item 4.4.1.2),2,1,71,15,0.012396694214876033,0.003102031251786061,False
+accepted,P01,P01:WBS:195,Topsoil to Back of Kerb (BOQ Item 3.3.2),2,1,98,14,0.012396694214876033,0.008491649806248072,False
+accepted,P01,P01:WBS:196,Additional 450 RCP (BOQ Item 5.1.4),2,1,99,13,0.012396694214876033,0.008488792108181018,False
+accepted,P01,P01:WBS:197,Final Trim (BOQ Item 4.3),2,1,100,12,0.012396694214876033,0.008415920807471167,False
+accepted,P01,P01:WBS:198,Additional Conduit Trenching (BOQ Item 6.1),2,1,101,11,0.012396694214876033,0.011039287633025844,False
+accepted,P01,P01:WBS:199,Additional Conduit (BOQ Item 6.3),1,1,102,10,0.008264462809917356,0.009478984488414891,False
+accepted,P01,P01:WBS:2,PRACTICAL COMPLETION,16,0,173,0,0.06611570247933884,0.0,False
+accepted,P01,P01:WBS:20,Existing Bitumen Seal,2,1,9,139,0.012396694214876033,0.003206337231233497,False
+accepted,P01,P01:WBS:200,Additional Wheel Stops (BOQ Item 4.4.4.5),2,1,104,9,0.012396694214876033,0.008784563858121007,False
+accepted,P01,P01:WBS:201,Additional Log Barrier Fence (BOQ Item 7.2.1.1),2,1,107,8,0.012396694214876033,0.007761507950116023,False
+accepted,P01,P01:WBS:202,New 2.4m Kerb Lintel,1,2,42,43,0.012396694214876033,0.003972200313203708,False
+accepted,P01,P01:WBS:203,Additional Line Marking (BOQ Item 4.7.1),2,1,66,21,0.012396694214876033,0.003483533943737641,False
+accepted,P01,P01:WBS:204,Additional Box Out & General Fill,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:205,Cut To Spoil (BOQ Item 3.3.6),1,1,16,121,0.008264462809917356,1.7146188402318165e-05,False
+accepted,P01,P01:WBS:206,Import General Fill (BOQ Item 3.3.5),2,1,17,120,0.012396694214876033,0.00205754260827818,False
+accepted,P01,P01:WBS:207,Remove & Replace Unsuitable - Bus Bay & Round-a-bout,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:208,Remove Soft Spots (BOQ Item 3.3.7),1,1,21,73,0.008264462809917356,0.00036006995644868146,False
+accepted,P01,P01:WBS:209,Import General Fill (BOQ Item 3.3.5),1,1,22,72,0.008264462809917356,0.0012345255649669079,False
+accepted,P01,P01:WBS:21,Existing Concrete Kerb / Kerb & Channel,1,2,10,138,0.012396694214876033,0.0054181955351325405,False
+accepted,P01,P01:WBS:210,Stabilise Sub-Grade,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:211,Supply GB Cement Stabilising Agent,1,1,24,70,0.008264462809917356,0.0,False
+accepted,P01,P01:WBS:212,In-situ Stabilising Sub-grade,2,2,23,71,0.01652892561983471,0.011967910519082817,False
+accepted,P01,P01:WBS:213,Supply & Install Visi-ball Tank Level Indicator,1,1,12,1,0.008264462809917356,5.14385652069545e-05,False
+accepted,P01,P01:WBS:214,Centre Median Footpath Beam Thickening,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:215,"Excavate for, Supply, Place and Finish Additional N25 Concrete",1,1,55,19,0.008264462809917356,0.00032577757964404513,False
+accepted,P01,P01:WBS:216,"Supply, cut, tie and place SL72 Reinforcing Mesh",1,1,54,20,0.008264462809917356,0.000925894173725181,False
+accepted,P01,P01:WBS:217,"Install 150mm & 225mm Roof water drainage lines from terminal building, including road crossings and stubs to existing stormwater pits",1,1,23,93,0.008264462809917356,0.0,False
+accepted,P01,P01:WBS:218,Installation of STP Irrigation System,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:219,Installation only of Pump No. 01 & Pump Well,1,1,17,7,0.008264462809917356,0.0015774493330132711,False
+accepted,P01,P01:WBS:22,"Remove existing structures, slabs, tanks etc.",1,1,11,3,0.008264462809917356,0.0005658242172764995,False
+accepted,P01,P01:WBS:220,Supply & Install Pump & Well No. 02,1,2,18,6,0.012396694214876033,0.0013888412605877714,False
+accepted,P01,P01:WBS:221,Supply & Installation of Electrical as Per E002 & Clarification Letter,1,1,19,2,0.008264462809917356,0.0001886080724254998,False
+accepted,P01,P01:WBS:222,Raise STP pad height 500mm and provide 100mm reinforced concrete slab,1,2,11,5,0.012396694214876033,0.00022290044923013616,False
+accepted,P01,P01:WBS:223,Supply & Install light to roof of container,2,1,22,1,0.012396694214876033,0.000102877130413909,False
+accepted,P01,P01:WBS:224,Supply & Installation of rising main from Pump well No. 02 to irrigation area as per H101 in existing cleared areas,1,1,19,3,0.008264462809917356,0.0006515551592880903,False
+accepted,P01,P01:WBS:225,"Supply & installation of irrigation area (3,000 sqm) as per H103 including air & flush valves",1,1,20,2,0.008264462809917356,0.00036006995644868146,False
+accepted,P01,P01:WBS:226,Supply & installation of signal cable as per clarification email,1,1,21,1,0.008264462809917356,3.429237680463633e-05,False
+accepted,P01,P01:WBS:227,Installation of Edge Restraint,1,1,50,54,0.008264462809917356,0.0013888412605877714,False
+accepted,P01,P01:WBS:228,Fie Lay Away,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:229,Cut To Spoil,1,2,58,9,0.012396694214876033,0.003621846530183007,False
+accepted,P01,P01:WBS:23,Backfill and compact existing well to WRC requirements,1,1,12,2,0.008264462809917356,0.000411508521655636,False
+accepted,P01,P01:WBS:230,Prepare & Trim Sub-grade,1,1,59,7,0.008264462809917356,0.0009601865505298173,False
+accepted,P01,P01:WBS:231,Edge Restraint,2,1,60,6,0.012396694214876033,0.0027771177856051495,False
+accepted,P01,P01:WBS:232,Supply & Place 2.1 Gravel,1,2,61,5,0.012396694214876033,0.0018340774234776496,False
+accepted,P01,P01:WBS:233,Primer Seal,2,1,68,3,0.012396694214876033,0.0009144191551773599,False
+accepted,P01,P01:WBS:234,DG10 Asphalt (40mm),2,1,70,2,0.012396694214876033,0.0004160808385629208,False
+accepted,P01,P01:WBS:235,Bin Area,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:236,General Fill,1,1,59,3,0.008264462809917356,0.00079272544380051,False
+accepted,P01,P01:WBS:237,Supply & Place Type 2.1 Gravel,2,1,63,2,0.012396694214876033,0.0010327720814329643,False
+accepted,P01,P01:WBS:238,Colourbonfd Fence (1800 High - 20m),2,1,73,1,0.012396694214876033,0.00026576592023593157,False
+accepted,P01,P01:WBS:239,Additional Edge Restraint,1,1,51,53,0.008264462809917356,0.0014402798257947258,False
+accepted,P01,P01:WBS:24,Relocate existing hazard marker and street sign,1,1,13,1,0.008264462809917356,0.00022290044923013616,False
+accepted,P01,P01:WBS:240,Supply & Install Additional Electrical Pit,2,1,26,1,0.012396694214876033,0.000205754260827818,False
+accepted,P01,P01:WBS:241,Extra Over Log Barrier Fenec - Monowills Pedestrian Safety Fence,1,1,111,4,0.008264462809917356,0.0,False
+accepted,P01,P01:WBS:242,Additional AC,1,1,65,10,0.008264462809917356,0.0,False
+accepted,P01,P01:WBS:243,Miscellaneous Additional Works,1,1,113,1,0.008264462809917356,0.00012859641301738624,False
+accepted,P01,P01:WBS:25,Remove and stack existing unused signage as directed,1,0,14,0,0.004132231404958678,0.0,False
+accepted,P01,P01:WBS:26,Reinstate existing island and landscaping upon completion of stormwater drainage,1,1,30,2,0.008264462809917356,0.00026576592023593157,False
+accepted,P01,P01:WBS:27,Remove abandoned Storm Water Lines and headwalls and dispose off site,1,1,11,133,0.008264462809917356,0.006841329172524948,False
+accepted,P01,P01:WBS:28,Earthworks,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:29,"Strip and stockpile topsoil from areas of excavation and filling in accordance with the specification (measured as a solid volume, calculated based on an average 100mm natural topsoil depth)",1,2,8,134,0.012396694214876033,0.014895017138343741,False
+accepted,P01,P01:WBS:3,PRELIMINARIES,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:30,"Respread topsoil in accordance with the specification (measured as a solid volume, calculated based on an average 100mm natural topsoil depth)",6,4,96,18,0.04132231404958678,0.011579392567698866,False
+accepted,P01,P01:WBS:31,Remove from site unused grip material as directed (Provisional),1,1,97,1,0.008264462809917356,0.00021718505309603018,False
+accepted,P01,P01:WBS:32,"Cut to fill including but not limited to, moisture control and compaction as specified (in-place compacted volume of filling)",2,4,13,132,0.024793388429752067,0.02468111651688327,False
+accepted,P01,P01:WBS:33,"Imported Fill material including but not limited to, moisture control and compaction as specified (in-place compacted volume of filling)",1,6,14,130,0.028925619834710745,0.02182154009733452,False
+accepted,P01,P01:WBS:34,"Cut to spoil including but not limited to loading, transportation and tip fees (Provisional)",1,2,15,123,0.012396694214876033,0.000514385652069545,False
+accepted,P01,P01:WBS:35,"Removal of unsuitable material including excavation, filling and spoiling material (provisional)",1,1,16,120,0.008264462809917356,0.00205754260827818,False
+accepted,P01,P01:WBS:36,Grass seeding to disturbed areas as directed by the Superintendent.,5,1,117,1,0.024793388429752067,0.0005772550095447113,False
+accepted,P01,P01:WBS:37,ROAD WORKS,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:38,"Sub grade preparation as specified including, but not limited to scarifying, moisture control, blending, spreading, compaction and trimming",4,7,20,119,0.045454545454545456,0.03210925313872542,False
+accepted,P01,P01:WBS:39,Pavement A1,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:4,"Site establishment & disestablishment including but not limited to, mandatory permits and fees",4,8,4,175,0.049586776859504134,0.011610827246436452,False
+accepted,P01,P01:WBS:40,Base Course - 125mm Type 2.1,3,1,40,59,0.01652892561983471,0.0035749302885405287,False
+accepted,P01,P01:WBS:41,Sub-base Course - 100mm Type 2.3,4,2,36,84,0.024793388429752067,0.023840515934383247,False
+accepted,P01,P01:WBS:42,Pavement A2 - Roadways,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:43,Base Course - 125mm Type 2.1,2,1,41,58,0.012396694214876033,0.0073827629695458795,False
+accepted,P01,P01:WBS:44,Sub-base Course - 100mm Type 2.3,1,2,37,83,0.012396694214876033,0.02074567892110762,False
+accepted,P01,P01:WBS:45,Pavement A2 - Rental Car Park,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:46,Base Course - 125mm Type 2.1,2,2,42,57,0.01652892561983471,0.011233461121557027,False
+accepted,P01,P01:WBS:47,Sub-Base Course - 100mm Type 2.3,1,4,38,82,0.02066115702479339,0.018018056109448323,False
+accepted,P01,P01:WBS:48,Pavement B - Roadway,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:49,Base Course - 150mm Type 2.1,1,2,57,49,0.012396694214876033,0.012190654184241513,False
+accepted,P01,P01:WBS:5,Establishment and maintenance of Provision for Traffic in accordance with AS 1742 Manual of uniform traffic control devices and as directed by the Superintendent,2,1,5,2,0.012396694214876033,5.14385652069545e-05,False
+accepted,P01,P01:WBS:50,Upper Sub-Base Course - 150mm Type 2.3,2,1,47,65,0.012396694214876033,0.018920689916222838,False
+accepted,P01,P01:WBS:51,Lower Sub-Base Course - 150mm Type 2.3,3,2,44,69,0.02066115702479339,0.019713701129830053,False
+accepted,P01,P01:WBS:52,Pavement B - Public Car Park including Road 3,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:53,Base Course - 150mm Type 2.1,3,3,56,52,0.024793388429752067,0.01615370986363065,False
+accepted,P01,P01:WBS:54,Upper Sub Base Course - 150mm Type 2.3,1,3,45,67,0.01652892561983471,0.010540554827457463,False
+accepted,P01,P01:WBS:55,Lower Base Course - 150mm Type 2.3,1,1,39,70,0.008264462809917356,0.005293885669215734,False
+accepted,P01,P01:WBS:56,Final Trim to Pavement,1,3,58,42,0.01652892561983471,0.0074200130311031865,False
+accepted,P01,P01:WBS:57,Concrete Works,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:58,"Concrete Kerb & Channel as specified in place, including but not limited to transitions, ramps & gullies",0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:59,Barrier Kerb & Channel Type B1 600mm wide,1,3,39,63,0.01652892561983471,0.009164957491060848,False
+accepted,P01,P01:WBS:6,Construction Survey Set out,2,1,6,1,0.012396694214876033,4.000777293874238e-05,False
+accepted,P01,P01:WBS:60,Barrier Kerb Type B2,1,4,48,64,0.02066115702479339,0.01921217511906224,False
+accepted,P01,P01:WBS:61,Semi Mountable Kerb Type SM4,1,4,49,62,0.02066115702479339,0.010450037095642531,False
+accepted,P01,P01:WBS:62,Kerb Ramp,1,1,50,26,0.008264462809917356,0.005358183875724427,False
+accepted,P01,P01:WBS:63,Raised Threshold Pedestrian Crossing,1,1,45,66,0.008264462809917356,0.008813076345923905,False
+accepted,P01,P01:WBS:64,Additional Concrete Works,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:65,Concrete Footpaths 2.45m wide,1,2,51,25,0.012396694214876033,0.004929529165666473,False
+accepted,P01,P01:WBS:66,Concrete Footpaths 2.5m wide,1,1,52,23,0.008264462809917356,0.0035664071876821786,False
+accepted,P01,P01:WBS:67,Concrete Footpaths 3m wide,1,3,53,22,0.01652892561983471,0.0030520215356126335,False
+accepted,P01,P01:WBS:68,"Concrete Infill to Median Islands to carparks and round about island, complete in place",1,1,54,19,0.008264462809917356,0.0,False
+accepted,P01,P01:WBS:69,"Wheelstops, complete in place (in accordance with AS2890.1)",1,2,68,10,0.012396694214876033,0.0008830287027193855,False
+accepted,P01,P01:WBS:7,"As constructed drawings and data, including surveying & drafting in accordance with Council Standards",2,1,97,1,0.012396694214876033,0.0002486197318336135,False
+accepted,P01,P01:WBS:70,Surfacing Works,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:71,Existing Public Carpark,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:72,First Seal: 7mm CRS60,1,1,43,4,0.008264462809917356,0.00205754260827818,False
+accepted,P01,P01:WBS:73,"Second Seal: 40mm AC Surfacing, (DG10) complete in place, including but not limited to supply, compaction and prime coat)",1,1,44,3,0.008264462809917356,0.0013716950721854532,False
+accepted,P01,P01:WBS:74,Roadways and New Carpark,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:75,First Seal: 7mm CRS60 Primerseal,2,3,63,41,0.02066115702479339,0.01673438730681281,False
+accepted,P01,P01:WBS:76,"Second Seal: 40mm AC Surfacing, (DG10) complete in place, including but not limited to supply, compaction and prime coat)",1,7,64,39,0.03305785123966942,0.01430453767072025,False
+accepted,P01,P01:WBS:77,Signage and Pavement Marking,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:78,"Signage and pavement marking, complete in place. All work to be in accordance with the requirements of AS 1742 Manual of Uniform Traffic Control Devices (Provisional Sum)",1,2,65,22,0.012396694214876033,0.0014145605431912487,False
+accepted,P01,P01:WBS:79,Signage complete in place including supply and installation. All work to be in accordance with the requirements of AS 1742 Manual of Uniform Traffic Control Devices(Provisional Sum),2,2,67,20,0.01652892561983471,0.004092223632019935,False
+accepted,P01,P01:WBS:8,Preparation & implementation of project quality & OHS&R plans,1,3,1,176,0.01652892561983471,3.14346787375833e-05,False
+accepted,P01,P01:WBS:80,STORMWATER DRAINAGE,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:81,Pipework,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:82,375mm dia Class 2 RRJ,1,1,21,97,0.008264462809917356,0.00726937151871139,False
+accepted,P01,P01:WBS:83,375mm dia Class 3 RRJ,1,4,22,96,0.02066115702479339,0.008555335648885252,False
+accepted,P01,P01:WBS:84,450mm dia Class 2 RRJ,3,3,25,92,0.024793388429752067,0.007801107480473757,False
+accepted,P01,P01:WBS:85,450mm dia Class 3 RRJ,2,4,27,89,0.024793388429752067,0.0076955767732832985,False
+accepted,P01,P01:WBS:86,Drainage Structures,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:87,Manholes as per IPWEA STD Drawings:,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:88,1050mm dia Access Chamber,1,2,23,93,0.012396694214876033,0.0014829411755100178,False
+accepted,P01,P01:WBS:89,900x900 mm Access Chamber,2,2,26,90,0.01652892561983471,0.004043234522299027,False
+accepted,P01,P01:WBS:9,Geotechnical Testing,1,1,14,1,0.008264462809917356,0.00015431569562086349,False
+accepted,P01,P01:WBS:90,4/10 - 900x900 Manhole,2,1,28,45,0.012396694214876033,0.005937684219464679,False
+accepted,P01,P01:WBS:91,Kerb Inlets,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:92,On Grade (L),0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:93,2.4m Lintel,2,2,41,44,0.01652892561983471,0.014685417792735788,False
+accepted,P01,P01:WBS:94,On Grade(RH),0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:95,2.4m Lintel,2,1,43,42,0.012396694214876033,0.0104988901245031,False
+accepted,P01,P01:WBS:96,Pre-Cast Headwalls,0,0,0,0,0.0,0.0,False
+accepted,P01,P01:WBS:97,Humes Precast Headwall or equivalent for 375mm pipe,1,1,23,5,0.008264462809917356,0.0014745722025993621,False
+accepted,P01,P01:WBS:98,Humes Precast Headwall or equivalent for 450mm pipe,2,2,29,4,0.01652892561983471,0.0014917183910016804,False
+accepted,P01,P01:WBS:99,Rock Protection at Outlet Drains (300 Deep),1,1,30,2,0.008264462809917356,0.00026576592023593157,False
+accepted,P02,P02:WBS:1,Contract Award,0,1,0,34,0.023255813953488372,0.0,False
+accepted,P02,P02:WBS:10,"Excavate, select, lay, grade and compact the decomposed granite",1,2,5,20,0.06976744186046512,0.04540420819490587,False
+accepted,P02,P02:WBS:11,"Construct, shape and compact the bunds, including anchor trenches",2,2,7,18,0.09302325581395349,0.05980066445182724,False
+accepted,P02,P02:WBS:12,"Construct, shape and compact the intercell bunds, including anchor trenches and the plywood",1,4,8,13,0.11627906976744186,0.051956441491325216,False
+accepted,P02,P02:WBS:13,"Supply, lay, grade and compact the gravel drainage layer",3,1,11,3,0.09302325581395349,0.009413067552602437,False
+accepted,P02,P02:WBS:14,"Supply, lay, grade and compact the gravel around the leachate pipes",3,1,15,2,0.09302325581395349,0.008028792912513842,False
+accepted,P02,P02:WBS:15,Interim Channel Construction - Earthworks,0,0,0,0,0.0,0.0,False
+accepted,P02,P02:WBS:16,Construct and shape the internal channel with clay material from site,2,2,8,5,0.09302325581395349,0.017257290513104463,False
+accepted,P02,P02:WBS:17,Construct and shape the interim channel with soil material from site,2,1,10,2,0.06976744186046512,0.006183093392395717,False
+accepted,P02,P02:WBS:18,Leachate Pond Construction - Earthworks,0,0,0,0,0.0,0.0,False
+accepted,P02,P02:WBS:19,"Strip, shape and compact the floor of the pond",1,1,3,8,0.046511627906976744,0.0049833887043189366,False
+accepted,P02,P02:WBS:2,Practical Completion,7,0,33,0,0.16279069767441862,0.0,False
+accepted,P02,P02:WBS:20,"Construct, shape and compact the embankment, including anchor trenches",1,3,4,7,0.09302325581395349,0.007198228128460687,False
+accepted,P02,P02:WBS:21,Supply and install the securuty fence and access gates,1,1,5,1,0.046511627906976744,0.0005537098560354374,False
+accepted,P02,P02:WBS:22,Sedimentation Pond Construction - Earthworks,0,0,0,0,0.0,0.0,False
+accepted,P02,P02:WBS:23,"Strip, excavate, shape and compact the floor of the pond",2,1,5,4,0.06976744186046512,0.00830564784053156,False
+accepted,P02,P02:WBS:24,"Construct, shape and compact the embankment",1,1,6,3,0.046511627906976744,0.007198228128460687,False
+accepted,P02,P02:WBS:25,"Construct the spillways, including scour protection",1,1,7,2,0.046511627906976744,0.0049833887043189366,False
+accepted,P02,P02:WBS:26,"Excavate, grade and shape the external channel",1,0,10,0,0.023255813953488372,0.0,False
+accepted,P02,P02:WBS:27,Reprofile the external area,0,0,0,0,0.0,0.0,False
+accepted,P02,P02:WBS:28,Excavate material for site and lay on the areas to be re-profiled,1,2,9,3,0.06976744186046512,0.009320782576596529,False
+accepted,P02,P02:WBS:29,Grade and shape the areas,2,1,13,1,0.06976744186046512,0.004060538944259875,False
+accepted,P02,P02:WBS:3,Preliminary & General Items,0,0,0,0,0.0,0.0,False
+accepted,P02,P02:WBS:30,Access Tracks,0,0,0,0,0.0,0.0,False
+accepted,P02,P02:WBS:31,Construct the two access tracks in gravel pavement,1,1,10,1,0.046511627906976744,0.0014765596160944998,False
+accepted,P02,P02:WBS:32,Supply & Placement of Geocomposites,0,0,0,0,0.0,0.0,False
+accepted,P02,P02:WBS:33,Supply and Placement of the Geocomposite Clay Liner (GCL),1,3,9,8,0.09302325581395349,0.022425249169435214,False
+accepted,P02,P02:WBS:34,Supply and Placement of the Geotextile Protection,1,1,10,2,0.046511627906976744,0.0035991140642303433,False
+accepted,P02,P02:WBS:35,Supply and Placement of the Geotextile Separation,2,1,17,1,0.06976744186046512,0.004429678848283499,False
+accepted,P02,P02:WBS:36,Supply and Placement of the HDPE Liner (Leachate Pond),1,1,5,1,0.046511627906976744,0.0005537098560354374,False
+accepted,P02,P02:WBS:37,Pipeworks,0,0,0,0,0.0,0.0,False
+accepted,P02,P02:WBS:38,Supply and Placement of the perforated collection pipes,1,2,10,5,0.06976744186046512,0.011351052048726468,False
+accepted,P02,P02:WBS:39,"Supply and palcement of the non-perforated collection pipes, including liner penetration and clean out risers",1,1,11,4,0.046511627906976744,0.006090808416389811,False
+accepted,P02,P02:WBS:4,Mobilisation - Demobilisation,1,5,2,32,0.13953488372093023,0.035437430786267994,False
+accepted,P02,P02:WBS:40,Supply and Placement of the non-perforated delivery pipe,1,1,12,3,0.046511627906976744,0.0016611295681063123,False
+accepted,P02,P02:WBS:48,Leachate pond spillway redesign,1,1,8,1,0.046511627906976744,0.0016611295681063123,False
+accepted,P02,P02:WBS:49,Additional deco material required to build up the main cell to bottom of GCL layer.,1,1,6,19,0.046511627906976744,0.0,False
+accepted,P02,P02:WBS:5,"Preparation and implementation of Construction Environmental Management Plan. Quality Plan, Workplace Health and Safety Plan and Works Installation Plan",1,1,1,33,0.046511627906976744,0.018272425249169433,False
+accepted,P02,P02:WBS:51,Replace marine plywood above the anchor tenches of intercell bunds with LDPE detection tape.,1,1,9,4,0.046511627906976744,0.0,False
+accepted,P02,P02:WBS:52,Removal and replacement of rubbish material in external channels,1,2,9,4,0.06976744186046512,0.0049833887043189366,False
+accepted,P02,P02:WBS:6,Site Inspections for approval of construction phases,1,1,3,1,0.046511627906976744,0.0016611295681063123,False
+accepted,P02,P02:WBS:7,Cell Construction - Earthworks,0,0,0,0,0.0,0.0,False
+accepted,P02,P02:WBS:8,"Trim, Grade and compact the former waste layer",1,1,3,22,0.046511627906976744,0.026578073089700997,False
+accepted,P02,P02:WBS:9,High energy impact compact the graded surface of waste,1,1,4,21,0.046511627906976744,0.03654485049833887,False
+accepted,P03,P03:WBS:1,CONTRACT AWARD,0,5,0,147,0.033783783783783786,0.0,False
+accepted,P03,P03:WBS:10,As Constructed Survey Data to Council Requirements.,1,1,92,1,0.013513513513513514,0.0011031439602868175,False
+accepted,P03,P03:WBS:100,Electrical Under Road Bore complete including conduit bends and draw-wire: 1 x 100 dia LV (HD) (Provisional Item),2,1,27,5,0.02027027027027027,0.0035392535392535394,False
+accepted,P03,P03:WBS:101,Electrical Mains Cable Pit (Provisional Item),3,1,30,4,0.02702702702702703,0.003906968192682479,False
+accepted,P03,P03:WBS:102,"Street Light Bases Complete in Place, including supply of rag bolts and excluding Conduiting Major Pole Base (NB - ALL 10.5m POLES NEED THE LARGER BASES)",1,2,22,5,0.02027027027027027,0.0016087516087516089,False
+accepted,P03,P03:WBS:103,Soil Management Measures inclusive of: Prepare batters and drains for hydromulch placement,2,1,31,3,0.02027027027027027,0.004136789851075565,False
+accepted,P03,P03:WBS:104,Soil Management Measures inclusive of: Hydromulch to all disturbed areas as directed (batters and drains),1,1,32,2,0.013513513513513514,0.002803824232395661,False
+accepted,P03,P03:WBS:105,Soil Management Measures inclusive of: Rock check dams as directed,1,1,33,1,0.013513513513513514,0.0013789299503585218,False
+accepted,P03,P03:WBS:106,Supply and Install New Guide Posts,1,1,33,4,0.013513513513513514,0.004780290494576209,False
+accepted,P03,P03:WBS:107,Supply and Install New Give Way Sign R1-2,1,1,34,3,0.013513513513513514,0.0034013605442176874,False
+accepted,P03,P03:WBS:108,"Linemarking Complete,Dysart Bypass Rd - Middlemount Rd Intersection - Reinstate existing and new lines as per drawing No 842 - R19",1,2,35,2,0.02027027027027027,0.0019305019305019305,False
+accepted,P03,P03:WBS:109,"Drainage - Ch 140 Middlemount Road Culvert 1A - Extend existing 600 x 300 RCBC RHS, complete in place incl. excavate, sand, supply, lay and backfill",1,2,11,124,0.02027027027027027,0.0005056076484647913,False
+accepted,P03,P03:WBS:11,"Geotechnical Testing by NATA Registered laboratory - Subgrade CBR tests (soaked 4 day, 4 point) (allow 3 confirmation tests on final subgrade for pavement design)",1,1,3,1,0.013513513513513514,0.0001378929950358522,False
+accepted,P03,P03:WBS:110,Drainage - Ch 140 Middlemount Road - 1/600 x 300 Cast Insitu Endwall and Apron to Main Roads Std Dwgs complete in place,1,1,12,123,0.013513513513513514,0.0,False
+accepted,P03,P03:WBS:111,Provision for Traffic and Safety including an approved Traffic Management Plan required by Council prior to commencement of site works.,1,2,15,98,0.02027027027027027,0.053134767420481704,False
+accepted,P03,P03:WBS:112,Construction Setout by Contractor,2,1,17,93,0.02027027027027027,0.06048906048906049,False
+accepted,P03,P03:WBS:113,"Provision of evidence of Public Liability Insurance ($10 million), and Workers Compensation Insurance for the works.",1,1,1,94,0.013513513513513514,0.00045964331678617393,False
+accepted,P03,P03:WBS:114,"Locate Existing Services (Dial-Before-You-Dig, CapVac Truck etc) as required in existing road reserves",1,1,18,92,0.013513513513513514,0.0639363853649568,False
+accepted,P03,P03:WBS:115,As Constructed Survey Data to Council Requirements.,1,1,46,1,0.013513513513513514,0.0006435006435006435,False
+accepted,P03,P03:WBS:116,Geotechnical Testing by NATA Registered laboratory - Subgrade Compaction testing as specified,1,1,25,84,0.013513513513513514,0.025188453759882334,False
+accepted,P03,P03:WBS:117,Sub-Base Compaction testing as specified - assume 2 layers,1,1,31,14,0.013513513513513514,0.008365508365508366,False
+accepted,P03,P03:WBS:118,Base Compaction testing as specified,1,1,36,8,0.013513513513513514,0.011766868909726053,False
+accepted,P03,P03:WBS:119,Sub-Base Quality Testing as specified; Full Atterbergs plus grading plus full Quarry Stockpile results - assume 2 layers,1,1,3,84,0.013513513513513514,0.001516822945394374,False
+accepted,P03,P03:WBS:12,Subgrade Compaction testing as specified,1,0,4,0,0.006756756756756757,0.0,False
+accepted,P03,P03:WBS:120,Base Quality Testing as specified; Full Atterbergs plus grading plus full Quarry Stockpile results,1,1,3,14,0.013513513513513514,0.0017926089354660783,False
+accepted,P03,P03:WBS:121,"Clearing & Grubbing, removal of existing kerb and complete offsite disposal of Spoil inclusive of Dump Fees as required.",1,1,19,91,0.013513513513513514,0.06729178157749587,False
+accepted,P03,P03:WBS:122,Earthworks - excavate and place as embankment as directed - Cut to Spoil - to achieve boxed out deep to 500mm - material will be spoiled at IRC Tip.,1,1,20,90,0.013513513513513514,0.0705552491266777,False
+accepted,P03,P03:WBS:123,Remove isolated soft spots in subgrade as ordered and replace with Selected Spoil material - Provisional Item,1,1,21,89,0.013513513513513514,0.0737267880125023,False
+accepted,P03,P03:WBS:124,"Prepare Dysart Bypass Rd - Golden Mile Rd Intersection Subgrade Surface for Gravel Pavement & for Council Inspection, (incl. provision of subgrade levels and compaction test results by Contractor) - Dysart Bypass Rd - Golden Mile Rd Intersection LHS",1,1,23,86,0.013513513513513514,0.01958080529509101,False
+accepted,P03,P03:WBS:125,Dysart Bypass Rd - Golden Mile Rd Intersection RHS,1,1,24,85,0.013513513513513514,0.02243059385916529,False
+accepted,P03,P03:WBS:126,"Prepare Base Gravel Surface for Primerseal & for Council Inspection, incl provision of compaction test results - Dysart Bypass Rd - Golden Mile Rd Intersection LHS",1,1,36,10,0.013513513513513514,0.0033094318808604526,False
+accepted,P03,P03:WBS:127,Dysart Bypass Rd - Golden Mile Rd Intersection RHS,1,1,37,9,0.013513513513513514,0.0020683949255377826,False
+accepted,P03,P03:WBS:128,"Gravel Pavement - In Place complete, including supply, spreading, watering, rolling and trimming:- Dysart Bypass Rd - Golden Mile Rd Intersection LHS - Base QT Type 2.1 @ 150mm deep",3,1,34,13,0.02702702702702703,0.018845375988233132,False
+accepted,P03,P03:WBS:129,"Gravel Pavement - In Place complete, including supply, spreading, watering, rolling and trimming:- Dysart Bypass Rd - Golden Mile Rd Intersection LHS - Upper Sub-Base QT Type 2.3 @ 200mm deep",1,1,29,81,0.013513513513513514,0.03815039529325244,False
+accepted,P03,P03:WBS:13,Sub-Base Compaction testing as specified - assume 1 layer,1,1,71,24,0.013513513513513514,0.0,False
+accepted,P03,P03:WBS:130,"Gravel Pavement - In Place complete, including supply, spreading, watering, rolling and trimming:- Dysart Bypass Rd - Golden Mile Rd Intersection LHS - Lower Sub-Base QT Type 2.5 @ 150mm deep",2,1,27,83,0.02027027027027027,0.033186247471961756,False
+accepted,P03,P03:WBS:131,"Gravel Pavement - In Place complete, including supply, spreading, watering, rolling and trimming:- Dysart Bypass Rd - Golden Mile Rd Intersection RHS - Base QT Type 2.1 @ 150mm deep",1,2,35,12,0.02027027027027027,0.017834160691303547,False
+accepted,P03,P03:WBS:132,"Gravel Pavement - In Place complete, including supply, spreading, watering, rolling and trimming:- Dysart Bypass Rd - Golden Mile Rd Intersection RHS - Upper Sub-Base QT Type 2.3 @ 200mm deep",1,2,30,80,0.02027027027027027,0.040494576208861925,False
+accepted,P03,P03:WBS:133,"Gravel Pavement - In Place complete, including supply, spreading, watering, rolling and trimming:- Dysart Bypass Rd - Golden Mile Rd Intersection RHS - Lower Sub-Base QT Type 2.5 @ 150mm deep",1,1,28,82,0.013513513513513514,0.03571428571428571,False
+accepted,P03,P03:WBS:134,Provisional Item Pavement Repairs - Cement Stabilise 4% by weight 200mm deep any failed areas identified by the Superintendent as ordered.,1,1,38,8,0.013513513513513514,0.0007354293068578783,False
+accepted,P03,P03:WBS:135,Bitumen Seal - complete in place (10mm primerseal ) ; spray rates nominally to be 1.1 l/sqm C170 - SEAL DESIGN TO BE CONFIRMED - Dysart Bypass Rd - Golden Mile Rd Intersection LHS,2,1,40,7,0.02027027027027027,0.011399154256297114,False
+accepted,P03,P03:WBS:136,Bitumen Seal - complete in place (10mm primerseal ) ; spray rates nominally to be 1.1 l/sqm C170 - SEAL DESIGN TO BE CONFIRMED - Dysart Bypass Rd - Golden Mile Rd Intersection RHS,1,1,41,6,0.013513513513513514,0.009836366979224123,False
+accepted,P03,P03:WBS:137,Asphaltic Concrete Pavement MRD Type DG14 and 60 mm minimum thickness - complete in place. - Dysart Bypass Rd - Golden Mile Rd Intersection Complete (overlaying existing seal area),1,1,42,5,0.013513513513513514,0.008181651038793897,False
+accepted,P03,P03:WBS:138,Medians Kerb at Intersections - Type 5 Concrete Kerb in minimum 25 MPa concrete,1,2,31,78,0.02027027027027027,0.03295642581356867,False
+accepted,P03,P03:WBS:139,"Street Lighting - Conduits and Bases - Electrical Mains Trenching and Conduiting including bends, draw-wire, sand, bed, backfill, warning tape: 1 x 100 dia LV (HD) + HARD COVER (Provisional Item)",1,2,22,88,0.02027027027027027,0.07680639823496967,False
+accepted,P03,P03:WBS:14,Base Compaction testing as specified,1,1,76,20,0.013513513513513514,0.06674020959735245,False
+accepted,P03,P03:WBS:140,Electrical Under Road Bore complete including conduit bends and draw-wire: 1 x 100 dia LV (HD) (Provisional Item),1,1,23,65,0.013513513513513514,0.059156094870380586,False
+accepted,P03,P03:WBS:141,Electrical Mains Cable Pit (Provisional Item),1,1,34,63,0.013513513513513514,0.0895844824416253,False
+accepted,P03,P03:WBS:142,"Street Light Bases Complete in Place, including supply of rag bolts and excluding Conduiting Major Pole Base (NB - ALL 10.5m POLES NEED THE LARGER BASES)",2,1,33,64,0.02027027027027027,0.08820555249126678,False
+accepted,P03,P03:WBS:143,Soil Management Measures inclusive of: - Prepare batters and drains for hydromulch placement,1,1,35,62,0.013513513513513514,0.09087148372862659,False
+accepted,P03,P03:WBS:144,Hydromulch to all disturbed areas as directed (batters & drains),1,1,36,61,0.013513513513513514,0.09206655635227064,False
+accepted,P03,P03:WBS:145,Rock check dams as directed,1,2,37,60,0.02027027027027027,0.09316970031255746,False
+accepted,P03,P03:WBS:146,Supply and Install New Guide Posts,1,1,43,4,0.013513513513513514,0.0064350064350064354,False
+accepted,P03,P03:WBS:147,Supply and Install New Give Way Sign R1-2,1,1,44,3,0.013513513513513514,0.00459643316786174,False
+accepted,P03,P03:WBS:148,"Linemarking Complete,Dysart Bypass Rd - Golden Mile Rd Intersection - Reinstate existing and new lines as per drawing No 842 - R19",1,1,45,2,0.013513513513513514,0.0026659312373598087,False
+accepted,P03,P03:WBS:15,Sub-Base Quality Testing as specified; Full Atterbergs and grading plus full Quarry Stockpile results - assume 1 layer,1,1,3,27,0.013513513513513514,0.00041367898510755657,False
+accepted,P03,P03:WBS:16,Base Quality Testing as specified; Full Atterbergs and grading plus full Quarry Stockpile results.,1,1,3,24,0.013513513513513514,0.0031715388858246,False
+accepted,P03,P03:WBS:161,Remove & replace unsuitable - ch0,1,1,43,56,0.013513513513513514,0.0,False
+accepted,P03,P03:WBS:162,Addiitonal drainage items,1,1,41,58,0.013513513513513514,0.0,False
+accepted,P03,P03:WBS:168,Stabilisation of Edges - Bypass Road,1,1,74,22,0.013513513513513514,0.0,False
+accepted,P03,P03:WBS:17,Culvert Trench Backfilling - Compaction Tests as ordered,0,0,0,0,0.0,0.0,False
+accepted,P03,P03:WBS:18,Clearing & Grubbing and complete offsite disposal of Spoil inclusive of Dump Fees as required.,2,3,40,59,0.033783783783783786,0.09955874241588528,False
+accepted,P03,P03:WBS:19,Earthworks - excavate and place as embankment as directed - Cut to fill - Ch 18 to Ch 2801 to achieve boxed out widening of existing road x 350mm deep - refer type cross section (total of 2804 m3 of Cut and 225 m3 of Fill) balance of cut material will b,2,2,42,57,0.02702702702702703,0.010158117300974445,False
+accepted,P03,P03:WBS:2,PRACTICAL COMPLETION,8,0,142,0,0.05405405405405406,0.0,False
+accepted,P03,P03:WBS:20,Remove isolated soft spots in subgrade as ordered and replace with Selected Spoil material - Provisional Item,2,1,44,55,0.02027027027027027,0.011353189924618496,False
+accepted,P03,P03:WBS:21,Provisional Item Allowance to excavate an additional 150mm depth to the pavement box if required over 25% of length (material to spoil at IRC Tip) - Only if ordered by the Superintendent,1,1,45,54,0.013513513513513514,0.01181283324140467,False
+accepted,P03,P03:WBS:22,"Prepare Subgrade Surface for Gravel Pavement & for Council Inspection, (incl. provision of subgrade levels and compaction test results by Contractor) Bypass Road Widening from Ch 18 to Ch 2801",1,1,46,53,0.013513513513513514,0.01218054789483361,False
+accepted,P03,P03:WBS:23,"Prepare Base Gravel Surface for Primerseal & for Council Inspection, incl provision of compaction test results - Bypass Road Widening Ch 18 to 2801",2,1,75,21,0.02027027027027027,0.06926824783967642,False
+accepted,P03,P03:WBS:24,"Gravel Pavement Base In Place complete, including supply, spreading, watering, rolling and trimming:- (a) Bypass Road Widening Ch 18 to Ch 2801 - QT Type 2.1 @ 150mm deep x widening area",3,2,73,23,0.033783783783783786,0.07404853833425262,False
+accepted,P03,P03:WBS:25,"Gravel Pavement Base In Place complete, including supply, spreading, watering, rolling and trimming:- (a) Bypass Road Widening Ch 18 to Ch 2801 -Upper Sub-Base QT Type 2.3 @ 200mm deep x widening area",1,2,70,25,0.02027027027027027,0.07414046699760986,False
+accepted,P03,P03:WBS:26,"Gravel Pavement Base In Place complete, including supply, spreading, watering, rolling and trimming:- (a) Bypass Road Widening Ch 18 to Ch 2801 - Provisional Item Allowance for Lower Sub-Base QT Type 2.5 @ 150mm deep x widening area over selected 25% of l",2,1,69,26,0.02027027027027027,0.07616289759146902,False
+accepted,P03,P03:WBS:27,Primerseal complete in place (10mm stone ); spray rates nominally to be 1.1 l/sqm C170 - SEAL DESIGN TO BE CONFIRMED Bypass Road LHS Shoulder 1 metre wide Ch 510 to Ch 650,1,1,77,19,0.013513513513513514,0.06412024269167127,False
+accepted,P03,P03:WBS:28,Primerseal complete in place (10mm stone ); spray rates nominally to be 1.1 l/sqm C170 - SEAL DESIGN TO BE CONFIRMED Bypass Road Widening plus 1 metre wide shoulder RHS Ch 510 to Ch 650,1,1,78,18,0.013513513513513514,0.061408347122632836,False
+accepted,P03,P03:WBS:29,Bypass Road 7 metre section over where New RCBC culvert placement approx Ch 600,1,1,79,17,0.013513513513513514,0.058604522890237175,False
+accepted,P03,P03:WBS:30,"Bitumen Seal - First Coat complete in place (16mm primerseal ) ; spray rates nominally to be 1.6 l/sqm C170 - SHOULDER WIDENING, SEAL DESIGN TO BE CONFIRMED Bypass Road Widening Ch 18 to Ch 510",1,1,80,16,0.013513513513513514,0.055708769994484285,False
+accepted,P03,P03:WBS:31,"Bitumen Seal - First Coat complete in place (16mm primerseal ) ; spray rates nominally to be 1.6 l/sqm C170 - SHOULDER WIDENING, SEAL DESIGN TO BE CONFIRMED - Bypass Road Widening Ch 650 to Ch 2801",1,1,81,15,0.013513513513513514,0.05272108843537415,False
+accepted,P03,P03:WBS:32,"Bitumen Seal - Second Coat complete in place (10mm second coat); spray rates nominally to be 1.2 l/sqm C170 - 7 METRE WIDE SEAL, SEAL DESIGN TO BE CONFIRMED -Bypass Road Widening Ch 18 to Ch 510",1,1,82,14,0.013513513513513514,0.049641478212906785,False
+accepted,P03,P03:WBS:33,"Bitumen Seal - Second Coat complete in place (10mm second coat); spray rates nominally to be 1.2 l/sqm C170 - 7 METRE WIDE SEAL, SEAL DESIGN TO BE CONFIRMED - Bypass Road Widening Ch 650 to Ch 2801",1,2,83,13,0.02027027027027027,0.04646993932708218,False
+accepted,P03,P03:WBS:34,DG10 Asphaltic Concrete Pavement 35mm minimum thickness - complete in place including sawcut edges and neat smooth joins - Bypass Road Floodway - Ch 510 to Ch 650 (x 9 metres wide),2,2,87,9,0.02702702702702703,0.03286449715021144,False
+accepted,P03,P03:WBS:35,Access Ch 826 RHS (Dysart Horse Performance Association) - Provide smooth transition between existing access and new shoulder (no pipe required; reinstate to similar),1,1,84,12,0.013513513513513514,0.007722007722007722,False
+accepted,P03,P03:WBS:36,Access Ch 1642 RHS (Cemetery Carpark Access) - Reinstate sealed driveway between New shoulder and Carpark Access (no works on culvert required); neat smooth join.,1,1,85,11,0.013513513513513514,0.0043666115094686524,False
+accepted,P03,P03:WBS:37,Access Ch 1660 RHS (Cemetery Access) - Reinstate sealed driveway between New shoulder and Cemetery Access (no works on culvert required); neat smooth join.,1,1,86,10,0.013513513513513514,0.0009192866335723479,False
+accepted,P03,P03:WBS:38,Soil Management Measures inclusive of: Prepare batters and drains for hydromulch placement,1,1,88,2,0.013513513513513514,0.008089722375436662,False
+accepted,P03,P03:WBS:39,Soil Management Measures inclusive of: Hydromulch to all disturbed areas as directed (batters & drains),1,1,89,1,0.013513513513513514,0.004090825519396948,False
+accepted,P03,P03:WBS:40,Soil Management Measures inclusive of: Rock check dams as directed,1,0,90,0,0.006756756756756757,0.0,False
+accepted,P03,P03:WBS:41,Supply and Install New Guide Posts - allow new on widened side only and adjacent to end wall extensions,1,1,88,5,0.013513513513513514,0.017098731384445672,False
+accepted,P03,P03:WBS:42,Supply and Install Floodway Depth markers (G9-22-1A),1,1,89,4,0.013513513513513514,0.01323772752344181,False
+accepted,P03,P03:WBS:43,Remove Signs for widening and reinstate,1,1,90,3,0.013513513513513514,0.009284794999080713,False
+accepted,P03,P03:WBS:44,Provisional Item Guardrail as per Note 5 on plan 842-R02 allow (3 lengths of Armoc ® 'W' Beam type XR & standard posts rammed into the ground with bull nose terminal ends) Only if ordered by Superintendent,1,1,91,2,0.013513513513513514,0.005239933811362383,False
+accepted,P03,P03:WBS:45,"Schedule B - Drainage Dysart Bypass Rd: Ch 49.400 Extend 375 dia SRC Pipe Class 2, Installation to Main Roads Std Dwg 1359 - 1 x 375 dia SRC Pipe Cl 2 Complete in place, incl. removal of existing headwall with care, excavate, sand, supply, lay and backfi",3,1,47,52,0.02702702702702703,0.10700496414782129,False
+accepted,P03,P03:WBS:46,"1 x 375 dia Endwall , Precast Type with wings Complete in place, incl. Excavate, sand, supply and install.",1,1,48,51,0.013513513513513514,0.10718882147453576,False
+accepted,P03,P03:WBS:47,"Ch 300 Extend 4/450 dia SRC Pipe Class 2, Installation to Main Roads Std Dwg 1359 - 4 x 450 SRC Pipe Cl 2 Complete in place, incl. removal of existing Endwall with care, excavate, sand, supply, lay & backfill.",1,1,49,50,0.013513513513513514,0.107280750137893,False
+accepted,P03,P03:WBS:48,"4 x 450 Cast Insitu Endwall to Main Roads Std Dwg 1306 Complete in place, incl. Excavate, supply and construct",1,1,50,49,0.013513513513513514,0.107280750137893,False
+accepted,P03,P03:WBS:49,"Ch 600 Extend 2/1800 x 600 RCBC and Add 3 New Cells 1800 x 600, Installation to Main Roads Std Dwg 1359 - Extend existing 2/1800 x 600 RCBC Complete in place, incl. removal of existing Endwalls with care, excavate, sand, supply, lay & backfill.",1,1,51,48,0.013513513513513514,0.10718882147453576,False
+accepted,P03,P03:WBS:5,"Schedule A - Roadworks Dysart Bypass Road Widening Preliminaries - Site establishment, Provision for Workplace Health & Safety, Site Cleanup and Dis-establishment",2,15,2,144,0.11486486486486487,0.012594226879941167,False
+accepted,P03,P03:WBS:50,"Install NEW 3/1800 x 600 RCBC adjacent to existing lengthened Culvert Complete in place, incl. excavate, sand, supply, lay and backfill.",1,1,52,47,0.013513513513513514,0.10700496414782129,False
+accepted,P03,P03:WBS:51,"NEW 5/1800 x 600 Cast Insitu Endwalls and Aprons to Main Roads Std Dwgs 1304 and 1371 Complete in place, incl. Excavate, supply and construct (existing to be removed)",1,2,53,46,0.02027027027027027,0.10672917815774959,False
+accepted,P03,P03:WBS:52,Excavate inlet and outlet at 0.5% grade with 10m base width to connect to existing drains neatly and smoothly.,1,1,54,5,0.013513513513513514,0.010663724949439235,False
+accepted,P03,P03:WBS:53,"Rip Rap Rock Protection in 250mm dia rock (layer 0.5m thick) to Outlet to extend 10m past culvert end and up batters a minimum of 1m - leave neat, tidy and even surface to rock.",1,1,55,4,0.013513513513513514,0.008365508365508366,False
+accepted,P03,P03:WBS:54,"Ch 800 Extend 4/450 dia SRC Pipe Class 2, Installation to Main Roads Std Dwg 1359 - 4 x 450 SRC Pipe Cl 2 Complete in place, incl. removal of existing Endwall with care, excavate, sand, supply, lay & backfill.",1,1,54,43,0.013513513513513514,0.09321566464423607,False
+accepted,P03,P03:WBS:55,"4 x 450 Cast Insitu Endwall ,Main Roads Std Dwg 1306 Complete in place, incl. Excavate, supply and construct",1,1,55,42,0.013513513513513514,0.09266409266409267,False
+accepted,P03,P03:WBS:56,"Ch 1300 Extend 4/450 dia SRC Pipe Class 2 SRC, Installation to Main Roads STD DWG 1359 - 4 x 450 SRC Pipe Cl 2 Complete in place, incl. removal of existing headwall with care, excavate, sand, supply, lay & backfill.",1,1,56,41,0.013513513513513514,0.09202059202059203,False
+accepted,P03,P03:WBS:57,"4 x 450 Cast Insitu Endwall to Main Roads Std Dwg 1306 Complete in place, incl. Excavate, supply and construct",1,1,57,40,0.013513513513513514,0.09128516271373414,False
+accepted,P03,P03:WBS:58,"Ch 1500 Extend 375 dia SRC Pipe Class 2, Installation to Main Roads Std Dwg 1359 - 1 x 375 SRC Pipe Cl 2 Complete in place, incl. removal of existing Endwall with care, excavate, sand, supply, lay & backfill.",1,1,58,39,0.013513513513513514,0.09045780474351903,False
+accepted,P03,P03:WBS:59,"1 x 375 Endwall with wings , Precast Type Complete in place, incl. Excavate, sand, supply and install.",1,1,59,38,0.013513513513513514,0.08953851810994669,False
+accepted,P03,P03:WBS:6,Provision for Traffic and Safety including an approved Traffic Management Plan required by Council prior to commencement of site works.,1,1,3,1,0.013513513513513514,9.192866335723479e-05,False
+accepted,P03,P03:WBS:60,"Ch 1749.800 Extend 2/450 dia SRC Pipe Class 2, Installation to Main Roads Std Dwg 1359 - 2 x 450 SRC Pipe Cl 2 Complete in place, incl. removal of existing Endwall with care, excavate, sand, supply, lay & backfill.",1,1,60,37,0.013513513513513514,0.0885273028130171,False
+accepted,P03,P03:WBS:61,"2 x 450 Cast Insitu Endwall to Main Roads Std Dwg 1306 Complete in place, incl. Excavate, supply and construct",1,1,61,36,0.013513513513513514,0.08742415885273028,False
+accepted,P03,P03:WBS:62,"Ch 1949.800 Extend 2/750 dia SRC Pipe Class 2, Installation to Main Roads Std Dwg 1359 - 2 x 750 SRC Pipe Cl 2 Complete in place, incl. removal of existing Endwall with care, excavate, sand, supply, lay & backfill.",1,1,62,35,0.013513513513513514,0.08622908622908623,False
+accepted,P03,P03:WBS:63,"2 x 750 Cast Insitu Endwall ,Main Roads Std Dwg 1304 Complete in place, incl. Excavate, supply and construct",1,1,63,34,0.013513513513513514,0.08494208494208494,False
+accepted,P03,P03:WBS:64,"Ch 2200 Extend 1/375 dia SRC Pipe Class 2, Installation to Main Roads Std Dwg 1359 - 1 x 375 SRC Pipe Cl 2 Complete in place, incl. removal of existing Endwall with care, excavate, sand, supply, lay & backfill.",1,1,64,33,0.013513513513513514,0.08356315499172642,False
+accepted,P03,P03:WBS:65,"1 x 375 Endwall , Precast Type with wings, Complete in place, incl. Excavate, sand, supply and install.",1,1,65,32,0.013513513513513514,0.08209229637801066,False
+accepted,P03,P03:WBS:66,"Ch 2720 Extend 2/375 dia SRC Pipe Class 2, Installation to Main Roads Std Dwg 1359 - 2 x 375 SRC Pipe Cl 2 Complete in place, incl. removal of existing Endwall with care, excavate, sand, supply, lay & backfill.",1,1,66,31,0.013513513513513514,0.08052950910093767,False
+accepted,P03,P03:WBS:67,"1/600 x 300 Cast Insitu Endwall and Apron to Main Roads Std Dwgs 1304 and 1371 Complete in place, incl. Excavate, supply and construct",1,2,67,30,0.02027027027027027,0.07887479316050745,False
+accepted,P03,P03:WBS:68,Excavate inlet and outlet at 0.5% grade with 1.0m base width to connect to existing drains neatly and smoothly.,2,1,70,3,0.02027027027027027,0.007905865048722191,False
+accepted,P03,P03:WBS:69,"Rip Rap Rock Protection in 250mm dia rock (layer 0.5m thick) to Outlet to extend 10m past culvert end and up batters a minimum of 1m - leave neat, tidy and even surface to rock",1,1,71,2,0.013513513513513514,0.004780290494576209,False
+accepted,P03,P03:WBS:7,Construction Setout by Contractor,1,1,3,61,0.013513513513513514,0.0,False
+accepted,P03,P03:WBS:70,Ch 2800 Take up and stack existing 1/600 x 300 RCBC and backfill to reinstate roadway.,1,1,72,1,0.013513513513513514,0.0015627872770729914,False
+accepted,P03,P03:WBS:71,Schedule C - Dysart Middlemount / Dysart Bypass Intersection - Provision for Traffic and Safety including an approved Traffic Management Plan required by Council prior to commencement of site works.,1,1,3,131,0.013513513513513514,4.5964331678617394e-05,False
+accepted,P03,P03:WBS:72,Construction Setout by Contractor,2,1,5,130,0.02027027027027027,0.011950726236440522,False
+accepted,P03,P03:WBS:73,"Provision of evidence of Public Liability Insurance ($10 million), and Workers Compensation Insurance for the works.",2,1,3,131,0.02027027027027027,9.192866335723479e-05,False
+accepted,P03,P03:WBS:74,"Locate Existing Services (Dial-Before-You-Dig, CapVac Truck etc) as required in existing road reserves",2,1,6,129,0.02027027027027027,0.019948519948519948,False
+accepted,P03,P03:WBS:75,As Constructed Survey Data to Council Requirements.,2,1,36,1,0.02027027027027027,4.5964331678617394e-05,False
+accepted,P03,P03:WBS:76,Geotechnical Testing by NATA Registered laboratory - Subgrade Compaction testing as specified,2,1,15,26,0.02027027027027027,0.00048262548262548264,False
+accepted,P03,P03:WBS:77,Sub-Base Compaction testing as specified - assume 2 layers,1,1,21,19,0.013513513513513514,0.0034013605442176874,False
+accepted,P03,P03:WBS:78,Base Compaction testing as specified,2,1,28,8,0.02027027027027027,0.00459643316786174,False
+accepted,P03,P03:WBS:79,Sub-Base Quality Testing as specified; Full Atterbergs plus grading plus full Quarry Stockpile results - assume 2 layers,1,1,3,26,0.013513513513513514,0.00048262548262548264,False
+accepted,P03,P03:WBS:8,"Provision of evidence of Public Liability Insurance ($10 million), and Workers Compensation Insurance for the works.",1,1,1,145,0.013513513513513514,0.0,False
+accepted,P03,P03:WBS:80,Base Quality Testing as specified; Full Atterbergs plus grading plus full Quarry Stockpile results,1,1,3,19,0.013513513513513514,0.002436109578966722,False
+accepted,P03,P03:WBS:81,"Clearing & Grubbing, removal of existing kerb and complete offsite disposal of Spoil inclusive of Dump Fees as required.",1,1,7,128,0.013513513513513514,0.02555616841331127,False
+accepted,P03,P03:WBS:82,Earthworks - excavate and place as embankment as directed - Cut to Spoil - to achieve boxed out deep to 500mm - material will be spoiled at IRC Tip.,1,1,8,127,0.013513513513513514,0.03107188821474536,False
+accepted,P03,P03:WBS:83,Remove isolated soft spots in subgrade as ordered and replace with Selected Spoil material - Provisional Item,1,2,9,126,0.02027027027027027,0.03649567935282221,False
+accepted,P03,P03:WBS:84,"Prepare Dysart Bypass Rd - Middlemount Rd Intersection Subgrade Surface for Gravel Pavement & for Council / MRD Inspection, (incl. provision of subgrade levels and compaction test results by Contractor) - Dysart Bypass Rd - Middlemount Rd Intersection LHS",4,1,13,122,0.033783783783783786,0.05506526935098364,False
+accepted,P03,P03:WBS:85,"Prepare Dysart Bypass Rd - Middlemount Rd Intersection Subgrade Surface for Gravel Pavement & for Council / MRD Inspection, (incl. provision of subgrade levels and compaction test results by Contractor) - Dysart Bypass Rd - Middlemount Rd Intersection RHS",1,4,14,121,0.033783783783783786,0.060029417172274314,False
+accepted,P03,P03:WBS:86,"Prepare Base Gravel Surface for Primerseal & for Council / MRD Inspection, incl provision of compaction test results - Dysart Bypass Rd - Middlemount Rd Intersection LHS",1,1,26,10,0.013513513513513514,0.0018385732671446957,False
+accepted,P03,P03:WBS:87,"Prepare Base Gravel Surface for Primerseal & for Council / MRD Inspection, incl provision of compaction test results - Dysart Bypass Rd - Middlemount Rd Intersection RHS",1,1,27,9,0.013513513513513514,0.0010571796286082,False
+accepted,P03,P03:WBS:88,"Gravel Pavement In Place complete, including supply, spreading, watering, rolling and trimming:- (a) Dysart Bypass Rd - Middlemount Rd Intersection LHS - Base QT Type 2.1 @ 150mm deep",3,1,24,18,0.02702702702702703,0.010525831954403384,False
+accepted,P03,P03:WBS:89,"Gravel Pavement In Place complete, including supply, spreading, watering, rolling and trimming:- (a) Dysart Bypass Rd - Middlemount Rd Intersection LHS Upper Sub-Base QT Type 2.3 @ 200mm deep",1,1,19,23,0.013513513513513514,0.009928295642581356,False
+accepted,P03,P03:WBS:9,"Locate Existing Services (Dial-Before-You-Dig, CapVac Truck etc) as required in existing road reserves",2,1,4,60,0.02027027027027027,0.003723110865968009,False
+accepted,P03,P03:WBS:90,"Gravel Pavement In Place complete, including supply, spreading, watering, rolling and trimming:- (a) Dysart Bypass Rd - Middlemount Rd Intersection LHS - Lower Sub-Base QT Type 2.5 @ 150mm deep",3,1,17,25,0.02702702702702703,0.009376723662437948,False
+accepted,P03,P03:WBS:91,"Gravel Pavement In Place complete, including supply, spreading, watering, rolling and trimming:- (B) Dysart Bypass Rd - Middlemount Rd Intersection RHS - Base QT Type 2.1 @ 150mm deep",1,2,25,17,0.02027027027027027,0.010204081632653062,False
+accepted,P03,P03:WBS:92,"Gravel Pavement In Place complete, including supply, spreading, watering, rolling and trimming:- (B) Dysart Bypass Rd - Middlemount Rd Intersection RHS -Upper Sub-Base QT Type 2.3 @ 200mm deep",1,2,20,22,0.02027027027027027,0.01006618863761721,False
+accepted,P03,P03:WBS:93,"Gravel Pavement In Place complete, including supply, spreading, watering, rolling and trimming:- (B) Dysart Bypass Rd - Middlemount Rd Intersection RHS -Lower Sub-Base QT Type 2.5 @ 150mm deep",1,1,18,24,0.013513513513513514,0.00969847398418827,False
+accepted,P03,P03:WBS:94,Provisional Item Pavement Repairs - Cement Stabilise 4% by weight 200mm deep any failed areas identified by the Superintendent as ordered.,1,2,26,13,0.02027027027027027,0.006756756756756757,False
+accepted,P03,P03:WBS:95,Bitumen Seal - complete in place (10mm primerseal ) ; spray rates nominally to be 1.1 l/sqm C170 - SEAL DESIGN TO BE CONFIRMED - Dysart Bypass Rd - Middlemount Rd Intersection LHS,2,1,30,7,0.02027027027027027,0.008365508365508366,False
+accepted,P03,P03:WBS:96,Bitumen Seal - complete in place (10mm primerseal ) ; spray rates nominally to be 1.1 l/sqm C170 - SEAL DESIGN TO BE CONFIRMED - Dysart Bypass Rd - Middlemount Rd Intersection RHS,1,1,31,6,0.013513513513513514,0.0072623644052215485,False
+accepted,P03,P03:WBS:97,Asphaltic Concrete Pavement MRD Type DG14 and 60 mm minimum thickness - complete in place. - Dysart Bypass Rd - Middlemount Rd Intersection Complete (overlaying existing seal area),1,1,32,5,0.013513513513513514,0.006067291781577496,False
+accepted,P03,P03:WBS:98,Medians Kerb at Intersections - Type 5 Concrete Kerb in minimum 25 MPa concrete,1,2,21,20,0.02027027027027027,0.0057455414598271744,False
+accepted,P03,P03:WBS:99,"Street Lighting - Conduits and Bases - Electrical Mains Trenching and Conduiting including bends, draw-wire, sand, bed, backfill, warning tape: 1 x 100 dia LV (HD) + HARD COVER (Provisional Item)",1,3,10,125,0.02702702702702703,0.0028497885640742784,False
+accepted,P04,P04:WBS:10,Practical Completion,1,0,2,0,0.14285714285714285,0.0,False
+accepted,P04,P04:WBS:3,PRELIMINARIES,0,0,0,0,0.0,0.0,False
+accepted,P04,P04:WBS:4,Stabilising,0,3,0,5,0.42857142857142855,0.0,False
+accepted,P04,P04:WBS:5,VARIATION - Emulsion Used for Training,0,0,0,0,0.0,0.0,False
+accepted,P04,P04:WBS:6,VARIATION - Additional Stabilising North of Mine Access Road,1,3,1,3,0.5714285714285714,0.047619047619047616,False
+accepted,P04,P04:WBS:7,VARIATION - Clearing Table Drains,1,0,1,0,0.14285714285714285,0.0,False
+accepted,P04,P04:WBS:8,VARIATION - Supply Additional Materials,2,0,2,0,0.2857142857142857,0.0,False
+accepted,P04,P04:WBS:9,VARIATION - Supply Additional Materials,1,0,2,0,0.14285714285714285,0.0,False
+accepted,P05,P05:WBS:10,Control of Traffic,1,1,3,1,0.01639344262295082,3.387074922097277e-05,False
+accepted,P05,P05:WBS:100,Pavement Marking (Transverse etc),1,1,65,2,0.01639344262295082,0.0006774149844194554,False
+accepted,P05,P05:WBS:101,Remove & reinstate exisiting signs & supports,1,1,63,4,0.01639344262295082,0.00894187779433681,False
+accepted,P05,P05:WBS:102,Supply & Install all signs complete,1,1,64,3,0.01639344262295082,0.004877387887820079,False
+accepted,P05,P05:WBS:103,Guide Posts,1,1,65,2,0.01639344262295082,0.0006774149844194554,False
+accepted,P05,P05:WBS:104,MISCELLANEOUS,0,0,0,0,0.0,0.0,False
+accepted,P05,P05:WBS:105,Grass seeding,1,1,63,1,0.01639344262295082,0.0010838639750711287,False
+accepted,P05,P05:WBS:106,Sawcut Bitumen pavement,1,1,56,14,0.01639344262295082,0.0,False
+accepted,P05,P05:WBS:107,Locate & Protect Services,1,1,5,71,0.01639344262295082,0.01124508874136296,False
+accepted,P05,P05:WBS:108,As Constructed Plans,4,1,77,1,0.04098360655737705,0.003725782414307005,False
+accepted,P05,P05:WBS:109,Principal Supply of Precast Conrete Items,1,1,1,76,0.01639344262295082,0.001490312965722802,False
+accepted,P05,P05:WBS:11,"Provision of Temporary Roadways, Sidetracks & Detours",2,1,4,1,0.02459016393442623,0.0001016122476629183,False
+accepted,P05,P05:WBS:110,Additional 375RCP at chainage 230.,1,1,14,28,0.01639344262295082,0.0,False
+accepted,P05,P05:WBS:112,Revised Seal Design,1,1,2,10,0.01639344262295082,0.0012193469719550198,False
+accepted,P05,P05:WBS:113,Shape table drain chainage 523-725,1,1,14,28,0.01639344262295082,0.0018967619563744751,False
+accepted,P05,P05:WBS:114,Nicol St - Revised pavement design,1,1,10,15,0.01639344262295082,0.0,False
+accepted,P05,P05:WBS:115,Nicol St - Additional drain outlet,1,1,19,11,0.01639344262295082,0.0008128979813033464,False
+accepted,P05,P05:WBS:116,Nicol St - Subgrade pavement repairs,2,1,11,16,0.02459016393442623,0.001761278959490584,False
+accepted,P05,P05:WBS:117,Nicol St - Additional works to water services,1,1,12,15,0.01639344262295082,0.0020322449532583662,False
+accepted,P05,P05:WBS:118,Wright Rd - Drainage works ch1300,1,2,53,9,0.02459016393442623,0.031364313778620784,False
+accepted,P05,P05:WBS:119,Wright Rd - Additional culvert no.06,1,1,54,3,0.01639344262295082,0.01002574176940794,False
+accepted,P05,P05:WBS:12,Temporary Erosion & Sedimentation Control,2,1,4,26,0.02459016393442623,0.0068418913426365,False
+accepted,P05,P05:WBS:120,Wright Rd - Driveway works,1,1,55,2,0.01639344262295082,0.006503183850426772,False
+accepted,P05,P05:WBS:121,Nicol St - Kerb ramp reconstruction,1,1,23,7,0.01639344262295082,6.774149844194554e-05,False
+accepted,P05,P05:WBS:122,Nicol St - Removal of Unsuitable - Telstra Cable,1,1,10,17,0.01639344262295082,0.0,False
+accepted,P05,P05:WBS:123,Wright Road - Scour & Batter Protection,0,0,0,0,0.0,0.0,False
+accepted,P05,P05:WBS:124,Scour Protection,1,1,54,6,0.01639344262295082,0.014632163663460237,False
+accepted,P05,P05:WBS:125,Drain Widening - Lot 130,1,1,55,5,0.01639344262295082,0.011312830239804906,False
+accepted,P05,P05:WBS:126,Batter Protection - Lot 130,1,1,56,4,0.01639344262295082,0.007858013819265684,False
+accepted,P05,P05:WBS:127,Culvert Extension - Lot 30,1,1,57,3,0.01639344262295082,0.004267714401842569,False
+accepted,P05,P05:WBS:128,Additional Drainage Works - Wright Road,1,1,58,2,0.01639344262295082,0.0005419319875355643,False
+accepted,P05,P05:WBS:13,Clearing & Grubbing,1,1,5,25,0.01639344262295082,0.008264462809917356,False
+accepted,P05,P05:WBS:14,Removal & Stockpiling of Topsoil for Re-use,1,2,6,24,0.02459016393442623,0.009551551280314322,False
+accepted,P05,P05:WBS:15,General Earthworks (Cut),1,2,7,23,0.02459016393442623,0.005690285869123426,False
+accepted,P05,P05:WBS:16,Replace unsuitable material below subgrade with select material complete (Provisional),2,5,9,21,0.05737704918032787,0.0075870478254979005,False
+accepted,P05,P05:WBS:18,Alteration to Exisiting Stormwater Structures,2,1,20,10,0.02459016393442623,0.005216095380029807,False
+accepted,P05,P05:WBS:19,Concrete Barrier Kerb (B1),3,2,21,9,0.04098360655737705,0.012599918710201871,False
+accepted,P05,P05:WBS:20,100mm slotted corrugated lastic pipe,1,2,18,12,0.02459016393442623,0.001964503454816421,False
+accepted,P05,P05:WBS:21,Supply stabilising Agent,1,1,10,15,0.01639344262295082,0.0006774149844194554,False
+accepted,P05,P05:WBS:22,Mixing & Spreading of stabilising agent,2,1,14,14,0.02459016393442623,0.0037935239127489502,False
+accepted,P05,P05:WBS:23,Place only 2.3,2,2,17,13,0.03278688524590164,0.009754775775640158,False
+accepted,P05,P05:WBS:24,Place only 2.1,2,1,24,6,0.02459016393442623,0.004775775640157161,False
+accepted,P05,P05:WBS:25,"Special Item - Take up existing gravel, stabilise & relay as working platform",2,1,11,14,0.02459016393442623,0.005216095380029807,False
+accepted,P05,P05:WBS:26,AMC5,2,3,25,5,0.04098360655737705,0.008264462809917356,False
+accepted,P05,P05:WBS:27,DG14 AC,2,1,27,2,0.02459016393442623,0.0018967619563744751,False
+accepted,P05,P05:WBS:28,Industrial Invert Crossing,1,2,22,8,0.02459016393442623,0.005859639615228289,False
+accepted,P05,P05:WBS:29,Grass Seeding,1,1,26,1,0.01639344262295082,0.0015580544641647476,False
+accepted,P05,P05:WBS:3,Contract Award,0,6,0,115,0.04918032786885246,0.0,False
+accepted,P05,P05:WBS:30,Sawcut bitumous pavement,1,1,26,3,0.01639344262295082,0.0,False
+accepted,P05,P05:WBS:31,Remove existing pavement & dispose offsite,1,1,8,22,0.01639344262295082,0.0,False
+accepted,P05,P05:WBS:32,Locate & Protect services,1,1,3,2,0.01639344262295082,0.0,False
+accepted,P05,P05:WBS:33,As Constructed Plans,1,1,28,1,0.01639344262295082,0.00013548299688389108,False
+accepted,P05,P05:WBS:34,WRIGHTS ROAD (STRATHDICKIE),1,0,1,0,0.00819672131147541,0.0,False
+accepted,P05,P05:WBS:35,Quality System Documents & Records,1,3,1,78,0.03278688524590164,0.002269340197805176,False
+accepted,P05,P05:WBS:36,Quality Verification & Control,1,1,2,1,0.01639344262295082,0.0001016122476629183,False
+accepted,P05,P05:WBS:37,Site Establishment & Disestablishment,3,2,4,75,0.04098360655737705,0.01896761956374475,False
+accepted,P05,P05:WBS:38,Preparation of Environmrntal Management Plan,1,1,1,76,0.01639344262295082,0.001490312965722802,False
+accepted,P05,P05:WBS:39,Control of Traffic,1,1,6,1,0.01639344262295082,0.00013548299688389108,False
+accepted,P05,P05:WBS:4,Practical Completion,10,0,115,0,0.0819672131147541,0.0,False
+accepted,P05,P05:WBS:40,"Provision of Temporary Roadways, Sidetracks & Detours",1,1,6,1,0.01639344262295082,0.00013548299688389108,False
+accepted,P05,P05:WBS:41,Temporary Erosion & Sedimentation Control,1,3,5,73,0.03278688524590164,0.012125728221108252,False
+accepted,P05,P05:WBS:42,Clearing & Grubbing,2,1,7,70,0.02459016393442623,0.03156753827394662,False
+accepted,P05,P05:WBS:43,"Special Item - Demolition of structures(concrete slabs, culverts pipes)",1,1,8,69,0.01639344262295082,0.03576751117734724,False
+accepted,P05,P05:WBS:44,Removal & Stockpiling of Topsoil for Re-use,1,2,9,68,0.02459016393442623,0.03983200108386398,False
+accepted,P05,P05:WBS:44.2,General Earthworks (Cut),1,1,10,67,0.01639344262295082,0.0,False
+accepted,P05,P05:WBS:45,General Earthworks (Fill),2,3,11,66,0.04098360655737705,0.04755453190624577,False
+accepted,P05,P05:WBS:46,Replace unsuitable material below subgrade with select material complete (Provisional),1,1,12,17,0.01639344262295082,0.011516054735130742,False
+accepted,P05,P05:WBS:48,Minor Rural Accesses,2,1,57,13,0.02459016393442623,0.000880639479745292,False
+accepted,P05,P05:WBS:49,Excavation for stromwater structures,1,1,13,29,0.01639344262295082,0.000880639479745292,False
+accepted,P05,P05:WBS:5,NICOL ST - PROSERPINE,0,0,0,0,0.0,0.0,False
+accepted,P05,P05:WBS:50,Removal / Demolition of Drainage Components,1,2,12,34,0.02459016393442623,0.014496680666576346,False
+accepted,P05,P05:WBS:51,375 RCP,1,3,13,31,0.03278688524590164,0.014157973174366617,False
+accepted,P05,P05:WBS:52,450 RCP,3,1,17,27,0.03278688524590164,0.01795149708711557,False
+accepted,P05,P05:WBS:53,Insitu RCBC Base Slab,0,0,0,0,0.0,0.0,False
+accepted,P05,P05:WBS:54,Culvert 4S - 1200 x 450 (4.8m),1,2,12,55,0.02459016393442623,0.023574041457797047,False
+accepted,P05,P05:WBS:55,Culvert 4AB - 1200 x 450 (4.8m),1,2,13,53,0.02459016393442623,0.02337960234078646,False
+accepted,P05,P05:WBS:56,Culvert 5E - 2/1200 x 450 (6m),1,2,14,51,0.02459016393442623,0.023516506863953006,False
+accepted,P05,P05:WBS:57,Culvert 6D - 3/1200 x 600 (6m),1,2,15,49,0.02459016393442623,0.02360733810740585,False
+accepted,P05,P05:WBS:58,Culvert 6F - 2/1200 x 600 (6m),1,2,16,47,0.02459016393442623,0.023533114208496953,False
+accepted,P05,P05:WBS:59,Culvert 6K - 2/1200 x 450 (4.8m),1,2,17,45,0.02459016393442623,0.02323533114584463,False
+accepted,P05,P05:WBS:6,Quality System Documents & Records,1,2,1,32,0.02459016393442623,0.0003725782414307005,False
+accepted,P05,P05:WBS:60,Culvert 6M - 2/1200 x 450 (4.8m),1,2,18,43,0.02459016393442623,0.02267703901120783,False
+accepted,P05,P05:WBS:61,Culvert 6P - 1200 x 450 (4.8m),1,2,19,41,0.02459016393442623,0.021829635838577728,False
+accepted,P05,P05:WBS:62,Culvert 6T - 1200 x 450 (6m),1,2,20,39,0.02459016393442623,0.020666508896423547,False
+accepted,P05,P05:WBS:63,Culvert 4U 2/1200 x 600 (10.8m) Under Road,1,2,21,37,0.02459016393442623,0.01915862611398447,False
+accepted,P05,P05:WBS:64,Culvert 4AA - 3/1200 x 450 (9.6m) Under Road,1,2,22,35,0.02459016393442623,0.017269966218279458,False
+accepted,P05,P05:WBS:65,Culvert 5D - 2/1200 x 600 ((.6m) Under Road,1,2,23,33,0.02459016393442623,0.014950852110451081,False
+accepted,P05,P05:WBS:66,Culvert 5M - 4/1200 x 600 (10.8m) Under Road,1,2,24,31,0.02459016393442623,0.012125536478605169,False
+accepted,P05,P05:WBS:67,Culvert 6B - 1200 x 450 (9.6m) Under Road,1,2,25,29,0.02459016393442623,0.008663668257557974,False
+accepted,P05,P05:WBS:68,Culvert 6V - 1200 x 450 (9.6m) Under Road,1,1,26,27,0.01639344262295082,0.004294281453541718,False
+accepted,P05,P05:WBS:69,RCBC - 1200 x 450,0,0,0,0,0.0,0.0,False
+accepted,P05,P05:WBS:7,Quality Verification & Control,1,1,2,1,0.01639344262295082,0.0001016122476629183,False
+accepted,P05,P05:WBS:70,Culvert 4S - 1200 x 450 (4.8m),1,1,13,40,0.01639344262295082,0.002158942571827004,False
+accepted,P05,P05:WBS:71,Culvert 4AB - 1200 x 450 (4.8m),2,1,15,39,0.02459016393442623,0.006357493948944971,False
+accepted,P05,P05:WBS:72,Culvert 5E - 2/1200 x 450 (6m),2,1,17,38,0.02459016393442623,0.010195669615124974,False
+accepted,P05,P05:WBS:73,Culvert 6K - 2/1200 x 450 (4.8m),2,1,24,35,0.02459016393442623,0.022845247941779574,False
+accepted,P05,P05:WBS:74,Culvert 6M - 2/1200 x 450 (4.8m),2,1,26,34,0.02459016393442623,0.025928120562993883,False
+accepted,P05,P05:WBS:75,Culvert 6P - 1200 x 450 (4.8m),2,1,28,33,0.02459016393442623,0.028920267963080594,False
+accepted,P05,P05:WBS:76,Culvert 6T - 1200 x 450 (6m),2,1,30,32,0.02459016393442623,0.03185072221280053,False
+accepted,P05,P05:WBS:77,Culvert 4AA - 3/1200 x 450 (9.6m) Under Road,2,1,34,30,0.02459016393442623,0.0376842921789406,False
+accepted,P05,P05:WBS:78,Culvert 6B - 1200 x 450 (9.6m) Under Road,2,1,40,27,0.02459016393442623,0.047731189349872465,False
+accepted,P05,P05:WBS:79,Culvert 6V - 1200 x 450 (9.6m) Under Road,2,1,42,26,0.02459016393442623,0.052838368784717524,False
+accepted,P05,P05:WBS:8,Site Establishment & Disestablishment,1,4,2,30,0.04098360655737705,0.0021677279501422573,False
+accepted,P05,P05:WBS:80,RCBC - 1200 x 600,0,1,0,38,0.00819672131147541,0.0,False
+accepted,P05,P05:WBS:81,Culvert 6D - 3/1200 x 600 (6m),3,1,20,37,0.03278688524590164,0.01629888687536702,False
+accepted,P05,P05:WBS:82,Culvert 6F - 2/1200 x 600 (6m),2,1,22,36,0.02459016393442623,0.019645037367906897,False
+accepted,P05,P05:WBS:83,Culvert 4U 2/1200 x 600 (10.8m) Under Road,2,1,32,31,0.02459016393442623,0.03475550458513472,False
+accepted,P05,P05:WBS:84,Culvert 5D - 2/1200 x 600 ((.6m) Under Road,2,1,36,29,0.02459016393442623,0.04071283230611237,False
+accepted,P05,P05:WBS:85,Culvert 5M - 4/1200 x 600 (10.8m) Under Road,2,1,38,28,0.02459016393442623,0.04397147603183371,False
+accepted,P05,P05:WBS:86,Cast in situ headwalls,2,2,52,25,0.03278688524590164,0.07492209727679176,False
+accepted,P05,P05:WBS:87,375 HW,1,1,14,28,0.01639344262295082,0.0009483809781872376,False
+accepted,P05,P05:WBS:88,375 Sloping HW,1,1,15,27,0.01639344262295082,0.0018290204579325296,False
+accepted,P05,P05:WBS:89,450 Sloping HW,2,1,20,26,0.02459016393442623,0.022083728492074246,False
+accepted,P05,P05:WBS:9,Preparation of Environmrntal Management Plan,1,1,1,27,0.01639344262295082,0.001761278959490584,False
+accepted,P05,P05:WBS:90,B1 Kerb,2,1,58,12,0.02459016393442623,0.039290069096328414,False
+accepted,P05,P05:WBS:91,SM5 Kerb,1,1,59,11,0.01639344262295082,0.036106218669556975,False
+accepted,P05,P05:WBS:92,Sub-soil,1,3,55,15,0.03278688524590164,0.04802872239533939,False
+accepted,P05,P05:WBS:93,PAVEMENTS,0,0,0,0,0.0,0.0,False
+accepted,P05,P05:WBS:94,Place only 2.3,2,1,54,16,0.02459016393442623,0.050670640834575266,False
+accepted,P05,P05:WBS:96,Place Only 2.1,1,1,60,10,0.01639344262295082,0.03278688524590164,False
+accepted,P05,P05:WBS:97,First Coat AMC5,2,3,62,9,0.04098360655737705,0.03116108928329495,False
+accepted,P05,P05:WBS:98,Second Coat,1,1,63,4,0.01639344262295082,0.00894187779433681,False
+accepted,P05,P05:WBS:99,Pavement Markings - Longitudinal Lines,1,1,64,3,0.01639344262295082,0.004877387887820079,False
+accepted,P06,P06:WBS:1,Contract Award,0,9,0,286,0.03125,0.0,False
+accepted,P06,P06:WBS:10,Replace unsuitable material below sub grade with select material complete (Provisional),1,1,7,262,0.006944444444444444,0.015945605884630273,False
+accepted,P06,P06:WBS:100,Renew Property Drainage connections,1,1,49,134,0.006944444444444444,0.010235191637630661,False
+accepted,P06,P06:WBS:1000,ANZAC STREET,1,5,1,272,0.020833333333333332,0.00021911429431754634,False
+accepted,P06,P06:WBS:101,MCC Type A Gully Pit,1,3,50,133,0.013888888888888888,0.011251451800232288,False
+accepted,P06,P06:WBS:102,(i) Concrete Barrier Kerb & Channel B1 complete,1,1,62,128,0.006944444444444444,0.03594415408439799,False
+accepted,P06,P06:WBS:103,(ii) Concrete Mountable Kerb & Channel M1 complete,4,1,61,129,0.017361111111111112,0.0351335656213705,False
+accepted,P06,P06:WBS:104,(i) 100mm dia Slotted Corrugated Plastic Pipe,1,2,45,134,0.010416666666666666,0.0021535036778939217,False
+accepted,P06,P06:WBS:105,Cleanout Structures,1,0,46,0,0.003472222222222222,0.0,False
+accepted,P06,P06:WBS:106,Place only Type 2.3 (cement modified),2,1,50,130,0.010416666666666666,0.018570944638017808,False
+accepted,P06,P06:WBS:107,Place only Type 2.1,1,4,63,127,0.017361111111111112,0.03673054587688734,False
+accepted,P06,P06:WBS:108,Special Item - Geotextile layer,3,2,48,132,0.017361111111111112,0.016586817653890824,False
+accepted,P06,P06:WBS:109,(vii) AMC5,3,1,66,5,0.013888888888888888,0.0026979287650019355,False
+accepted,P06,P06:WBS:11,In-Situ reinforced concrete Base Slab for culverts complete,2,1,6,4,0.010416666666666666,0.0002661633759194735,False
+accepted,P06,P06:WBS:110,(ii) 14mm Nominal Size,1,2,67,4,0.010416666666666666,0.0019478319783197832,False
+accepted,P06,P06:WBS:111,"Pavement Marking Paint - Transverse Lines, Symbols, Legends, Arrows, Chevrons, Traffic Islands & Kerbs",1,1,68,2,0.006944444444444444,0.00017542586140147114,False
+accepted,P06,P06:WBS:112,Remove and reinstate Existing Signs & Support Structures,1,1,43,2,0.006944444444444444,0.0,False
+accepted,P06,P06:WBS:113,(iv) Residential Invert Crossing,1,2,64,7,0.010416666666666666,0.0007742934572202865,False
+accepted,P06,P06:WBS:114,Special Item - As Constructed Survey and Plans,4,1,71,1,0.017361111111111112,0.00010888501742160279,False
+accepted,P06,P06:WBS:115,Quality Verification & Control,1,1,65,39,0.006944444444444444,0.02988288811459543,False
+accepted,P06,P06:WBS:116,Control of Traffic,1,2,66,38,0.010416666666666666,0.029556233062330625,False
+accepted,P06,P06:WBS:117,General Earthworks Cut,1,2,67,36,0.010416666666666666,0.027560007742934572,False
+accepted,P06,P06:WBS:118,General Earthworks Fill (Fill behind kerb to boundary),1,1,85,1,0.006944444444444444,0.001028358497870693,False
+accepted,P06,P06:WBS:119,Replace unsuitable material below sub grade with select material complete (PROVISIONAL),1,2,68,34,0.010416666666666666,0.00496031746031746,False
+accepted,P06,P06:WBS:12,1200 x 600,1,1,7,3,0.006944444444444444,0.00022986837011227255,False
+accepted,P06,P06:WBS:120,Removal / Demolition of Drainage Components complete,1,1,68,28,0.006944444444444444,0.021389856755710413,False
+accepted,P06,P06:WBS:121,Relocate existing kerb adapter and roofwater connection from property,1,0,84,0,0.003472222222222222,0.0,False
+accepted,P06,P06:WBS:122,"375mm dia Class 2, Flush Joint",2,1,71,27,0.010416666666666666,0.02152293844367015,False
+accepted,P06,P06:WBS:123,"450mm dia Class 2, Flush Joint",1,1,72,26,0.006944444444444444,0.020978513356562138,False
+accepted,P06,P06:WBS:124,"450mm dia Class 2, Rubber Ring Joint",1,1,73,25,0.006944444444444444,0.02040989159891599,False
+accepted,P06,P06:WBS:125,900 x 450,1,1,74,24,0.006944444444444444,0.019817073170731708,False
+accepted,P06,P06:WBS:126,1200 x 450,1,1,75,23,0.006944444444444444,0.01920005807200929,False
+accepted,P06,P06:WBS:127,1200 x 600,1,4,76,22,0.017361111111111112,0.018558846302748743,False
+accepted,P06,P06:WBS:128,Cast in situ Concrete Headwalls & Wingwalls & Aprons complete,1,1,77,2,0.006944444444444444,0.00019357336430507162,False
+accepted,P06,P06:WBS:129,BRO Pit Gully Pit,1,1,77,16,0.006944444444444444,0.005589430894308943,False
+accepted,P06,P06:WBS:13,Cast in situ Concrete Headwalls & Wingwalls & Aprons complete,1,1,8,2,0.006944444444444444,0.00016937669376693767,False
+accepted,P06,P06:WBS:130,(v) Concrete Manholes - Cast Insitu,1,2,78,15,0.010416666666666666,0.00483933410762679,False
+accepted,P06,P06:WBS:131,(i) Concrete Barrier Kerb & Channel B1 complete,1,4,84,11,0.017361111111111112,0.009315718157181572,False
+accepted,P06,P06:WBS:132,(ii) Concrete Mountable Kerb & Channel M1 complete,3,2,83,13,0.017361111111111112,0.011190960123886953,False
+accepted,P06,P06:WBS:133,(i) 100mm dia Slotted Corrugated Plastic Pipe,1,2,77,16,0.010416666666666666,0.005123644986449865,False
+accepted,P06,P06:WBS:134,Cleanout Structures,1,0,78,0,0.003472222222222222,0.0,False
+accepted,P06,P06:WBS:135,Place only Type 2.3,2,1,79,14,0.010416666666666666,0.007791327913279133,False
+accepted,P06,P06:WBS:136,Place only Type 2.1 (828m²),3,1,87,5,0.013888888888888888,0.0016695702671312427,False
+accepted,P06,P06:WBS:137,Special Item - Geotextile layer,1,1,77,15,0.006944444444444444,0.004192073170731708,False
+accepted,P06,P06:WBS:138,(vii) AMC5,3,2,89,4,0.017361111111111112,0.0024438637243515294,False
+accepted,P06,P06:WBS:139,(ii) 14mm Nominal Size,1,1,90,2,0.006944444444444444,0.0001572783584978707,False
+accepted,P06,P06:WBS:14,"Excavation - Inlet, Outlet & Diversion Channels",1,1,5,5,0.006944444444444444,0.0,False
+accepted,P06,P06:WBS:140,Remove and reinstate Existing Signs & Support Structures,1,1,67,2,0.006944444444444444,0.0008347851335656213,False
+accepted,P06,P06:WBS:141,Supply & Erection of Boundary Fencing (1200 high chainlink star picket fence),1,1,90,2,0.006944444444444444,0.0001572783584978707,False
+accepted,P06,P06:WBS:142,(iv) Residential Invert Crossing (? m),2,3,86,7,0.017361111111111112,0.0027100271002710027,False
+accepted,P06,P06:WBS:143,Service connections,2,1,73,2,0.010416666666666666,0.00014518002322880372,False
+accepted,P06,P06:WBS:144,Alterations to water main,1,2,69,6,0.010416666666666666,0.0033875338753387536,False
+accepted,P06,P06:WBS:145,Alterations to valves and hydrant margins,2,2,71,4,0.013888888888888888,0.0018147502903600465,False
+accepted,P06,P06:WBS:146,Special Item - As Constructed Survey and Plans,5,1,99,1,0.020833333333333332,0.0004113433991482772,False
+accepted,P06,P06:WBS:147,Quality Verification & Control,1,2,87,36,0.010416666666666666,0.036839430894308946,False
+accepted,P06,P06:WBS:148,Control of Traffic,1,3,88,33,0.013888888888888888,0.03408101045296167,False
+accepted,P06,P06:WBS:149,Temporary Erosion & Sedimentation Control (includes supply and installation of all components),1,1,89,31,0.006944444444444444,0.031225803329461867,False
+accepted,P06,P06:WBS:15,"Full service, supply agent and mix complete (Provisional if ordered)",1,1,8,261,0.006944444444444444,0.019018583042973287,False
+accepted,P06,P06:WBS:150,Clearing and Grubbing (removal of kerb & channel),1,2,90,30,0.010416666666666666,0.030512001548586916,False
+accepted,P06,P06:WBS:151,General Earthworks Cut,1,1,91,29,0.006944444444444444,0.019865466511807976,False
+accepted,P06,P06:WBS:152,Replace unsuitable material below sub grade with select material complete (provisional),1,3,92,28,0.013888888888888888,0.019103271389856756,False
+accepted,P06,P06:WBS:153,Removal / Demolition of Drainage Components complete,2,1,100,12,0.010416666666666666,0.009364111498257839,False
+accepted,P06,P06:WBS:154,Connect property drainage pipes (No. 21),1,0,104,0,0.003472222222222222,0.0,False
+accepted,P06,P06:WBS:155,In-Situ reinforced concrete Base Slab for culverts complete,1,1,101,11,0.006944444444444444,0.00828735965931088,False
+accepted,P06,P06:WBS:156,1200 x 300,1,1,102,10,0.006944444444444444,0.007186411149825784,False
+accepted,P06,P06:WBS:157,MCC Type A Gully Pit,1,2,103,9,0.010416666666666666,0.006061265969802555,False
+accepted,P06,P06:WBS:158,(i) Concrete Barrier Kerb & Channel B1 complete,2,1,104,7,0.010416666666666666,0.00378072977158343,False
+accepted,P06,P06:WBS:159,Subsoil Drain Pipe - 100mm dia Slotted Corrugated Plastic Pipe complete (provisional quantity),2,1,95,24,0.010416666666666666,0.01552216415021293,False
+accepted,P06,P06:WBS:16,Place only Type 2.1 (cement modified),1,3,10,195,0.013888888888888888,0.018837108013937284,False
+accepted,P06,P06:WBS:160,"Place only Type 2.3 (includes cart, place, compact & trim)",1,3,97,21,0.013888888888888888,0.012582268679829655,False
+accepted,P06,P06:WBS:161,"Place only Type 2.1 (includes cart, place, compact & trim)",2,1,106,6,0.010416666666666666,0.0026979287650019355,False
+accepted,P06,P06:WBS:162,Special Item - Geogrid layer,1,2,96,23,0.010416666666666666,0.014651084010840108,False
+accepted,P06,P06:WBS:163,Special Item - Geotextile layer,1,0,97,0,0.003472222222222222,0.0,False
+accepted,P06,P06:WBS:164,(vii) AMC5,2,1,107,5,0.010416666666666666,0.004065040650406504,False
+accepted,P06,P06:WBS:165,(i) 10mm Nominal Size,1,2,108,4,0.010416666666666666,0.0028189121176926055,False
+accepted,P06,P06:WBS:166,Pavement Marking Paint - Longitudinal Lines including car parking bays,1,1,109,2,0.006944444444444444,0.00022986837011227255,False
+accepted,P06,P06:WBS:167,Remove and reinstate Existing Signs & Support Structures,1,1,89,2,0.006944444444444444,0.0,False
+accepted,P06,P06:WBS:168,(iv) Residential Invert Crossing,1,2,98,11,0.010416666666666666,0.004784891598915989,False
+accepted,P06,P06:WBS:169,(i) Grass Seeding,1,1,100,4,0.006944444444444444,0.002455962059620596,False
+accepted,P06,P06:WBS:17,Place only Type 2.3 (cement modified),1,2,9,260,0.010416666666666666,0.022067363530778164,False
+accepted,P06,P06:WBS:170,(ii) Turfing,1,1,101,3,0.006944444444444444,0.0012824235385210994,False
+accepted,P06,P06:WBS:171,(iii) Individual Planting,1,1,102,2,0.006944444444444444,8.468834688346883e-05,False
+accepted,P06,P06:WBS:172,Supply and place Imported Topsoil,1,1,99,5,0.006944444444444444,0.003605303910181959,False
+accepted,P06,P06:WBS:173,Sawcut Bituminous pavement,1,0,99,0,0.003472222222222222,0.0,False
+accepted,P06,P06:WBS:174,Service connections,1,4,98,15,0.017361111111111112,0.0055531358885017425,False
+accepted,P06,P06:WBS:175,Special Item - As Constructed Survey and Plans,5,1,115,1,0.020833333333333332,0.00033875338753387534,False
+accepted,P06,P06:WBS:176,Quality Verification & Control,1,1,12,188,0.006944444444444444,0.004936120789779327,False
+accepted,P06,P06:WBS:177,Control of Traffic,1,2,13,187,0.010416666666666666,0.007053329461866047,False
+accepted,P06,P06:WBS:178,Temporary Erosion & Sedimentation Control (includes supply and installation of all components),1,2,14,186,0.010416666666666666,0.008952768099109562,False
+accepted,P06,P06:WBS:179,"Special Item - Demolition of Structure (concrete slabs, culverts, pipes etc)",1,1,15,175,0.006944444444444444,0.009206833139759969,False
+accepted,P06,P06:WBS:18,(vii) AMC5,1,2,11,3,0.010416666666666666,0.0002056716995741386,False
+accepted,P06,P06:WBS:180,Removal & Stockpiling of Topsoil for reuse (100mm thick nom.),1,1,15,176,0.006944444444444444,0.0016332752613240418,False
+accepted,P06,P06:WBS:181,General Earthworks Cut,1,1,16,175,0.006944444444444444,0.003569008904374758,False
+accepted,P06,P06:WBS:182,General Earthworks Fill,1,1,17,174,0.006944444444444444,0.00548054587688734,False
+accepted,P06,P06:WBS:183,Replace unsuitable material below sub grade with select material complete (PROVISIONAL),1,1,18,173,0.006944444444444444,0.007367886178861789,False
+accepted,P06,P06:WBS:184,Removal / Demolition of Drainage Components complete,1,1,16,174,0.006944444444444444,0.011130468447541618,False
+accepted,P06,P06:WBS:185,Connect property drainage pipes ( 7 No.),1,2,20,168,0.010416666666666666,0.0014780132920376823,False
+accepted,P06,P06:WBS:186,In-Situ reinforced concrete Base Slab for culverts complete,1,1,17,173,0.006944444444444444,0.013029907084785134,False
+accepted,P06,P06:WBS:187,750 x 300,1,2,18,172,0.010416666666666666,0.014905149051490514,False
+accepted,P06,P06:WBS:188,MCC Type A Gully Pit (including chamber),1,2,19,169,0.010416666666666666,0.008962850045167118,False
+accepted,P06,P06:WBS:189,(i) Concrete Barrier Kerb & Channel B1 complete,5,2,34,161,0.024305555555555552,0.020710333591431155,False
+accepted,P06,P06:WBS:19,"Supply & Spray Binder - Bitumen (includes PMB's, Adhesion Agent where required and Preparation of Surface) supply & spread aggregates complete",1,1,12,2,0.006944444444444444,0.0,False
+accepted,P06,P06:WBS:190,(iv) Concrete Dish Drain (600 wide) complete,2,1,37,158,0.010416666666666666,0.025210914311524068,False
+accepted,P06,P06:WBS:191,Subsoil Drain Pipe - 100mm dia Slotted Corrugated Plastic Pipe complete,1,1,19,172,0.006944444444444444,0.009231029810298103,False
+accepted,P06,P06:WBS:192,Special Item -Subsoil Drain Pipe - 100mm dia Slotted Corrugated Plastic Pipe encased in no fines concrete complete as shown on drawings,1,3,20,171,0.013888888888888888,0.011069976771196283,False
+accepted,P06,P06:WBS:193,Cleanout Structures,1,0,21,0,0.003472222222222222,0.0,False
+accepted,P06,P06:WBS:194,Place only Type 2.3 (cement modified),3,3,30,166,0.020833333333333332,0.02107731642792618,False
+accepted,P06,P06:WBS:195,Place only Type 2.1 (cement modified),2,2,39,157,0.013888888888888888,0.05134331849270872,False
+accepted,P06,P06:WBS:196,Special Item - Geogrid layer (PROVISIONAL),2,2,22,168,0.013888888888888888,0.014409117305458768,False
+accepted,P06,P06:WBS:197,Special Item -Geotextile layer (PROVISIONAL),1,0,23,0,0.003472222222222222,0.0,False
+accepted,P06,P06:WBS:198,(vi) AMC4,1,1,40,3,0.006944444444444444,0.0006149987095109046,False
+accepted,P06,P06:WBS:199,(ii) 14mm Nominal Size,1,1,41,2,0.006944444444444444,0.00015526196928635953,False
+accepted,P06,P06:WBS:2,Practical Completion,18,0,256,0,0.0625,0.0,False
+accepted,P06,P06:WBS:20,Guide Posts complete supply and install,1,1,11,3,0.006944444444444444,0.00013308168795973674,False
+accepted,P06,P06:WBS:200,(iv) Residential Invert Crossing (3.1m to 4.5m),2,2,32,160,0.013888888888888888,0.023738950187120914,False
+accepted,P06,P06:WBS:2000,DOBBINS LANE,4,2,11,64,0.020833333333333332,0.007647492149524669,False
+accepted,P06,P06:WBS:201,(viii) Hand Placed Concrete Paving (Footpath / Bikeway),1,1,33,3,0.006944444444444444,0.0005827364821267261,False
+accepted,P06,P06:WBS:202,(i) Grass Seeding,1,1,34,2,0.006944444444444444,0.00020768808878564982,False
+accepted,P06,P06:WBS:203,Supply and install mains and reticulation,1,2,19,163,0.010416666666666666,0.007563475932378371,False
+accepted,P06,P06:WBS:204,Special Item - As Constructed Survey and Plans,3,1,44,1,0.013888888888888888,7.259001161440186e-05,False
+accepted,P06,P06:WBS:205,Quality Verification & Control,1,1,65,78,0.006944444444444444,0.03145567169957414,False
+accepted,P06,P06:WBS:206,Control of Traffic,1,2,66,77,0.010416666666666666,0.03160085172280294,False
+accepted,P06,P06:WBS:207,Temporary Erosion & Sedimentation Control (includes supply and installation of all components),1,2,67,75,0.010416666666666666,0.030076461478900505,False
+accepted,P06,P06:WBS:208,"Special Item - Demolition of Structure (concrete slabs, culverts, pipes etc)",1,2,68,66,0.010416666666666666,0.01526723494275759,False
+accepted,P06,P06:WBS:209,General Earthworks Cut,1,1,68,60,0.006944444444444444,0.014071228084729825,False
+accepted,P06,P06:WBS:21,(i) Grass Seeding,1,1,12,2,0.006944444444444444,2.4196670538133953e-05,False
+accepted,P06,P06:WBS:210,Removal / Demolition of Drainage Components complete,1,3,69,64,0.013888888888888888,0.013143977103036338,False
+accepted,P06,P06:WBS:211,Alteration to Existing Stormwater Structures,3,1,74,6,0.013888888888888888,0.003702810731338606,False
+accepted,P06,P06:WBS:212,Connect property drainage pipes,1,1,78,2,0.006944444444444444,0.0002184901738473167,False
+accepted,P06,P06:WBS:213,In-Situ reinforced concrete Base Slab for culverts complete,1,1,75,5,0.006944444444444444,0.0028680255977729845,False
+accepted,P06,P06:WBS:214,750 x 300,1,1,76,4,0.006944444444444444,0.0020090437936692296,False
+accepted,P06,P06:WBS:215,MCC Type A Gully Pit,1,1,77,3,0.006944444444444444,0.00112586531902734,False
+accepted,P06,P06:WBS:216,(i) Concrete Barrier Kerb & Channel B1 complete,3,2,81,50,0.017361111111111112,0.018255667782017957,False
+accepted,P06,P06:WBS:217,Subsoil Drain Pipe - 100mm dia Slotted Corrugated Plastic Pipe complete (provisional quantity),1,3,69,59,0.013888888888888888,0.013962343067308222,False
+accepted,P06,P06:WBS:218,Cleanout Structures,1,0,70,0,0.003472222222222222,0.0,False
+accepted,P06,P06:WBS:219,Place only Type 2.3,1,1,72,51,0.006944444444444444,0.0049788970466235274,False
+accepted,P06,P06:WBS:22,Special Item - As Constructed Survey and Plans,4,1,19,1,0.017361111111111112,0.00013308168795973674,False
+accepted,P06,P06:WBS:220,Place only Type 2.5 (cement modified),2,3,71,55,0.017361111111111112,0.011954019412643105,False
+accepted,P06,P06:WBS:221,Place only Type 2.1,2,3,84,44,0.017361111111111112,0.013952693204653137,False
+accepted,P06,P06:WBS:222,Special Item - Geogrid layer,1,2,70,57,0.010416666666666666,0.0008468834688346884,False
+accepted,P06,P06:WBS:223,Special Item - Geotextile layer,1,0,71,0,0.003472222222222222,0.0,False
+accepted,P06,P06:WBS:224,(ii) 14mm Nominal Size,2,1,86,4,0.010416666666666666,0.002105110336817654,False
+accepted,P06,P06:WBS:225,Pavement Marking Paint - Longitudinal Lines including car parking bays,1,1,87,3,0.006944444444444444,0.0011009485094850948,False
+accepted,P06,P06:WBS:226,"Pavement Marking Paint - Transverse Lines, Symbols, Legends, Arrows, Chevrons, Traffic Islands & Kerbs",1,1,88,2,0.006944444444444444,7.259001161440186e-05,False
+accepted,P06,P06:WBS:227,Remove and reinstate Existing Signs & Support Structures,1,1,67,2,0.006944444444444444,0.0008347851335656213,False
+accepted,P06,P06:WBS:228,Supply & Installation of all Signs (complete),1,2,85,39,0.010416666666666666,0.009343227467138615,False
+accepted,P06,P06:WBS:229,(ii) Concrete Kerb Ramp (1 No),1,1,82,49,0.006944444444444444,0.003968253968253968,False
+accepted,P06,P06:WBS:23,Quality Verification & Control,1,1,12,63,0.006944444444444444,0.00820267131242741,False
+accepted,P06,P06:WBS:230,(iv) Residential Invert Crossing (10.5 m),1,3,83,48,0.013888888888888888,0.003556910569105691,False
+accepted,P06,P06:WBS:231,(viii) Hand Placed Concrete Paving (Footpath / Bikeway),2,1,85,3,0.010416666666666666,0.0010727190605239387,False
+accepted,P06,P06:WBS:232,(ii) Turfing,1,1,86,2,0.006944444444444444,6.855723319137952e-05,False
+accepted,P06,P06:WBS:233,Supply and install mains and reticulation,1,1,72,53,0.006944444444444444,0.0,False
+accepted,P06,P06:WBS:234,Service connections,5,2,78,52,0.024305555555555552,0.013349360747008831,False
+accepted,P06,P06:WBS:235,Special Item - As Constructed Survey and Plans,5,1,103,1,0.020833333333333332,0.00035373227881938684,False
+accepted,P06,P06:WBS:25,Control of Traffic,1,2,13,62,0.010416666666666666,0.008807588075880758,False
+accepted,P06,P06:WBS:26,Temporary Erosion & Sedimentation Control (includes supply and installation of all components),1,2,14,61,0.010416666666666666,0.009025358110723964,False
+accepted,P06,P06:WBS:27,General Earthworks Cut,1,2,15,56,0.010416666666666666,0.008855981416957027,False
+accepted,P06,P06:WBS:28,Replace unsuitable material below sub grade with select material complete (PROVISIONAL),1,3,16,54,0.013888888888888888,0.009146341463414634,False
+accepted,P06,P06:WBS:29,Removal / Demolition of Drainage Components complete,1,1,15,3,0.006944444444444444,0.0005444250871080139,False
+accepted,P06,P06:WBS:30,Alteration to Existing Stormwater Structures (New 225 Upvc at Ch 140,1,1,16,2,0.006944444444444444,0.00038714672861014324,False
+accepted,P06,P06:WBS:300,CULTURAL CENTRE CAR PARK,3,2,26,33,0.017361111111111112,0.010212339226566869,False
+accepted,P06,P06:WBS:31,225mm dia uPVC,1,1,17,1,0.006944444444444444,0.0002056716995741386,False
+accepted,P06,P06:WBS:32,(x) Inter-allotment Drainage Pit,1,0,18,0,0.003472222222222222,0.0,False
+accepted,P06,P06:WBS:33,Concrete Lining of Open Drains,1,0,16,0,0.003472222222222222,0.0,False
+accepted,P06,P06:WBS:34,(i) Concrete Barrier Kerb & Channel B1 complete,1,1,23,45,0.006944444444444444,0.011215156794425087,False
+accepted,P06,P06:WBS:35,(iv) Concrete Dish Drain (0.9m wide) complete,1,1,24,44,0.006944444444444444,0.011469221835075493,False
+accepted,P06,P06:WBS:36,(vi) Concrete Kerb (Type B2) complete,1,1,22,46,0.006944444444444444,0.010936895083236546,False
+accepted,P06,P06:WBS:37,(i) 100mm dia Slotted Corrugated Plastic Pipe,2,3,18,52,0.017361111111111112,0.009400406504065041,False
+accepted,P06,P06:WBS:38,Cleanout Structures,1,0,19,0,0.003472222222222222,0.0,False
+accepted,P06,P06:WBS:39,Place only Type 2.3,2,1,21,47,0.010416666666666666,0.010634436701509872,False
+accepted,P06,P06:WBS:40,Place only Type 2.1,1,2,25,43,0.010416666666666666,0.011699090205187767,False
+accepted,P06,P06:WBS:400,DOBBINS LANE WATER MAIN,1,3,1,77,0.013888888888888888,0.00014652428270314449,False
+accepted,P06,P06:WBS:41,Special Item - Geogrid layer,2,2,19,50,0.013888888888888888,0.0004597367402245451,False
+accepted,P06,P06:WBS:42,Special Item - Geotextile layer,1,1,20,48,0.006944444444444444,0.0005807200929152149,False
+accepted,P06,P06:WBS:43,(vii) AMC5,1,2,26,9,0.010416666666666666,0.0021777003484320556,False
+accepted,P06,P06:WBS:44,(ii) 14mm Nominal Size,2,1,27,2,0.010416666666666666,0.0003629500580720093,False
+accepted,P06,P06:WBS:45,(i) 100mm thick concrete footpath,1,1,27,7,0.006944444444444444,0.0016332752613240418,False
+accepted,P06,P06:WBS:46,(ii) Concrete Kerb Ramp,1,1,28,6,0.006944444444444444,0.0013792102206736353,False
+accepted,P06,P06:WBS:47,(v) Industrial Invert Crossing,1,2,29,5,0.010416666666666666,0.0011009485094850948,False
+accepted,P06,P06:WBS:48,(ii) Turfing,1,1,32,2,0.006944444444444444,0.00012098335269066976,False
+accepted,P06,P06:WBS:49,Supply and place Imported Topsoil,2,1,31,3,0.010416666666666666,0.0004718350754936121,False
+accepted,P06,P06:WBS:5,Quality System Documents & Records (for entire Package A),1,1,2,271,0.006944444444444444,0.0004113433991482772,False
+accepted,P06,P06:WBS:50,Special Item - As Constructed Survey and Plans,2,1,34,1,0.010416666666666666,0.00012098335269066976,False
+accepted,P06,P06:WBS:500,DODD STREET,3,4,40,153,0.024305555555555552,0.07243407751537834,False
+accepted,P06,P06:WBS:51,Quality Verification & Control,1,1,27,32,0.006944444444444444,0.01012630662020906,False
+accepted,P06,P06:WBS:52,Control of Traffic,1,1,28,31,0.006944444444444444,0.010174699961285328,False
+accepted,P06,P06:WBS:53,General Earthworks Cut,1,1,29,30,0.006944444444444444,0.01019889663182346,False
+accepted,P06,P06:WBS:54,General Earthworks Fill,1,1,30,29,0.006944444444444444,0.01019889663182346,False
+accepted,P06,P06:WBS:55,Replace unsuitable material below sub grade with select material complete (PROVISIONAL),1,3,31,28,0.013888888888888888,0.010174699961285328,False
+accepted,P06,P06:WBS:56,Alteration to Existing Stormwater Structures (Break new PVC pipt into existing line and andage),1,1,32,20,0.006944444444444444,0.0017421602787456446,False
+accepted,P06,P06:WBS:57,"UPVC pipes (150mm) supply, install, backfill complete",1,1,33,19,0.006944444444444444,0.0015848819202477738,False
+accepted,P06,P06:WBS:58,Connect property drainage pipes,1,1,34,18,0.006944444444444444,0.0014034068912117692,False
+accepted,P06,P06:WBS:59,"Construct Complete in place, downpipe extension and overflow grate",1,1,35,17,0.006944444444444444,0.0011977351916376306,False
+accepted,P06,P06:WBS:6,Quality Verification & Control,1,1,3,270,0.006944444444444444,0.003653697251258227,False
+accepted,P06,P06:WBS:60,(i) Concrete Barrier Kerb & Channel B1 complete,2,1,43,13,0.010416666666666666,0.003333091366627952,False
+accepted,P06,P06:WBS:600,DOHERTY STREET,3,2,64,40,0.017361111111111112,0.03032582161139072,False
+accepted,P06,P06:WBS:61,(iv) Concrete Dish Drain (0.9m wide) complete,1,1,44,12,0.006944444444444444,0.0029580429732868757,False
+accepted,P06,P06:WBS:62,(vi) Concrete Kerb (Type B2) complete,2,2,42,16,0.013888888888888888,0.0017905536198219124,False
+accepted,P06,P06:WBS:63,(i) 100mm dia Slotted Corrugated Plastic Pipe,1,2,32,21,0.010416666666666666,0.004288859852884243,False
+accepted,P06,P06:WBS:64,Cleanout Structures,1,0,33,0,0.003472222222222222,0.0,False
+accepted,P06,P06:WBS:65,Place only Type 2.1,3,1,47,11,0.013888888888888888,0.005928184281842819,False
+accepted,P06,P06:WBS:66,Place only Type 2.3,1,2,37,17,0.010416666666666666,0.003429878048780488,False
+accepted,P06,P06:WBS:67,Special Item - Geogrid layer,2,1,35,19,0.010416666666666666,0.003865418118466899,False
+accepted,P06,P06:WBS:68,Special Item - Geotextile layer,1,1,36,18,0.006944444444444444,0.0036597464188927605,False
+accepted,P06,P06:WBS:69,(vii) AMC5,1,2,48,10,0.010416666666666666,0.00548054587688734,False
+accepted,P06,P06:WBS:7,Site Establishment & Disestablishment,1,3,4,269,0.013888888888888888,0.006871854432830043,False
+accepted,P06,P06:WBS:70,(ii) 14mm Nominal Size,1,1,49,4,0.006944444444444444,0.0016151277584204413,False
+accepted,P06,P06:WBS:700,FAUST STREET,3,2,86,37,0.017361111111111112,0.03756379471391086,False
+accepted,P06,P06:WBS:71,Pavement Marking Paint - Longitudinal Lines including car parking bays,1,1,50,3,0.006944444444444444,0.0010586043360433603,False
+accepted,P06,P06:WBS:72,"Pavement Marking Paint - Transverse Lines, Symbols, Legends, Arrows, Chevrons, Traffic Islands & Kerbs",1,1,51,2,0.006944444444444444,0.0004778842431281456,False
+accepted,P06,P06:WBS:73,(i) 100mm thick concrete footpath,1,1,49,6,0.006944444444444444,0.002800764614789005,False
+accepted,P06,P06:WBS:74,(ii) Concrete Kerb Ramp,1,2,50,5,0.010416666666666666,0.002268437862950058,False
+accepted,P06,P06:WBS:75,(iv) Residential Invert Crossing,1,1,51,3,0.006944444444444444,0.0006170150987224158,False
+accepted,P06,P06:WBS:76,(v) Industrial Invert Crossing,1,1,52,2,0.006944444444444444,2.4196670538133953e-05,False
+accepted,P06,P06:WBS:77,Special Item - Supply & Install Tactile Marking,1,1,51,2,0.006944444444444444,0.0004778842431281456,False
+accepted,P06,P06:WBS:78,Special Item - As Constructed Survey and Plans,3,1,57,1,0.013888888888888888,0.0003629500580720093,False
+accepted,P06,P06:WBS:79,"Excavate and backfil all materials for following diameter water mains, approved backfill under roads, testing of backfill compaction, disposal of surplus materials and restoration of surfaces:",1,1,2,12,0.006944444444444444,0.0002661633759194735,False
+accepted,P06,P06:WBS:8,Control of Traffic,1,1,5,264,0.006944444444444444,0.009727061556329849,False
+accepted,P06,P06:WBS:80,100mm dia. DICL Class PN35,1,2,3,11,0.010416666666666666,0.0003750483933410763,False
+accepted,P06,P06:WBS:800,JUPP STREET,3,3,11,189,0.020833333333333332,0.023181754635006668,False
+accepted,P06,P06:WBS:81,100mm dia.,1,1,4,4,0.006944444444444444,0.00019357336430507162,False
+accepted,P06,P06:WBS:82,100mm x 100mm.,1,1,5,3,0.006944444444444444,0.00018147502903600465,False
+accepted,P06,P06:WBS:83,100mm x 45 degree.,1,1,6,2,0.006944444444444444,0.00014518002322880372,False
+accepted,P06,P06:WBS:84,100mm,1,1,7,1,0.006944444444444444,8.468834688346883e-05,False
+accepted,P06,P06:WBS:85,100mm,1,0,8,0,0.003472222222222222,0.0,False
+accepted,P06,P06:WBS:86,Single connection with road crossing,1,1,4,5,0.006944444444444444,0.00021777003484320557,False
+accepted,P06,P06:WBS:87,Double connection with road crossing,1,2,5,4,0.010416666666666666,0.00021777003484320557,False
+accepted,P06,P06:WBS:88,"Sterilisation of mains including supply of chlorine, water for chlorination and bacteriological sampling and testing.",1,1,6,3,0.006944444444444444,0.0,False
+accepted,P06,P06:WBS:89,Locate existing water main and arrange connection of new water main. (Work by WRC).,2,1,7,2,0.010416666666666666,0.00014518002322880372,False
+accepted,P06,P06:WBS:9,General Earthworks Cut,1,1,6,263,0.006944444444444444,0.01284843205574913,False
+accepted,P06,P06:WBS:90,Special Item - As Constructed Survey and Plans,1,1,8,1,0.006944444444444444,7.259001161440186e-05,False
+accepted,P06,P06:WBS:900,STERRY STREET,3,3,64,79,0.020833333333333332,0.060075628038026414,False
+accepted,P06,P06:WBS:91,Quality Verification & Control,1,2,41,152,0.010416666666666666,0.015873015873015872,False
+accepted,P06,P06:WBS:92,Control of Traffic,1,3,42,150,0.013888888888888888,0.01669570267131243,False
+accepted,P06,P06:WBS:93,Temporary Erosion & Sedimentation Control (includes supply and installation of all components),1,3,43,148,0.013888888888888888,0.0169255710414247,False
+accepted,P06,P06:WBS:94,"Special Item - Demolition of Structure (concrete slabs, culverts, pipes etc)",1,1,44,139,0.006944444444444444,0.004790940766550522,False
+accepted,P06,P06:WBS:95,General Earthworks Cut,1,1,44,135,0.006944444444444444,0.001064653503677894,False
+accepted,P06,P06:WBS:96,Removal / Demolition of Drainage Components complete,1,1,45,138,0.006944444444444444,0.005928184281842819,False
+accepted,P06,P06:WBS:97,Alteration to Existing Stormwater Structures (Break new RCP's into existing RCBC - 4 Nos),1,1,46,137,0.006944444444444444,0.0070412311265969805,False
+accepted,P06,P06:WBS:98,"375mm dia Class 2, Flush Joint",1,1,47,136,0.006944444444444444,0.008130081300813007,False
+accepted,P06,P06:WBS:99,"375mm dia Class 3, Flush Joint",1,1,48,135,0.006944444444444444,0.009194734804490902,False
+accepted,P06,P06:WBS:CCC01,CCC_PV01 - Remove and Replace New kerbiing and traffic Islands,1,1,43,13,0.006944444444444444,0.0008831784746418892,False
+accepted,P06,P06:WBS:CCC02,CCC_PV02 - Cultrual Centre Carpark - Install 600m dish Drain,1,1,44,12,0.006944444444444444,0.000508130081300813,False
+accepted,P06,P06:WBS:CCC03,CCC_PV03 Cultrual Centre Carpark Insitu Stabilising Carpark - 400m2,1,2,33,20,0.010416666666666666,0.0031758130081300812,False
+accepted,P06,P06:WBS:CCC04,Unsuitable Subgrade replacement Iron Stone Rock Mattress,1,1,32,21,0.006944444444444444,0.003320993031358885,False
+accepted,P06,P06:WBS:DL01,Construct three residential property access Dobbins Lane,1,1,30,4,0.006944444444444444,0.0,False
+accepted,P06,P06:WBS:DL02,Variation Direction to place an additional layer of Geogrid dobbins lane Ch 190 to Ch 230 - 7.5m wide,1,0,20,0,0.003472222222222222,0.0,False
+accepted,P06,P06:WBS:DL03,"Remove & Replace Subgrade - Excavate unsutiable material, Blended cement into gravel, import place and compact.",1,1,17,53,0.006944444444444444,0.0,False
+accepted,P06,P06:WBS:DS01,Variation to water main Doherty street extra over the BOQ,1,1,70,5,0.006944444444444444,0.0,False
+accepted,P06,P06:WBS:DS02,Pavement Design,1,1,69,28,0.006944444444444444,0.0003145567169957414,False
+accepted,P06,P06:WBS:DS03,Replacement of AC sewer main ch 37,1,1,72,3,0.006944444444444444,0.0,False
+accepted,P06,P06:WBS:DS04,Construct Field Inlet Gully Pit Doherty Street,1,1,79,14,0.006944444444444444,0.0,False
+accepted,P06,P06:WBS:DS05,Kerb extension end of Doherty Street,1,2,85,8,0.010416666666666666,0.0,False
+accepted,P06,P06:WBS:DS06,Concrete Driveway 3 Doherty Street,1,1,87,5,0.006944444444444444,0.0,False
+accepted,P06,P06:WBS:DS07,Doherty Street - Hydromulch 1000m2,1,0,86,0,0.003472222222222222,0.0,False
+accepted,P06,P06:WBS:DSV01,Dodd St - Geogrid layer,1,1,49,131,0.006944444444444444,0.0,False
+accepted,P06,P06:WBS:DSV02,"Dodd Street-PV02 Supply and Install Entry pits, RCBC and Concrete Nib Wall and Nib",1,1,51,130,0.006944444444444444,0.0,False
+accepted,P06,P06:WBS:DSV03,Dodd Street water main replacement Install new 100mm Dia DICL Watermains 3 locations,1,2,44,134,0.010416666666666666,0.011263550135501356,False
+accepted,P06,P06:WBS:DSV04,Dodd Street_ PV04 - Extend Deep Lift AC at Culvert Crossing Anzac Drive,1,1,68,2,0.006944444444444444,0.00017542586140147114,False
+accepted,P06,P06:WBS:DSV05,Dodd Street_PV05 - New Bropit and RCBC arrangement,1,1,51,131,0.006944444444444444,0.0006170150987224158,False
+accepted,P06,P06:WBS:DSV06,"Install new Type A MCC side entry pit, 13m of 450 RCP break in to existing drainage line and install a flush point.",1,1,52,130,0.006944444444444444,0.0015727835849787069,False
+accepted,P06,P06:WBS:DSV07,Installation Pram Ramps Dodd street,1,1,65,6,0.006944444444444444,0.0,False
+accepted,P06,P06:WBS:DSV08,Dodd Street - Water main Protection Lurline Street - works completed formal vairation to be provided Refer to email 2 May sent,1,1,45,133,0.006944444444444444,0.0,False
+accepted,P06,P06:WBS:DSV09,Vairation to design levels mismatch to road surface - 44m Lurline Street to match levels to existing road surface.,1,0,42,0,0.003472222222222222,0.0,False
+accepted,P06,P06:WBS:FS00,Remove and Replace Unsuitable Subgrade Faust Street,1,2,93,27,0.010416666666666666,0.0011251451800232289,False
+accepted,P06,P06:WBS:FS01,Excavation of unsuitable subgrade,1,1,94,25,0.006944444444444444,0.0003024583817266744,False
+accepted,P06,P06:WBS:FS01A,Additional Asphalt for Variation Faust _PV01,1,0,109,0,0.003472222222222222,0.0,False
+accepted,P06,P06:WBS:FS04,Additional Testing Requirements,1,0,89,0,0.003472222222222222,0.0,False
+accepted,P06,P06:WBS:FS05,Blend Iron stone with 1% cement to stockpile,2,0,94,0,0.006944444444444444,0.0,False
+accepted,P06,P06:WBS:FS10,Faust Street - Service Crossing,1,1,99,13,0.006944444444444444,0.000508130081300813,False
+accepted,P06,P06:WBS:FSXX,Faust Street drw FSC 04 extra over the BOQ,1,1,88,1,0.006944444444444444,0.001064653503677894,False
+accepted,P06,P06:WBS:JSV01,Jupp Street Geotextile wrapping around no fines concrete,1,1,21,169,0.006944444444444444,0.0,False
+accepted,P06,P06:WBS:JSV02,Jupp_PV02 - Boundary Pits & Pipes,1,1,21,167,0.006944444444444444,0.0,False
+accepted,P06,P06:WBS:JSV03,Jupp St - Haul & Place Type 2.3 gravel,1,2,31,165,0.010416666666666666,0.0,False
+accepted,P06,P06:WBS:JSV04,Jupp St_PV03 - Replace AC watermain crossing at Jupp and Anzac Rd,1,1,20,162,0.006944444444444444,0.0,False
+accepted,P06,P06:WBS:JSV05,Jupp_PV04 - Extend Kerb & Channel On Anzac Road,1,1,35,160,0.006944444444444444,0.0004234417344173442,False
+accepted,P06,P06:WBS:JSV06,Jupp_PV05 - Extend Kerb & Channel on Phaff Street,1,1,36,159,0.006944444444444444,0.0019236353077816493,False
+accepted,P06,P06:WBS:SS01,Sterry_PV01 Sterry Street - Chapman Street Works,1,2,70,55,0.010416666666666666,0.007523580231550615,False
+accepted,P06,P06:WBS:SS02,"Area1 and Area 2 Sterry Street - Rock mattress, 2 layers of Geogrid and, geofabric",0,0,0,0,0.0,0.0,False
+accepted,P06,P06:WBS:SS02.34,Area 1 Additional water service connections (5),1,1,79,51,0.006944444444444444,0.0,False
+accepted,P06,P06:WBS:SS02.A1,Sterry Street - Area 1 Remove & Replace,2,1,71,9,0.010416666666666666,0.0018026519550909796,False
+accepted,P06,P06:WBS:SS02.A2,Sterry Street - Area 2 Remove & Replace,1,2,72,8,0.010416666666666666,0.00104045683313976,False
+accepted,P06,P06:WBS:SS03,Vairation direction - Removal and Replacement of 150mm Sewer Main Sterry street,1,1,69,10,0.006944444444444444,0.001252177700348432,False
+accepted,P06,P06:WBS:SS04,Cement stabilisation - Sterry Street 250mm depth,1,1,73,7,0.006944444444444444,0.0,False
+accepted,P06,P06:WBS:SS05,7 mm Primer Seal Sterry Street,1,1,85,5,0.006944444444444444,0.0,False
+accepted,P06,P06:WBS:SS06,Additional Chapman Street works - Kerbing and Miscellaneous concrete works Chapman,1,2,71,54,0.010416666666666666,0.0008589818041037553,False
+accepted,P06,P06:WBS:SS07,Construct standard driveway access - Proserpine Secondary School,1,1,84,4,0.006944444444444444,0.0,False
+accepted,P06,P06:WBS:SS08,Various Concrete works and fencing and gate alterations - day labour rates + materials,1,1,72,53,0.006944444444444444,0.0,False
+accepted,P06,P06:WBS:W01,Waste Disposal,0,0,0,0,0.0,0.0,False
+accepted,P17,P17:ROW:3,CONTRACT AWARD,0,1,0,113,0.008695652173913044,0.0,False
+accepted,P17,P17:ROW:4,PRACTICAL COMPLETION,3,0,112,0,0.026086956521739132,0.0,False
+accepted,P17,P17:WBS:10,"Supply of Stormwater Drainage Pipe Culverts in accordance with AS/NZS 5065, and installation of Culverts to MRS03 - Supply of Stormwater Drainage Pipe Culverts in accordance with AS/NZS 5065, and installation of Culverts to MRS03 - Supply and installation of BlackMAX stormwater pipe, Class SN8, 150 mm diameter",1,2,9,91,0.026086956521739132,0.051792524790236466,False
+accepted,P17,P17:WBS:100,HARDSCAPING WORKS - PLANTS WHITSUNDAY TO COMPLETE IN FULL - Allotment Separation Fences (Removable Centre Post) REDUCED IN HEIGHT TO 1400MM,1,1,61,7,0.017391304347826087,0.019221967963386728,False
+accepted,P17,P17:WBS:101,HARDSCAPING WORKS - PLANTS WHITSUNDAY COMPLETE - Supply & Install Totems as Detailed (6 No.),1,2,62,6,0.026086956521739132,0.015026697177726927,False
+accepted,P17,P17:WBS:102,HARDSCAPING WORKS - Supply and Install Timber Viewing Deck as Detailed,1,1,63,3,0.017391304347826087,0.009305873379099924,False
+accepted,P17,P17:WBS:103,HARDSCAPING WORKS - PLANTS WHITSUNDAY COMPLETE - Supply & Install Timber Seat (To match existing),1,1,64,2,0.017391304347826087,0.004652936689549962,False
+accepted,P17,P17:WBS:104,HARDSCAPING WORKS - Supply & Instal Stainless Steel 'The Cove' & Port of Airlie logo's as shown on entry walls,2,2,9,4,0.034782608695652174,0.0007627765064836003,False
+accepted,P17,P17:WBS:105,HARDSCAPING WORKS - Core Filled Block Wall - W1 (1500mm High),1,1,5,11,0.017391304347826087,0.00038138825324180017,False
+accepted,P17,P17:WBS:106,HARDSCAPING WORKS - Core Filled Block Wall - W2 (Entry Wall with Rake),1,1,6,10,0.017391304347826087,0.0007627765064836003,False
+accepted,P17,P17:WBS:107,HARDSCAPING WORKS - PLANTS WHITSUNDAY SUPERVISION / VEHICLES & ADMIN FEE,0,0,0,0,0.0,0.0,False
+accepted,P17,P17:WBS:108,FENCING / GATES / EQUIPMENT - Supply and Install Pedestrian and Vehicular Gate and associated Security Key Pad,1,2,8,3,0.026086956521739132,0.0006102212051868803,False
+accepted,P17,P17:WBS:109,FENCING / GATES / EQUIPMENT - PLANTS WHITSUNDAY COMPLETE - Supply & install boundary fence to Lot 23.,1,1,9,2,0.017391304347826087,0.0,False
+accepted,P17,P17:WBS:11,Supply and Installation of Drainage Components - Supply and install 600mm flood flap,1,1,10,5,0.017391304347826087,0.0025934401220442413,False
+accepted,P17,P17:WBS:110,FENCING / GATES / EQUIPMENT - Supply and Install communal letterbox structure within W2 wall - aluminium fronted with range hood and rear opening,1,1,8,5,0.017391304347826087,0.0,False
+accepted,P17,P17:WBS:111,"Variation - Additional watermain, 50mm water meter & RPZ - installed at the Cove subdivision as directed by the Superintendent",1,1,17,58,0.017391304347826087,0.009931350114416473,False
+accepted,P17,P17:WBS:112,Variation - Installation of geotextile Mirafi in Stormwater trench where depths exceed 1.2m into marine sedimentation as directed by the Superintendent,1,2,3,26,0.026086956521739132,0.004805491990846682,False
+accepted,P17,P17:WBS:113,Variation - Unsuitable Subgrade replacement - Remove existing material 300 deep & replace with CBR 15 as directed by Superintendent,1,1,4,25,0.017391304347826087,0.0,False
+accepted,P17,P17:WBS:114,"Variation - Easement at Revetment wall - Relocate & replace existing revetment wall rocks, install geotextile & backfill with general fill to areas as indicated on drawing 13003 21 & 22A",1,1,5,1,0.017391304347826087,0.0002288329519450801,False
+accepted,P17,P17:WBS:115,Variation - Privacy Screen to boundary of Lot 1 & Lot 23 - Provide 11 natural stone columns and 11 steel panels to 1400mm high fence. Stonework nib wall to easement at Lot 23. Salmon coloured footpath to boundary at Entrance & along Lot 23.,1,1,8,2,0.017391304347826087,0.0,False
+accepted,P17,P17:WBS:116,"Line Item 171 - Supply & Install Gas - Variation to adjust claimed contract value of $48,571.75 to agreed value of $15,000",0,0,0,0,0.0,0.0,False
+accepted,P17,P17:WBS:117,"PROVISIONAL SUM ITEM - Supply & Install capping, facing & stone treatments to Entry Statements",2,5,7,9,0.06086956521739131,0.0035087719298245615,False
+accepted,P17,P17:WBS:118,"Variation - Telstra Pit, supply & install Type 8 pit as directed by Superintendent",1,0,68,0,0.008695652173913044,0.0,False
+accepted,P17,P17:WBS:12,"Concrete in Culverts and End Structures, MRS03 - Aprons to culverts, reinforced concrete",1,1,11,4,0.017391304347826087,0.0021357742181540807,False
+accepted,P17,P17:WBS:13,"Pavement Drainage, MRS03 Concrete kerb and channel, barrier (B2)",1,2,50,21,0.026086956521739132,0.007627765064836004,False
+accepted,P17,P17:WBS:14,"Pavement Drainage, MRS03 Type 1 main roads flush kerb (300x200)",1,1,51,19,0.017391304347826087,0.0007246376811594203,False
+accepted,P17,P17:WBS:15,"Pavement Drainage, MRS03 3450x1500 ecosol RSF 500 GPT with class B lid",1,2,12,26,0.026086956521739132,0.015865751334858888,False
+accepted,P17,P17:WBS:16,"Pavement Drainage, MRS03 600x600 RKO pit with riser 600x600 V-Grate & Concrete Surround",1,2,10,88,0.026086956521739132,0.05461479786422579,False
+accepted,P17,P17:WBS:17,"Pavement Drainage, MRS03 - Concrete gullies, Drainway 0TP/X maxflow grate, standard",1,1,51,19,0.017391304347826087,0.0007246376811594203,False
+accepted,P17,P17:WBS:18,"Pavement Drainage, MRS03 - Concrete manhole with 600dia access lid (major)",1,1,11,27,0.017391304347826087,0.014721586575133486,False
+accepted,P17,P17:WBS:19,"Subsurface Drainage MRS03 - Subsoil drains, Type C, 100 mm diameter including outlets and flush points",1,1,13,25,0.017391304347826087,0.0,False
+accepted,P17,P17:WBS:20,"Protective Treatments, MRS03 - Hand-placed concrete paving, 100mm thick, N25/20 with SL62 mesh central to footpaths 1.2m wide",1,2,57,5,0.026086956521739132,0.006788710907704043,False
+accepted,P17,P17:WBS:21,"Protective Treatments, MRS03 - Hand-placed concrete paving, 100mm thick, N25/20 with SL62 mesh central to footpaths 2.0m wide",1,1,58,4,0.017391304347826087,0.0,False
+accepted,P17,P17:WBS:22,"Protective Treatments, MRS03 - Hand-placed concrete paving, 170mm thick, N32/20 with SL82 mesh central with exposed aggregate finish (incl. joints as detailed)",1,1,50,19,0.017391304347826087,0.05964912280701755,False
+accepted,P17,P17:WBS:23,"Retaining Walls, MRS03 - Natural local stone mass gravity wall. 500mm thick, vertical face including footing (1m x 400mm thick) and rear drainage",1,4,4,14,0.043478260869565216,0.003966437833714722,False
+accepted,P17,P17:WBS:24,"Earthworks - Road excavation, all materials to reprofile the subgrade level",1,2,2,109,0.026086956521739132,0.007780320366132723,False
+accepted,P17,P17:WBS:25,Earthworks - Allotment excavation to Revised RL (3.9 - 3.7),1,3,3,106,0.034782608695652174,0.010831426392067125,False
+accepted,P17,P17:WBS:26,"Earthworks, Embankment, MRS04 - Re-trim allotments to revised FL",7,1,90,3,0.06956521739130435,0.02021357742181541,False
+accepted,P17,P17:WBS:27,"Unbound Pavements, MRS05 - Base, unbound pavement, Type 2, Subtype 2.1",3,1,54,18,0.034782608695652174,0.06132723112128147,False
+accepted,P17,P17:WBS:28,"Unbound Pavements, MRS05 - Subbase, unbound pavement, Type 2, Subtype 2.3",1,2,49,23,0.026086956521739132,0.07315026697177728,False
+accepted,P17,P17:WBS:29,"Unbound Pavements, MRS05 - Subbase, unbound pavement, Type 2, Subtype 2.3 under 170mm Concrete",5,1,48,24,0.052173913043478265,0.07505720823798627,False
+accepted,P17,P17:WBS:30,"Sprayed Bituminous Surfacing (Excluding Emulsion), MRS11 - Sprayed bituminous surfacing, including supply of binder, including supply of additives, including supply and spreading of precoated cover aggregates. 7mm Primerseal, MC5 1.0L/m2, 175m2/m3",1,1,55,17,0.017391304347826087,0.058504958047292145,False
+accepted,P17,P17:WBS:31,"Asphalt Surfacing, Brisbane City Council Asphalt Specification S310 - Asphalt Surfacing, Brisbane City Council Asphalt Specification S310 - AC10 Type 2 mix",1,4,56,16,0.043478260869565216,0.05553012967200611,False
+accepted,P17,P17:WBS:32,"Roadside Structures, MRS16A - Stair Risers and treads (Hardwood & Stainless - Provisional)",1,1,57,9,0.017391304347826087,0.02578184591914569,False
+accepted,P17,P17:WBS:33,Survey Set Out,1,1,2,2,0.017391304347826087,0.00030511060259344014,False
+accepted,P17,P17:WBS:34,"Preparation of ""As constructed"" drawings for submission",7,1,75,1,0.06956521739130435,0.0009916094584286805,False
+accepted,P17,P17:WBS:35,Locate and protect services - general,1,1,2,96,0.017391304347826087,0.008543096872616323,False
+accepted,P17,P17:WBS:36,"WATER PRESSURE MAINS - Water Reticulation - Supply OPVC pressure pipe, RRJ, (C.I.O.D. compatible) PN 16 100mm dia",1,2,11,84,0.026086956521739132,0.04492753623188406,False
+accepted,P17,P17:WBS:37,"WATER PRESSURE MAINS Supply sluice valves, C.I. to AS 2544, PN 16, counterclockwise to close c/w spindle cap incl. F.B.E./Rilsan coating, incl 316 S/S Flange insertion set (FL-FL) 100mm dia",1,1,12,69,0.017391304347826087,0.010068649885583524,False
+accepted,P17,P17:WBS:38,"WATER PRESSURE MAINS - Supply bends, DICL to AS 2280, RRJ, Class K12, bitumen coated with polyethylene sleeving to AS 3680 and 3681 (SOC-SOC) 100mm x 22½o",1,1,13,68,0.017391304347826087,0.014340198321891687,False
+accepted,P17,P17:WBS:39,WATER PRESSURE MAINS - 100mm x 45o,1,1,14,67,0.017391304347826087,0.01845919145690313,False
+accepted,P17,P17:WBS:40,WATER PRESSURE MAINS - 100mm x 90o,1,1,15,66,0.017391304347826087,0.02242562929061785,False
+accepted,P17,P17:WBS:41,"WATER PRESSURE MAINS - Supply tees, DICL to AS 2280, RRJ, Class K12, bitumen coated with polyethylene sleeving to AS 3680 and 3681, incl 316 S/S Flange insertion set for flange ends - 100 x 100mm (FL-FLxFL)",1,1,16,65,0.017391304347826087,0.02623951182303585,False
+accepted,P17,P17:WBS:42,"WATER PRESSURE MAINS -Supply hydrant tee, DICL to AS 2280, RRJ, Class K12, bitumen coated with polyethylene sleeving to AS 3680 and 3681, incl 316 S/S Flange insertion set (SOC-SOCxFL) - 100x80?",1,1,17,64,0.017391304347826087,0.029900839054157132,False
+accepted,P17,P17:WBS:43,WATER PRESSURE MAINS -Supply spring hydrant incl. F.B.E./Rilsan coating,1,1,18,63,0.017391304347826087,0.033409610983981694,False
+accepted,P17,P17:WBS:44,"WATER PRESSURE MAINS - Supply hydrant risers 80?x300mm (FL-FL) (Provisional, if ordered)",1,1,19,62,0.017391304347826087,0.03676582761250954,False
+accepted,P17,P17:WBS:45,WATER PRESSURE MAINS - Supply hydrant cover boxes,1,1,20,61,0.017391304347826087,0.03996948893974066,False
+accepted,P17,P17:WBS:46,WATER PRESSURE MAINS - Install cover boxes to hydrants incl. supply of margin sets & bedding bricks & markers,1,1,21,60,0.017391304347826087,0.043020594965675056,False
+accepted,P17,P17:WBS:47,"WATER PRESSURE MAINS - Supply connectors (FL-SOC) DICL to AS 2280, RRJ, Class K12, bitumen coated with polyethylene sleeving to AS 3680 and 3681, incl 316 S/S Flange insertion set - 100?",1,1,22,59,0.017391304347826087,0.04591914569031274,False
+accepted,P17,P17:WBS:48,WATER PRESSURE MAINS - Supply gibault joints 150mm dia,1,1,23,58,0.017391304347826087,0.0486651411136537,False
+accepted,P17,P17:WBS:49,"WATER PRESSURE MAINS - House Connection Services (Refer MRC Std Dwg A3-00840) including supply and installation of 100 mm tapping band, main cock and poly pipe to property boundary - 32mm single (WATER METERS NOT INCLUDED - BY FUTURE OWNERS)",1,1,12,71,0.017391304347826087,0.039435545385202136,False
+accepted,P17,P17:WBS:5,ROADWORKS AND DRAINAGE Site establishment and disestablishment,1,3,1,112,0.034782608695652174,0.008543096872616323,False
+accepted,P17,P17:WBS:50,WATER PRESSURE MAINS - 32mm single under road including enveloper conduit (WATER METERS NOT INCLUDED - BY FUTURE OWNERS),1,1,13,70,0.017391304347826087,0.04385964912280702,False
+accepted,P17,P17:WBS:51,WATER PRESSURE MAINS - 32mm dual (WATER METERS NOT INCLUDED - BY FUTURE OWNERS),1,1,14,69,0.017391304347826087,0.04813119755911518,False
+accepted,P17,P17:WBS:52,WATER PRESSURE MAINS - 32mm dual under road including enveloper conduit (WATER METERS NOT INCLUDED - BY FUTURE OWNERS),1,1,15,68,0.017391304347826087,0.052250190694126626,False
+accepted,P17,P17:WBS:53,"WATER PRESSURE MAINS - Excavate, lay, bed, joint and backfill OPVC pressure pipe, RRJ main and specials, including supply and installation of sand bedding to 150mm above top of pipe, installation of thrust blocks and disposal of spoil. (Type 1 construction, MRC Std Dwg A3-00835) - 100mm dia",1,6,16,67,0.06086956521739131,0.056216628527841345,False
+accepted,P17,P17:WBS:54,WATER PRESSURE MAINS - Supply & Installation of 100mm diameter water meter with an 80mm bypass line as per detail A of U13481.001-122(B),1,1,17,58,0.017391304347826087,0.009931350114416473,False
+accepted,P17,P17:WBS:55,"WATER PRESSURE MAINS - Dewatering of trench extra to Items 9521 - 9524 (Provisional, if ordered)",1,1,17,58,0.017391304347826087,0.009931350114416473,False
+accepted,P17,P17:WBS:56,"WATER PRESSURE MAINS - Supply and placing of approved sand filling 150 - 300mm above top of pipe (Type 1 construction) (Provisional, if ordered)",1,1,17,58,0.017391304347826087,0.009931350114416473,False
+accepted,P17,P17:WBS:57,"WATER PRESSURE MAINS - Supply and Install Fire Booster (Provisional, if ordered) MARINA ITEM",1,1,17,61,0.017391304347826087,0.0038901601830663617,False
+accepted,P17,P17:WBS:58,WATER PRESSURE MAINS - Concrete Grade N20 in place for thrust blocks,1,1,17,58,0.017391304347826087,0.009931350114416473,False
+accepted,P17,P17:WBS:59,WATER PRESSURE MAINS - Flushing and chlorination of mains including supply of chlorine,1,1,18,60,0.017391304347826087,0.0071700991609458435,False
+accepted,P17,P17:WBS:6,"Drainage, Retaining Structures & Protective TreatmentsSupply of Precast Concrete Pipe Culverts in accordance with AS 4058 - Exposure Class B1, and Installation of Culverts to MRS03Supply and installation of concrete pipe culvert components, Class 2, RRJ, 375mm diameter with saltwater cover",2,1,5,95,0.026086956521739132,0.02555301296720061,False
+accepted,P17,P17:WBS:60,"WATER PRESSURE MAINS - Testing of water mains including supply of pressurising equipment, gauges and fittings",1,1,19,59,0.017391304347826087,0.010297482837528604,False
+accepted,P17,P17:WBS:61,"WATER PRESSURE MAINS - Connection to existing Council main, 100mm dia (incl. Council fees)",1,1,20,58,0.017391304347826087,0.013272311212814646,False
+accepted,P17,P17:WBS:62,"PRESSURE SEWER SYSTEM - Supply and Delivery of uPVC sewer pipe, Class 16, complying with AS 1260, suitable for socket joints - 225mm dia.",7,1,38,57,0.06956521739130435,0.13966437833714723,False
+accepted,P17,P17:WBS:63,"PRESSURE SEWER SYSTEM - Trench excavation in soil for 225mm dia. sewers, including excavation for manholes, jump ups, slope drops, vertical drops, backfilling, disposal of spoil and restoration. Depth Range 0.5-1.5m inclusive",1,1,39,56,0.017391304347826087,0.1410373760488177,False
+accepted,P17,P17:WBS:64,"PRESSURE SEWER SYSTEM - Lay, bed and joint sewer pipe including main and specials, supply and place sand bedding to 150mm above top of pipe (Type 1 construction, WRC Std drawing D-0030) and testing of finished pipeline, including CCTV Survey and Report. - 225mm dia.",1,4,40,55,0.043478260869565216,0.14225781845919147,False
+accepted,P17,P17:WBS:65,"PRESSURE SEWER SYSTEM - Concrete N20 in place for pipe bedding, surrounds, stops, blocks, cover slab incl. steel reinforcement where specified incl. supply of all materials (Provisional, if ordered)",1,1,41,19,0.017391304347826087,0.02574370709382151,False
+accepted,P17,P17:WBS:66,"PRESSURE SEWER SYSTEM - Supply and placing of approved sand filling (150 - 300mm above pipes) (Provisional, if ordered)",1,1,41,19,0.017391304347826087,0.02574370709382151,False
+accepted,P17,P17:WBS:67,PRESSURE SEWER SYSTEM - Manhole House Connection Branches - 100mm dia. house connection extension to lot 23 (from existing manhole),1,3,41,25,0.034782608695652174,0.018764302059496567,False
+accepted,P17,P17:WBS:68,PRESSURE SEWER SYSTEM -Manholes complete in place - Depth Range 0.5-1.5m inclusive (1050 internal diameter) - Including connection for poly pressure main and internal epoxy coating of manhole,1,2,42,24,0.026086956521739132,0.0033562166285278413,False
+accepted,P17,P17:WBS:69,"PRESSURE SEWER SYSTEM - Supply MDPE Pipe, Series 1, PN16, PE 80B complying with AS/NZS 4130 - 50mm ODPE",1,1,42,19,0.017391304347826087,0.0007246376811594203,False
+accepted,P17,P17:WBS:7,"Supply and installation of concrete pipe culvert components, Class 2, RRJ, 450mm diameter with saltwater cover",1,1,6,94,0.017391304347826087,0.03234172387490465,False
+accepted,P17,P17:WBS:70,"PRESSURE SEWER SYSTEM - Supply MDPE Pipe, Series 1, PN16, PE 80B complying with AS/NZS 4130 - 63mm ODPE",1,1,42,19,0.017391304347826087,0.0007246376811594203,False
+accepted,P17,P17:WBS:71,"PRESSURE SEWER SYSTEM - Excavate, lay, bed, joint and backfill MDPE Pipe, Series 1, PN16, PE 80B pressure pipe main and specials, including supply and installation of sand bedding to 150mm above top of pipe, installation of thrust blocks and disposal of spoil. (Type 1 construction, MRC Std Dwg A3-00835). Including supply & installation of enveloper conduit at road crossing locations. - 50mm ODPE",1,2,42,44,0.026086956521739132,0.0498093058733791,False
+accepted,P17,P17:WBS:72,"PRESSURE SEWER SYSTEM - Excavate, lay, bed, joint and backfill MDPE Pipe, Series 1, PN16, PE 80B pressure pipe main and specials, including supply and installation of sand bedding to 150mm above top of pipe, installation of thrust blocks and disposal of spoil. (Type 1 construction, MRC Std Dwg A3-00835). Including supply & installation of enveloper conduit at road crossing locations. - 63mm ODPE",1,4,41,49,0.043478260869565216,0.06369183829138063,False
+accepted,P17,P17:WBS:73,PRESSURE SEWER SYSTEM - Supply and installation of Aquatec Boundary Connection pits,3,1,45,22,0.034782608695652174,0.011441647597254006,False
+accepted,P17,P17:WBS:74,PRESSURE SEWER SYSTEM - Supply and installation of Aquatec flushing point,1,1,46,21,0.017391304347826087,0.009610983981693364,False
+accepted,P17,P17:WBS:75,PRESSURE SEWER SYSTEM - Supply and installation of Aquatec isolation valves,1,1,47,20,0.017391304347826087,0.007627765064836004,False
+accepted,P17,P17:WBS:76,"PRESSURE SEWER SYSTEM - Dewatering of trench extra to 9610 - 9615 (Provisional, if ordered)",1,1,42,19,0.017391304347826087,0.0007246376811594203,False
+accepted,P17,P17:WBS:77,"PRESSURE SEWER SYSTEM - Supply and placing of metal ballast bedding below bottom of pipe, supply and placing of geotextile, including additional excavation below pipe barrel to maximum 400mm below pipe barrel (Provisional, if ordered)",1,1,42,19,0.017391304347826087,0.0007246376811594203,False
+accepted,P17,P17:WBS:78,"PRESSURE SEWER SYSTEM - Demolish existing sewer manhole and connect to existing 225 diameter sewer main, incl. liaison with Council and plugging of downstream manhole",1,1,48,19,0.017391304347826087,0.005491990846681923,False
+accepted,P17,P17:WBS:79,PRESSURE SEWER SYSTEM - Construct vent pole and foundation as per WRC Std Dwg S0020 - incl. all materials and connection to receiving manhole,1,1,43,19,0.017391304347826087,0.0014492753623188406,False
+accepted,P17,P17:WBS:8,"Supply and installation of concrete pipe culvert components, Class 2, RRJ, 525mm diameter with saltwater cover",1,1,7,93,0.017391304347826087,0.038977879481311976,False
+accepted,P17,P17:WBS:80,"ANCILLARY WORKS - Ergon longitudinal trenching and backfilling, including supply of all bedding and backfill sand, as directed (Provisional, if ordered)",9,2,56,18,0.09565217391304348,0.07322654462242563,False
+accepted,P17,P17:WBS:81,"ANCILLARY WORKS - Supply and installation of Ergon conduits including draw cord, end caps, polymeric cable protection cover (where required) and caution orange tape as directed (Provisional, if ordered) - 3/100mm & 1/40mm Electrical plus 2/100mm Testra",1,1,57,16,0.017391304347826087,0.017391304347826087,False
+accepted,P17,P17:WBS:82,"Supply and installation of Ergon conduits including draw cord, end caps, polymeric cable protection cover (where required) and caution orange tape as directed (Provisional, if ordered) - 2/100mm plus 1/100mm Testra",1,1,58,15,0.017391304347826087,0.014187643020594966,False
+accepted,P17,P17:WBS:83,"Supply and installation of Ergon conduits including draw cord, end caps, polymeric cable protection cover (where required) and caution orange tape as directed (Provisional, if ordered) - 1/100mm Electrical plus 1/100mm Telstra",1,1,59,14,0.017391304347826087,0.010831426392067125,False
+accepted,P17,P17:WBS:84,"Supply and installation of Ergon conduits including draw cord, end caps, polymeric cable protection cover (where required) and caution orange tape as directed (Provisional, if ordered) - 1x40 Telstra",1,1,60,13,0.017391304347826087,0.007322654462242563,False
+accepted,P17,P17:WBS:85,Installation of Electrical Pits (Direction Changes) Type 5,1,1,61,12,0.017391304347826087,0.0036613272311212816,False
+accepted,P17,P17:WBS:86,"Supply & Install Internal Electrical cabling including cabling to a common point external to the sub-division to a central metering location, 'green boys' and lot connections. (ELECTRICAL METERS PROVIDED BY FUTURE LOT OWNERS)",1,1,57,12,0.017391304347826087,0.048512585812356984,False
+accepted,P17,P17:WBS:87,Supply & Install 'The Cove' sub-board including connection to Ergon POS outside development as per DWG E25,2,1,63,11,0.026086956521739132,0.04919908466819222,False
+accepted,P17,P17:WBS:88,Supply & Install MARINA MSB as per DWG E25,1,1,64,10,0.017391304347826087,0.04515636918382914,False
+accepted,P17,P17:WBS:89,Supply & Install MARINA Sub-Main from 'The Cove' MSB to MARINA DB,1,2,65,9,0.026086956521739132,0.04096109839816934,False
+accepted,P17,P17:WBS:9,"Supply and installation of concrete pipe culvert components, Class 2,RRJ, 600mm diameter with saltwater cover",1,1,8,92,0.017391304347826087,0.04546147978642258,False
+accepted,P17,P17:WBS:90,Electrical trenching & Installation - 2/100mm & 1/40 Electricity plus 1/100mm,1,1,66,7,0.017391304347826087,0.015102974828375287,False
+accepted,P17,P17:WBS:91,Electrical trenching & Installation - Telecommunications pits,1,2,67,6,0.026086956521739132,0.010526315789473684,False
+accepted,P17,P17:WBS:92,"Supply, installation and backfill of conduit bends at pillar location, including all 80mm dia, 1200mm rad bends, end caps, 40mm dia service conduits including bends to property boundary, end caps, timber stake, polymeric cable protection cover and caution orange tape (Dwg 5164 Sh 3, 4, 5 & 6)",1,1,68,4,0.017391304347826087,0.0006102212051868803,False
+accepted,P17,P17:WBS:93,"Footings to streetlight poles including anchor cage, to DMR std drawing nos 1380, 1381, 1382, 1429. Footing 600mm diameter 2300mm deep.",1,1,57,4,0.017391304347826087,0.002440884820747521,False
+accepted,P17,P17:WBS:94,"Excavate for padmount substation to allow Electrical Services Provider to install electrical cables and equipment, and reinstate surfaces after installation",1,1,66,4,0.017391304347826087,0.016475972540045767,False
+accepted,P17,P17:WBS:95,SOFTSCAPING - PLANTS WHITSUNDAY - SOFTSCAPING COMPLETE AS PER QUOTE MLS13-222 (Rev 2),3,1,102,2,0.034782608695652174,0.014797864225781847,False
+accepted,P17,P17:WBS:96,"SOFTSCAPING - Works Not Included in PWS Quote MLS13-222 (RPZ, Road Crossings, Conduits & GPO for Irrigation Controller)",1,1,103,1,0.017391304347826087,0.007093821510297483,False
+accepted,P17,P17:WBS:97,HARDSCAPING WORKS - PLANTS WHITSUNDAY COMPLETE - Paver edging in lieu of Concrete Edge Strip as per Quotation MLS13-240 (2),1,1,57,10,0.017391304347826087,0.004347826086956522,False
+accepted,P17,P17:WBS:98,HARDSCAPING WORKS - PLANTS WHITSUNDAY - GRAVEL TO OUTDOOR AREAS ( COMPLETE),1,1,58,9,0.017391304347826087,0.0006864988558352404,False
+accepted,P17,P17:WBS:99,HARDSCAPING WORKS - Outdoor Viewing Areas (Complete),2,1,60,8,0.026086956521739132,0.02326468344774981,False
+accepted,P18,P18:ROW:208,Practical Completion,5,0,156,0,0.02427184466019417,0.0,False
+accepted,P18,P18:WBS:1,HSC 14/12 REHABILITATION OF MULTIPLE ROADS AND STREETS,0,6,0,183,0.029126213592233007,0.0,False
+accepted,P18,P18:WBS:10,Site Safety Plan (Construction),1,1,1,89,0.009708737864077669,0.0,False
+accepted,P18,P18:WBS:100,"Road edge guide posts (Provisional Quantity, if ordered)",1,1,133,1,0.009708737864077669,0.0015391901491830452,False
+accepted,P18,P18:WBS:101,"Spotting only for longitudinal lines (Provisional Quantity, if ordered)",13,2,132,3,0.07281553398058252,0.009306180440445181,False
+accepted,P18,P18:WBS:102,"Temporary raised pavement markers (Provisional Quantity, if ordered)",1,1,133,1,0.009708737864077669,0.0015391901491830452,False
+accepted,P18,P18:WBS:11,"Survey of existing road formation, delineation, road furniture and culverts prior to works, to provide locality, geometry and detail for reconstruction",2,2,2,158,0.019417475728155338,0.005884442339569027,False
+accepted,P18,P18:WBS:12,EARTHWORKS,0,0,0,0,0.0,0.0,False
+accepted,P18,P18:WBS:13,"Special excavation, removing existing seal (contaminated material) at repair areas and disposal at approved HSC site, including haulage up to 18 km (Provisional Quantity, if ordered)",1,1,3,157,0.009708737864077669,0.0,False
+accepted,P18,P18:WBS:14,"Special box excavation, all materials and disposal at approved HSC site for road repairs, including haulage up to 18 km (Provisional Quantity, if ordered)",0,0,0,0,0.0,0.0,False
+accepted,P18,P18:WBS:15,Ann Street,1,1,79,39,0.009708737864077669,0.06547478096140184,False
+accepted,P18,P18:WBS:16,Barberos Road,1,1,16,119,0.009708737864077669,0.030925882074354726,False
+accepted,P18,P18:WBS:17,Burke Offset Road,1,1,22,109,0.009708737864077669,0.04205541084537059,False
+accepted,P18,P18:WBS:18,Fabris Road,1,1,28,99,0.009708737864077669,0.050343357802510064,False
+accepted,P18,P18:WBS:19,Harvey Road,1,1,34,89,0.009708737864077669,0.05578972294577315,False
+accepted,P18,P18:WBS:2,ESTABLISHMENT / PRELIMINARIES,0,0,0,0,0.0,0.0,False
+accepted,P18,P18:WBS:20,Heards Road,1,1,40,79,0.009708737864077669,0.05839450627515984,False
+accepted,P18,P18:WBS:21,Mile Road,1,1,73,49,0.009708737864077669,0.0777883021548662,False
+accepted,P18,P18:WBS:22,Wallaman Falls Road,2,2,4,156,0.019417475728155338,0.013177835661851765,False
+accepted,P18,P18:WBS:23,Allingham Road,1,1,85,23,0.009708737864077669,0.03824295524508643,False
+accepted,P18,P18:WBS:24,Taylors Beach Road,1,1,52,59,0.009708737864077669,0.05507932749230405,False
+accepted,P18,P18:WBS:25,Taraken Road,1,1,46,69,0.009708737864077669,0.058157707790670136,False
+accepted,P18,P18:WBS:26,Amos St,1,1,91,13,0.009708737864077669,0.01939379587970637,False
+accepted,P18,P18:WBS:27,Lannercost Extension Road,1,1,10,129,0.009708737864077669,0.016954771489462468,False
+accepted,P18,P18:WBS:28,"Special excavation all materials, for pothole repairs and disposal at approved HSC disposal site, including haulage up to 18 km (Provisional Quantity, if ordered)",1,1,3,17,0.009708737864077669,0.0,False
+accepted,P18,P18:WBS:29,"Special excavation, all materials for culverts, inlet and outlet structures and disposal at approved HSC disposal site, including haulage up to 18 km (Provisional Quantity, if ordered)",2,1,4,16,0.014563106796116504,0.0014444707553871656,False
+accepted,P18,P18:WBS:3,"Contractor's site facilities, including establishment at commencement and disestablishment at completion of the project.",2,9,2,88,0.05339805825242718,0.004096613781671797,False
+accepted,P18,P18:WBS:30,"Special excavation, removal of debris and silt from culvert inlets and disposal at approved HSC site, including haulage up to 18 km (Provisional Quantity, if ordered)",1,1,5,15,0.009708737864077669,0.0017049490883258348,False
+accepted,P18,P18:WBS:31,"Special excavation, removal of debris and silt from culvert barrels including hydraulic pressure blasting applied for dislodging, removal and cleaning and disposal at approved HSC site, iincluding haulage up to 18 km (Provisional Quantity, if ordered)",1,1,6,14,0.009708737864077669,0.001918067724366564,False
+accepted,P18,P18:WBS:32,"Special excavation, removal of silt from table drains and reshape drains; and from road surfaces and disposal at approved HSC site, including haulage up to 18 km (Provisional Quantity, if ordered)",1,1,7,13,0.009708737864077669,0.0020838266635093534,False
+accepted,P18,P18:WBS:33,"Excavation and disposal of Unsuitable Material with individual excavation <= 10 m3, including haulage up to 18 km (Provisional Quantity, if ordered)",1,1,8,12,0.009708737864077669,0.0022022259057542033,False
+accepted,P18,P18:WBS:34,"Excavation and disposal of Unsuitable Material with individual excavation > 10 m3, including haulage up to 18 km (Provisional Quantity, if ordered)",0,0,0,0,0.0,0.0,False
+accepted,P18,P18:WBS:35,Ann Street,1,1,80,38,0.009708737864077669,0.06450390717499407,False
+accepted,P18,P18:WBS:36,Barberos Road,1,1,17,118,0.009708737864077669,0.033341226616149654,False
+accepted,P18,P18:WBS:37,Burke Offset Road,1,1,23,108,0.009708737864077669,0.044091877811982004,False
+accepted,P18,P18:WBS:38,Fabris Road,1,1,29,98,0.009708737864077669,0.05200094719393796,False
+accepted,P18,P18:WBS:39,Harvey Road,1,1,35,88,0.009708737864077669,0.05706843476201753,False
+accepted,P18,P18:WBS:4,"Contractor's site facilities (disestablishment and re-establishment between general localities within the Shire) (Provisional Quantity, if ordered)",0,0,0,0,0.0,0.0,False
+accepted,P18,P18:WBS:40,Heards Road,1,1,41,78,0.009708737864077669,0.0592943405162207,False
+accepted,P18,P18:WBS:41,Mile Road,1,1,74,48,0.009708737864077669,0.07719630594364196,False
+accepted,P18,P18:WBS:42,Wallaman Falls Road,1,1,5,155,0.009708737864077669,0.011532086194648355,False
+accepted,P18,P18:WBS:43,Allingham Road,1,1,86,22,0.009708737864077669,0.03675112479280133,False
+accepted,P18,P18:WBS:44,Taylors Beach Road,1,1,53,58,0.009708737864077669,0.055221406582997866,False
+accepted,P18,P18:WBS:45,Taraken Road,1,1,47,68,0.009708737864077669,0.05867866445654748,False
+accepted,P18,P18:WBS:46,Amos Street,1,1,92,12,0.009708737864077669,0.017523087852237745,False
+accepted,P18,P18:WBS:47,Lannercost Extension Road,1,1,11,128,0.009708737864077669,0.019748993606440918,False
+accepted,P18,P18:WBS:48,"PRINCIPAL SUPPLIED - Supply select backfill material for backfill to unsuitable excavations, -75 mm graded rock (Principal paid material) (Provisional Quantity, if ordered)",1,1,10,58,0.009708737864077669,0.00047359696897939847,False
+accepted,P18,P18:WBS:49,"Deliver select backfill material for backfill to unsuitable excavations, -75 mm graded rock, including haulage up to 18 km (Contractor delivery rate) (Principal paid material) (Provisional Quantity, if ordered)",2,4,9,65,0.029126213592233007,0.0010892730286526167,False
+accepted,P18,P18:WBS:5,Develop Environmental Management Plan (Construction),2,1,3,2,0.014563106796116504,1.7759886336727446e-05,False
+accepted,P18,P18:WBS:50,"Backfill to unsuitable excavations, -75 mm graded rock, including haulage up to 18 km (Contractor delivery rate) (Principal paid material) (Provisional Quantity, if ordered)",1,1,10,58,0.009708737864077669,0.00047359696897939847,False
+accepted,P18,P18:WBS:51,"PRINCIPAL SUPPLIED - Supply general fill material for repairs to formation, culverts and drains (Principal paid material) (Provisional Quantity, if ordered)",1,1,11,58,0.009708737864077669,0.0006867156050201279,False
+accepted,P18,P18:WBS:52,"Deliver general fill material, including haulage up to 18 km (Contractor delivery rate) (Principal paid material) (Provisional Quantity, if ordered)",2,2,10,60,0.019417475728155338,0.00036703765095903387,False
+accepted,P18,P18:WBS:53,"Fill repair to formation, inlet structure backfill and drain repairs with general fill material (Contractor installation Rate) (Principal paid material) (Provisional Quantity, if ordered)",1,1,19,1,0.009708737864077669,0.0003788775751835188,False
+accepted,P18,P18:WBS:54,"Subgrade treatment Type A, compact existing (Provisonal Quantity, if ordered)",2,1,11,58,0.014563106796116504,0.005801562869997632,False
+accepted,P18,P18:WBS:55,"PRINCIPAL SUPPLIED - Supply -75 mm graded rock material for subgrade treatment Type I (Principal paid material) (Provisional Quantity, if ordered)",1,0,11,0,0.0048543689320388345,0.0,False
+accepted,P18,P18:WBS:56,"Deliver -75 mm graded rock material for subgrade treatment Type I, including haulage up to 18 km (Contractor delivery rate) (Principal paid material) (Provisional Quantity, if ordered)",2,2,10,59,0.019417475728155338,0.0007814349988160076,False
+accepted,P18,P18:WBS:57,"Subgrade in cuttings, subgrade treatment Type I, -75 mm graded rock fill (Contractor installation rate) (Principal paid material) (Provisional Quantity, if ordered)",0,0,0,0,0.0,0.0,False
+accepted,P18,P18:WBS:57.01,Ann Street,1,1,81,37,0.009708737864077669,0.06348567369168838,False
+accepted,P18,P18:WBS:57.02,Barberos Road,1,1,18,117,0.009708737864077669,0.03570921146104665,False
+accepted,P18,P18:WBS:57.03,Burke Offset Road,1,1,24,107,0.009708737864077669,0.046080985081695475,False
+accepted,P18,P18:WBS:57.04,Fabris Road,1,1,30,97,0.009708737864077669,0.053611176888467914,False
+accepted,P18,P18:WBS:57.05,Harvey Road,1,1,36,87,0.009708737864077669,0.05829978688136396,False
+accepted,P18,P18:WBS:57.06,Heards Road,1,1,42,77,0.009708737864077669,0.060146815060383614,False
+accepted,P18,P18:WBS:57.07,Mile Road,1,1,75,47,0.009708737864077669,0.07655695003551977,False
+accepted,P18,P18:WBS:57.08,Wallaman Falls Road,1,2,6,154,0.014563106796116504,0.015060383613544873,False
+accepted,P18,P18:WBS:57.09,Allingham Road,1,1,87,21,0.009708737864077669,0.035211934643618284,False
+accepted,P18,P18:WBS:57.1,Taylors Beach Road,6,1,63,57,0.03398058252427184,0.06995027231825716,False
+accepted,P18,P18:WBS:57.11,Taraken Road,1,1,48,67,0.009708737864077669,0.059152261425526875,False
+accepted,P18,P18:WBS:57.12,Amos Street,1,1,93,11,0.009708737864077669,0.015605020127871181,False
+accepted,P18,P18:WBS:57.13,Lannercost Extension Road,1,1,12,127,0.009708737864077669,0.02249585602652143,False
+accepted,P18,P18:WBS:58,"Supply and installation of geotextile, Strength Class D, Filtration Class IV for subgrade treatment Type I and drainage (Bidim A39 complies with this specification) (Provisional Quantity, if ordered)",0,0,0,0,0.0,0.0,False
+accepted,P18,P18:WBS:59,"Supply and installation of geotextile, Strength Class D, Filtration Class IV at culvert pipe repair joints in 200 mm wide circumferential strips with 500 mm end overlaps (Bidim A39 complies with this specification) (Provisional Quantity, if ordered)",0,0,0,0,0.0,0.0,False
+accepted,P18,P18:WBS:6,Implement Environmental Management Plan (Construction),2,1,4,1,0.014563106796116504,5.9199621122424815e-05,False
+accepted,P18,P18:WBS:60,"Extra over Items MRS04-3208.1PS to MRS04-3208.9PS, MRS04-3108PS and MRS04-3109PS for haulage in excess of 18 km (Provisional Quantity, if ordered) (m3 x km, single trip)",0,0,0,0,0.0,0.0,False
+accepted,P18,P18:WBS:61,"Extra over Items MRS04-3502.2PS and MRS04-3411.2PS for haulage in excess of 18 km (Provisional Quantity, if ordered) (m3 x km, single trip)",0,0,0,0,0.0,0.0,False
+accepted,P18,P18:WBS:62,DRAINAGE AND PROTECTION,0,0,0,0,0.0,0.0,False
+accepted,P18,P18:WBS:63,"Removal and salvaging existing culverts for reinstallation; pipe culverts up to 600 dia, box culverts up to 600 x 600 (Provisional Quantity, if ordered)",1,1,9,11,0.009708737864077669,0.002273265451101113,False
+accepted,P18,P18:WBS:64,"Removal and disposal at approved HSC site, of culvert pipes up to 600 dia, including all haulage (Provisional Quantity, if ordered)",1,1,10,10,0.009708737864077669,0.002296945299550083,False
+accepted,P18,P18:WBS:65,"Demolition and removal of culvert end structures and disposal at approved HSC site, including all haulage (Provisional Quantity, if ordered)",1,1,11,9,0.009708737864077669,0.002273265451101113,False
+accepted,P18,P18:WBS:66,"Supply and installation of concrete pipe culvert components, Class 2, 375 mm dia (Provisional Quantity, if ordered)",1,1,12,8,0.009708737864077669,0.0022022259057542033,False
+accepted,P18,P18:WBS:67,"Supply and installation of concrete pipe culvert components, Class 4, 450 mm dia (Provisional Quantity, if ordered)",1,1,13,7,0.009708737864077669,0.0020838266635093534,False
+accepted,P18,P18:WBS:68,"Supply and installation of concrete pipe culvert components, Class 8, 525 mm dia (Provisional Quantity, if ordered)",1,1,14,6,0.009708737864077669,0.001918067724366564,False
+accepted,P18,P18:WBS:69,"Supply and installation of concrete pipe culvert components, Class 8, 600 mm dia (Provisional Quantity, if ordered)",1,1,15,5,0.009708737864077669,0.0017049490883258348,False
+accepted,P18,P18:WBS:7,Provision of Insurances - As outlined in Condiions of Contract,1,1,1,159,0.009708737864077669,0.0,False
+accepted,P18,P18:WBS:70,"End structures to culverts and repairs to end structures, reinforced concrete (Provisional Quantity, if ordered)",1,1,16,4,0.009708737864077669,0.0014444707553871656,False
+accepted,P18,P18:WBS:71,"PRINCIPAL SUPPLIED - Supply rock for protection (300 mm rock) (Principal paid material) (Provisional Quantity, if ordered)",0,0,0,0,0.0,0.0,False
+accepted,P18,P18:WBS:72,"Deliver rock for protection (300 mm rock) (Contractor delivery rate) (Principal paid material) (Provisional Quantity, if ordered)",1,1,17,3,0.009708737864077669,0.0011366327255505565,False
+accepted,P18,P18:WBS:73,"Rock protection (300 mm rock) (Contractor installation rate) (Principal paid material) (Provisional Quantity, if ordered)",1,1,18,2,0.009708737864077669,0.0007814349988160076,False
+accepted,P18,P18:WBS:74,Pothole Repairs (Asphalt),1,1,85,13,0.009708737864077669,0.0020127871181624436,False
+accepted,P18,P18:WBS:75,"Supply premix asphalt material, apply emulsion tack coat (0.3 L/m2) and patch potholes (Provisional Quantity, if ordered)",1,1,86,12,0.009708737864077669,0.00028415818138763913,False
+accepted,P18,P18:WBS:76,PAVEMENT,0,0,0,0,0.0,0.0,False
+accepted,P18,P18:WBS:77,"PRINCIPAL SUPPLIED - Supply Subtype 2.2 Unbound Pavement material for Base course. (Provisional Quantity, if ordered) (Principal paid material)",1,1,11,55,0.009708737864077669,0.0,False
+accepted,P18,P18:WBS:78,"Deliver Subtype 2.2 Unbound Pavement material for Base course, including haulage up to 18 km (Provisional quantity, if ordered) (Contractor delivery rate) (Principal paid material)",1,2,10,56,0.014563106796116504,0.003255979161733365,False
+accepted,P18,P18:WBS:79,"Base course, unbound pavement, Subtype 2.2 (Provisional quantity, if ordered) (Contractor Installation Rate) (Principal paid material)",0,0,0,0,0.0,0.0,False
+accepted,P18,P18:WBS:79.01,Ann Street,1,5,84,34,0.029126213592233007,0.060146815060383614,False
+accepted,P18,P18:WBS:79.02,Barberos Road,1,3,21,114,0.019417475728155338,0.04252900781434999,False
+accepted,P18,P18:WBS:79.03,Burke Offset Road,1,2,27,104,0.014563106796116504,0.05176414870944826,False
+accepted,P18,P18:WBS:79.04,Fabris Road,1,2,33,94,0.014563106796116504,0.058157707790670136,False
+accepted,P18,P18:WBS:79.05,Harvey Road,1,2,39,84,0.014563106796116504,0.06170968505801563,False
+accepted,P18,P18:WBS:79.06,Heards Road,1,2,45,74,0.014563106796116504,0.062420080511484725,False
+accepted,P18,P18:WBS:79.07,Mile Road,1,2,78,44,0.014563106796116504,0.07435472412976557,False
+accepted,P18,P18:WBS:79.08,Wallaman Falls Road,1,3,9,136,0.019417475728155338,0.01784276580629884,False
+accepted,P18,P18:WBS:79.09,Allingham Road,1,2,90,18,0.014563106796116504,0.030310206014681505,False
+accepted,P18,P18:WBS:79.1,Taylors Beach Road,3,2,72,54,0.02427184466019417,0.0871655221406583,False
+accepted,P18,P18:WBS:79.11,Taraken Road,1,2,51,64,0.014563106796116504,0.06028889415107743,False
+accepted,P18,P18:WBS:79.12,Amos Street,1,1,96,8,0.009708737864077669,0.00956665877338385,False
+accepted,P18,P18:WBS:79.13,Lannercost Extension Road,1,2,15,124,0.014563106796116504,0.030452285105375326,False
+accepted,P18,P18:WBS:8,Provision for Traffic,2,1,4,1,0.014563106796116504,5.9199621122424815e-05,False
+accepted,P18,P18:WBS:80,"PRINCIPAL SUPPLIED - Supply Subtype 2.3 Unbound Pavement material for Subbase course. (Provisional quantity, if ordered) (Principal paid material)",1,1,10,56,0.009708737864077669,0.0,False
+accepted,P18,P18:WBS:81,"Deliver Subtype 2.3 Unbound Pavement material for Subbase course, including haulage up to 18 km. (Provisional quantity, if ordered) (Contractor delivery rate) (Principal paid material)",1,2,9,57,0.014563106796116504,0.0020838266635093534,False
+accepted,P18,P18:WBS:82,"Subbase course, unbound pavement, Subtype 2.3. (Provisional quantity, if ordered) (Contractor Installation Rate) (Principal paid material)",0,0,0,0,0.0,0.0,False
+accepted,P18,P18:WBS:82.01,Ann Street,1,1,83,35,0.009708737864077669,0.06130712763438314,False
+accepted,P18,P18:WBS:82.02,Barberos Road,1,1,20,115,0.009708737864077669,0.04030310206014682,False
+accepted,P18,P18:WBS:82.03,Burke Offset Road,1,1,26,105,0.009708737864077669,0.049917120530428606,False
+accepted,P18,P18:WBS:82.04,Fabris Road,1,1,32,95,0.009708737864077669,0.056689557186834,False
+accepted,P18,P18:WBS:82.05,Harvey Road,1,1,38,85,0.009708737864077669,0.06062041202936301,False
+accepted,P18,P18:WBS:82.06,Heards Road,1,1,44,75,0.009708737864077669,0.06170968505801563,False
+accepted,P18,P18:WBS:82.07,Mile Road,1,1,77,45,0.009708737864077669,0.07513615912858158,False
+accepted,P18,P18:WBS:82.08,Wallaman Falls Road,1,2,8,139,0.014563106796116504,0.017061330807482834,False
+accepted,P18,P18:WBS:82.09,Allingham Road,1,1,89,19,0.009708737864077669,0.03199147525455837,False
+accepted,P18,P18:WBS:82.1,Taylors Beach Road,3,1,69,55,0.019417475728155338,0.08194411555766043,False
+accepted,P18,P18:WBS:82.11,Taraken Road,1,1,50,65,0.009708737864077669,0.05995737627279185,False
+accepted,P18,P18:WBS:82.12,Amos Street,1,1,95,9,0.009708737864077669,0.011626805588444235,False
+accepted,P18,P18:WBS:82.13,Lannercost Extension Road,1,1,14,125,0.009708737864077669,0.027847501775988635,False
+accepted,P18,P18:WBS:83,"PRINCIPAL SUPPLIED - Supply unbound pavement, Wearing Course Type gravel for shoulders (Principal paid material) (Provisional quantity, if ordered)",1,1,11,57,0.009708737864077669,0.0,False
+accepted,P18,P18:WBS:84,"Deliver unbound pavement, Wearing Course Type gravel for shoulders, including haulage up to 18 km (Provisional quantity, if ordered) (Contractor delivery rate) (Principal paid material)",2,2,10,58,0.019417475728155338,0.005529244612834478,False
+accepted,P18,P18:WBS:85,"Unbound pavement, Wearing Course Type gravel for shoulders (Provisional quantity, if ordered) (Contractor installation rate) (Principal paid material)",0,0,0,0,0.0,0.0,False
+accepted,P18,P18:WBS:85.01,Ann Street,1,1,82,36,0.009708737864077669,0.062420080511484725,False
+accepted,P18,P18:WBS:85.02,Barberos Road,1,1,19,116,0.009708737864077669,0.0380298366090457,False
+accepted,P18,P18:WBS:85.03,Burke Offset Road,1,1,25,106,0.009708737864077669,0.04802273265451101,False
+accepted,P18,P18:WBS:85.04,Fabris Road,1,1,31,96,0.009708737864077669,0.05517404688609993,False
+accepted,P18,P18:WBS:85.05,Harvey Road,1,1,37,86,0.009708737864077669,0.059483779303812455,False
+accepted,P18,P18:WBS:85.06,Heards Road,1,1,43,76,0.009708737864077669,0.06095192990764859,False
+accepted,P18,P18:WBS:85.07,Mile Road,1,1,76,46,0.009708737864077669,0.07587023443049964,False
+accepted,P18,P18:WBS:85.08,Wallaman Falls Road,1,4,7,145,0.02427184466019417,0.017452048306890837,False
+accepted,P18,P18:WBS:85.09,Allingham Road,1,1,88,20,0.009708737864077669,0.033625384797537294,False
+accepted,P18,P18:WBS:85.1,Taylors Beach Road,3,1,66,56,0.019417475728155338,0.07772910253374378,False
+accepted,P18,P18:WBS:85.11,Taraken Road,1,1,49,66,0.009708737864077669,0.05957849869760833,False
+accepted,P18,P18:WBS:85.12,Amos Street,1,1,94,10,0.009708737864077669,0.013639592706606678,False
+accepted,P18,P18:WBS:85.13,Lannercost Extension Road,1,1,13,126,0.009708737864077669,0.025195358749704,False
+accepted,P18,P18:WBS:86,"Extra over Items MRS05-4151.2PS, MRS05-4153.2,MRS07-4203.2PS and 9005.2 for haulage in excess of 18 km (Provisional Quantity, if ordered) (m3 x km, single trip)",0,0,0,0,0.0,0.0,False
+accepted,P18,P18:WBS:87,BITUMEN SURFACING,0,0,0,0,0.0,0.0,False
+accepted,P18,P18:WBS:88,Seal Design by Contractor. Application rates are indicative only,1,1,8,8,0.009708737864077669,0.0005367432315099849,False
+accepted,P18,P18:WBS:89,"Preparation of the existing sealed surface for resealing (Provisional quantity, if ordered)",2,1,87,11,0.014563106796116504,0.00655931802036467,False
+accepted,P18,P18:WBS:9,Traffic Management Plan,1,1,1,2,0.009708737864077669,1.7759886336727446e-05,False
+accepted,P18,P18:WBS:90,"Enrichment spray, 60% bitumen emulsion, total 0.9L/m2 applied in 3 passes (Provisional quantity, if ordered)",1,1,88,10,0.009708737864077669,0.004735969689793985,False
+accepted,P18,P18:WBS:91,"Crack Filling (Provisional Quantity, if ordered)",1,1,89,9,0.009708737864077669,0.0028652616623253612,False
+accepted,P18,P18:WBS:92,"Strain alleviating fabric strips (Provisional Quantity, if ordered)",1,1,90,8,0.009708737864077669,0.000947193937958797,False
+accepted,P18,P18:WBS:93,"Primerseal, Grade AMC5, spray rate 1.5 L/m2, including supply of binder, all areas. (Seal design by Contractor) (Provisional Quantity, if ordered)",0,0,0,0,0.0,0.0,False
+accepted,P18,P18:WBS:93.01,Ann Street,2,2,91,7,0.019417475728155338,0.005588444233956903,False
+accepted,P18,P18:WBS:93.02,Barberos Road,1,2,22,7,0.014563106796116504,0.001610229694529955,False
+accepted,P18,P18:WBS:93.03,Burke Offset Road,1,2,28,7,0.014563106796116504,0.002557423632488752,False
+accepted,P18,P18:WBS:93.04,Fabris Road,1,2,34,7,0.014563106796116504,0.002983660904570211,False
+accepted,P18,P18:WBS:93.05,Harvey Road,1,2,40,7,0.014563106796116504,0.0034098981766516696,False
+accepted,P18,P18:WBS:93.06,Heards Road,1,2,46,7,0.014563106796116504,0.003836135448733128,False
+accepted,P18,P18:WBS:93.07,Mile Road,1,2,79,7,0.014563106796116504,0.006180440445181151,False
+accepted,P18,P18:WBS:93.08,Wallaman Falls Road,3,2,12,7,0.02427184466019417,0.0014760438866524587,False
+accepted,P18,P18:WBS:93.09,Allingham Road,1,2,91,7,0.014563106796116504,0.007032914989344068,False
+accepted,P18,P18:WBS:93.1,Taylors Beach Road,1,2,73,7,0.014563106796116504,0.007198673928486858,False
+accepted,P18,P18:WBS:93.11,Taraken Road,1,2,52,7,0.014563106796116504,0.004262372720814587,False
+accepted,P18,P18:WBS:93.12,Amos Street,1,2,97,7,0.014563106796116504,0.007459152261425527,False
+accepted,P18,P18:WBS:93.13,Lannercost Extension Road,1,2,16,7,0.014563106796116504,0.0017049490883258348,False
+accepted,P18,P18:WBS:94,"Second Seal C170 Bitumen, 1.5 L/m2 including binder (Seal design by Contractor) (Provisional Quantity, if ordered)",0,0,0,0,0.0,0.0,False
+accepted,P18,P18:WBS:94.01,Ann Street,1,2,92,5,0.014563106796116504,0.0034098981766516696,False
+accepted,P18,P18:WBS:94.02,Barberos Road,1,2,23,5,0.014563106796116504,0.0012076722708974663,False
+accepted,P18,P18:WBS:94.03,Burke Offset Road,1,2,29,5,0.014563106796116504,0.0013497513615912857,False
+accepted,P18,P18:WBS:94.04,Fabris Road,1,2,35,5,0.014563106796116504,0.0014918304522851054,False
+accepted,P18,P18:WBS:94.05,Harvey Road,1,2,41,5,0.014563106796116504,0.0016339095429789249,False
+accepted,P18,P18:WBS:94.06,Heards Road,1,2,47,5,0.014563106796116504,0.0017759886336727445,False
+accepted,P18,P18:WBS:94.07,Mile Road,1,2,80,5,0.014563106796116504,0.002557423632488752,False
+accepted,P18,P18:WBS:94.08,Wallaman Falls Road,2,2,14,5,0.019417475728155338,0.0015628699976320151,False
+accepted,P18,P18:WBS:94.09,Allingham Road,1,2,92,5,0.014563106796116504,0.0028415818138763913,False
+accepted,P18,P18:WBS:94.1,Taylors Beach Road,1,2,74,5,0.014563106796116504,0.003859815297182098,False
+accepted,P18,P18:WBS:94.11,Taraken Road,1,2,53,5,0.014563106796116504,0.001918067724366564,False
+accepted,P18,P18:WBS:94.12,Amos Street,1,2,98,5,0.014563106796116504,0.002983660904570211,False
+accepted,P18,P18:WBS:94.13,Lannercost Extension Road,1,2,17,5,0.014563106796116504,0.0010655931802036468,False
+accepted,P18,P18:WBS:95,"Spreading cover aggregate to Primerseal (14mm), spread rate 110 m2/m3, all areas (Seal design by Contractor) (Provisional Quantity, if ordered)",0,0,0,0,0.0,0.0,False
+accepted,P18,P18:WBS:95.01,Ann Street,2,0,92,0,0.009708737864077669,0.0,False
+accepted,P18,P18:WBS:95.02,Barberos Road,2,0,23,0,0.009708737864077669,0.0,False
+accepted,P18,P18:WBS:95.03,Burke Offset Road,1,0,29,0,0.0048543689320388345,0.0,False
+accepted,P18,P18:WBS:95.04,Fabris Road,1,0,35,0,0.0048543689320388345,0.0,False
+accepted,P18,P18:WBS:95.05,Harvey Road,1,0,41,0,0.0048543689320388345,0.0,False
+accepted,P18,P18:WBS:95.06,Heards Road,1,0,47,0,0.0048543689320388345,0.0,False
+accepted,P18,P18:WBS:95.07,Mile Road,1,0,80,0,0.0048543689320388345,0.0,False
+accepted,P18,P18:WBS:95.08,Wallaman Falls Road,1,0,13,0,0.0048543689320388345,0.0,False
+accepted,P18,P18:WBS:95.09,Allingham Road,1,0,92,0,0.0048543689320388345,0.0,False
+accepted,P18,P18:WBS:95.1,Taylors Beach Road,1,0,74,0,0.0048543689320388345,0.0,False
+accepted,P18,P18:WBS:95.11,Taraken Road,1,0,53,0,0.0048543689320388345,0.0,False
+accepted,P18,P18:WBS:95.12,Amos Street,1,0,98,0,0.0048543689320388345,0.0,False
+accepted,P18,P18:WBS:95.13,Lannercost Extension Road,1,0,17,0,0.0048543689320388345,0.0,False
+accepted,P18,P18:WBS:96,"Spreading cover aggregate to Second Seal (10mm), 130 m2/m3 (Seal design by Contractor) (Provisional Quantity, if ordered)",0,0,0,0,0.0,0.0,False
+accepted,P18,P18:WBS:96.01,Ann Street,1,0,93,0,0.0048543689320388345,0.0,False
+accepted,P18,P18:WBS:96.02,Barberos Road,1,0,24,0,0.0048543689320388345,0.0,False
+accepted,P18,P18:WBS:96.03,Burke Offset Road,1,0,30,0,0.0048543689320388345,0.0,False
+accepted,P18,P18:WBS:96.04,Fabris Road,1,0,36,0,0.0048543689320388345,0.0,False
+accepted,P18,P18:WBS:96.05,Harvey Road,1,0,42,0,0.0048543689320388345,0.0,False
+accepted,P18,P18:WBS:96.06,Heards Road,1,0,48,0,0.0048543689320388345,0.0,False
+accepted,P18,P18:WBS:96.07,Mile Road,1,0,81,0,0.0048543689320388345,0.0,False
+accepted,P18,P18:WBS:96.08,Wallaman Falls Road,1,0,15,0,0.0048543689320388345,0.0,False
+accepted,P18,P18:WBS:96.09,Allingham Road,1,0,93,0,0.0048543689320388345,0.0,False
+accepted,P18,P18:WBS:96.1,Taylors Beach Road,1,0,75,0,0.0048543689320388345,0.0,False
+accepted,P18,P18:WBS:96.11,Taraken Road,1,0,54,0,0.0048543689320388345,0.0,False
+accepted,P18,P18:WBS:96.12,Amos Street,1,0,99,0,0.0048543689320388345,0.0,False
+accepted,P18,P18:WBS:96.13,Lannercost Extension Road,1,0,18,0,0.0048543689320388345,0.0,False
+accepted,P18,P18:WBS:97,"Supply of Primerseal cover aggregate, precoated, 14 mm nominal size, spread rate 110 m2/m3, all areas (Seal design by Contractor) (Provisional Quantity, if ordered)",1,2,8,9,0.014563106796116504,0.0010734864630199698,False
+accepted,P18,P18:WBS:98,"Supply of Second Seal cover aggregate, precoated, 10 mm nominal size,spread rate 130 m2/m3 (Seal design by Contractor) (Provisional Quantity)",1,1,9,6,0.009708737864077669,0.0004183439892651354,False
+accepted,P18,P18:WBS:99,"ROAD FURNITURE, ROAD SIGNS, LINE MARKING, DELINEATION",0,0,0,0,0.0,0.0,False

@@ -1,0 +1,16 @@
+{
+  "streamlit_app.py": "f64def8fecf19030511500f262da90bf31ec0c4c96ddfc433d82c01a85a295a3",
+  "EXPERT_REVIEW_QUESTIONNAIRE.md": "2278989c9cf2dd3cc379dc4ca2320bd3ada6fd893a90ad4e68ebeccb8a187f02",
+  "tests/test_streamlit_app.py": "8c3179f1e3cc9a1beebc2c2be282a58b43bc8578a1c40c90c020ef2b3f7b49eb",
+  "data/processed/projects.csv": "7debbc40aa6d16b26abb893888b97ee05dca0ef16e0c5c1ba777a06dffddf04d",
+  "data/processed/graph_task_features.csv": "e4d1cfb58db59241a80ae00f117d82cc5f171102d16d72d2492f2bf97fb4f9dd",
+  "outputs/metrics/explanation_case_bundle.json": "4ae30e9677ada983161c2bf0f7898e0baa2fe9e568ca44816d0243a1d49bafd7",
+  "outputs/metrics/graph_project_structure.csv": "a0a9791ef6f4002c5cc05ca47fa2c62a071788833070c21ea8299dc128301997",
+  "outputs/metrics/relational_explanation_evidence.csv": "518f64cd0ed38b0f09f48c1f603f81e53cd146c092de16b05facc14ee6750a74",
+  "outputs/metrics/shap_local_contributions.csv": "5c8a2cb0c06ec64a8f9af84e52705328d9bd4120b6aaefa13547981cbadd1bff",
+  "outputs/metrics/ml_test_metrics.csv": "e8b98f162d394e652e52c0d1ba4e8e13ea9fb7456781852a1f6aea8fb15e3cad",
+  "outputs/metrics/ml_confusion_matrices.csv": "330f3cab615e927e95e01e667fd9c48656dd8c1ae2e7b0879f72ef29d563b8f9",
+  "outputs/metrics/demo_evaluation_summary.csv": "0f4433b8db6fe62b48b737dc900b5a8b576f8d2b73d3279d2b8812223df6beb3",
+  "outputs/metrics/demo_research_objective_coverage.csv": "9d6120eedafb31f4cf8ccaaba445ba58c7ba0dd341996a7b48b431c8b6def19d",
+  "outputs/metrics/dependency_human_review.csv": "9872b27c05310bf356a1fb4a8dbfe443ad000ed27f18e7f751a4b1be986bc630"
+}

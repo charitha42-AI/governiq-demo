@@ -1,0 +1,8 @@
+notebook,checks,passed,evidence_file,scope
+01 preparation,23,23,data_preparation_validation.csv,automated implementation checks; not independent source or expert validation
+01 reconciliation fixtures,12,12,dependency_reconciliation_rule_tests.csv,automated implementation checks; not independent source or expert validation
+02 graph,17,17,kg_validation.csv,automated implementation checks; not independent source or expert validation
+03 graph analysis,14,14,graph_analysis_validation.csv,automated implementation checks; not independent source or expert validation
+04 modelling and tuning,20,20,ml_validation.csv,automated implementation checks; not independent source or expert validation
+05 explainability,15,15,explainability_validation.csv,automated implementation checks; not independent source or expert validation
+06 demonstration,9,9,demo_validation.csv,automated implementation checks; not independent source or expert validation
